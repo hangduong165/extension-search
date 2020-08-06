@@ -1,0 +1,2320 @@
+<!DOCTYPE html>
+<html id="mainHtml" itemtype="http://schema.org/NewsArticle" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+ <head id="Head1">
+  <meta content="0XfnGmX6qI2Ehl0uM3LjCuZvqZbp3BJkTj1xNVul2H8" name="google-site-verification"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? | VTV.VN
+  </title>
+  <meta content="tạp chí kinh tế,Trung tâm Tin tức VTV24,dịp Tết Nguyên Đán,dữ liệu lớn,mô hình kinh doanh,trợ lý ảo,Cuộc chiến nền tảng" id="metakeywords" name="keywords"/>
+  <meta content="tạp chí kinh tế,Trung tâm Tin tức VTV24,dịp Tết Nguyên Đán,dữ liệu lớn,mô hình kinh doanh,trợ lý ảo,Cuộc chiến nền tảng" id="newskeywords" name="news_keywords"/>
+  <meta content="VTV.vn - Tạp ch&amp;#237; kinh tế đặc biệt 2019 xoay quanh h&amp;#224;nh tr&amp;#236;nh kh&amp;#225;m ph&amp;#225; trước c&amp;#226;u hỏi: C&amp;#243; thế lực n&amp;#224;o đ&amp;#243; đang hủy diệt những m&amp;#244; h&amp;#236;nh truyền thống?" id="metaDes" name="description"/>
+  <meta content="vi" http-equiv="Content-Language"/>
+  <meta content="vi" name="Language"/>
+  <meta content="Global" name="distribution"/>
+  <meta content="1 DAYS" name="REVISIT-AFTER"/>
+  <meta content="index,follow,all" id="metaRobots" name="robots"/>
+  <meta content="Copyright © 2015 by VTV.VN" name="copyright"/>
+  <meta content="GENERAL" name="RATING"/>
+  <meta content="BAO DIEN TU VTV" name="GENERATOR"/>
+  <meta content="BAO DIEN TU VTV" name="author"/>
+  <meta content="864272056978059" property="fb:app_id"/>
+  <meta content="169844909862791" property="fb:pages"/>
+  <meta content="vi_VN" itemprop="inLanguage" property="og:locale"/>
+  <meta content="Vtv" name="apple-mobile-web-app-title"/>
+  <meta content="Vtv" name="application-name"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv32.png" rel="shortcut icon" type="image/png"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv128.png" rel="apple-touch-icon" sizes="128x128"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="https://vtv1.mediacdn.vn/web_images/vtv16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="https://vtv1.mediacdn.vn/" rel="dns-prefetch"/>
+  <link href="https://video-thumbs.mediacdn.vn/" rel="dns-prefetch"/>
+  <meta content="Article" property="og:type"/>
+  <meta content="tạp chí kinh tế,Trung tâm Tin tức VTV24,dịp Tết Nguyên Đán,dữ liệu lớn,mô hình kinh doanh,trợ lý ảo,Cuộc chiến nền tảng" property="article:tag"/>
+  <meta content="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào?" property="og:title"/>
+  <meta content="VTV.vn - Tạp chí kinh tế đặc biệt 2019 xoay quanh hành trình khám phá trước câu hỏi: Có thế lực nào đó đang hủy diệt những mô hình truyền thống?" property="og:description"/>
+  <meta content="tạp chí kinh tế,Trung tâm Tin tức VTV24,dịp Tết Nguyên Đán,dữ liệu lớn,mô hình kinh doanh,trợ lý ảo,Cuộc chiến nền tảng"/>
+  <meta content="https://vtv1.mediacdn.vn/fb_thumb_bn/2020/1/23/posterexport3-15797515375541307719938.jpg" property="og:image"/>
+  <meta content="https://vtv.vn/news-202001231056165.htm" property="og:url"/>
+  <meta content="Truyền hình" property="article:section"/>
+  <meta content="2020-01-23T13:28:38+07:00" property="article:published_time"/>
+  <meta content="2020-01-23T13:28:38+07:00" property="article:modified_time"/>
+  <meta content="2020-01-23T13:28:38+07:00" name="pubdate"/>
+  <meta content="2020-01-23T13:28:38+07:00" name="lastmod"/>
+  <meta content="2020-01-23T13:28:38+07:00"/>
+  <meta content="BAO DIEN TU VTV" property="og:site_name"/>
+  <meta content="baodientuvtv" property="article:author"/>
+  <link href="https://vtv.vn/truyen-hinh/tap-chi-kinh-te-dac-biet-2019-se-de-cap-toi-nhung-noi-dung-hap-dan-nao-202001231056165.htm" rel="canonical">
+   <script type="text/javascript">
+    var appSettings = {
+        domain: "https://vtv.vn",
+        ajaxDomain: "https://vtvapi3.cnnd.vn",
+        ajaxDomain2: "https://vtvapi2.cnnd.vn",
+        ajaxDomain3: "https://vtvapi1.cnnd.vn",
+        apiDomain: "https://vtvapi3.cnnd.vn",
+        signalrHost: "https://sig2.cnnd.vn/",
+        
+        sharefbApiDomain:"https://sharefb.cnnd.vn",
+        videoplayer:"https://vcplayer.mediacdn.vn",
+        allowSignalr:true,
+        videoImageDomain:"https://video-thumbs.mediacdn.vn",
+        imageStorageDomain:"https://vtv1.mediacdn.vn",
+        isStopRequestForWC:false
+    };
+   </script>
+   <script async="" src="https://adminplayer.sohatv.vn/resource/init-script/playerInitScript.js" type="text/javascript">
+   </script>
+   <script async="" src="https://ovp.sohatv.vn/lib/initPlayer/OVPPlayerEmbedScript.js">
+   </script>
+   <script type="text/javascript">
+    var _ADM_Channel='%2ftruyen-hinh%2fdetail%2f';
+   </script>
+   <script>
+    var SDomain = appSettings.ajaxDomain;
+        var liveDomain = appSettings.domain;
+   </script>
+   <link href="https://vtv1.mediacdn.vn/web_css/detail.bundle.07072020.min.css" rel="stylesheet">
+    <script async="" src="https://vtv1.mediacdn.vn/web_js/detail.bundle.13112019.min.js" type="text/javascript">
+    </script>
+    <script src="//media1.admicro.vn/js_boxapp/tagsponsorz_473691.js">
+    </script>
+    <style>
+     .VCSortableInPreviewMode[type="BoxTable"] td, .VCSortableInPreviewMode[type="BoxTable"] tr, .VCSortableInPreviewMode[type="BoxTable"] th, .VCSortableInPreviewMode[type="BoxTable"] thead {
+            border-width: 1px;
+            border-style: solid;
+        }
+
+        a.fancybox-close {
+            top: -10px;
+        }
+        .VCSortableInPreviewMode[type=highlightquote][data-type="6"] .quoteauthor{
+            color: #888;
+            font-family: SFD-Semibold !important;
+        }
+
+
+
+        /*body{
+            background:#fff;
+        }
+        body .detailpage:not(.ps_anh){
+            background:#f8f8f8;
+        }*/
+    </style>
+    <script>
+     (function () {
+        var img = new Image();
+        var pt = (document.location.protocol == "https:" ? "https:" : "http:");
+        img.src = pt + '//lg1.logging.admicro.vn/ftest?url=' + encodeURIComponent(document.URL);
+        var img1 = new Image();
+        img1.src = pt + '//amcdn.vn/ftest?url=' + encodeURIComponent(document.URL);
+    })();
+    </script>
+    <script async="" src="https://static.amcdn.vn/tka/cdn.js" type="text/javascript">
+    </script>
+    <script async="" src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript">
+    </script>
+    <script>
+     function setCookieMobileRedirect(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        var expires = "expires=" + d.toUTCString();
+        document.cookie = cname + "=" + cvalue + "; " + expires;
+    }
+    function CheckMobileRedirect() {
+        try {
+            //check session on client
+            if (typeof (Storage) !== "undefined") {
+                var session = sessionStorage.getItem("VisitSession");
+                if (session == null) {
+                    //phien lam viec moi
+                    sessionStorage.setItem("VisitSession", "1");
+
+                    var hash = window.location.hash;
+                    if (hash == "#first") {
+                        //link được redirect từ bản mobile sang thì không làm gì.
+                        window.history.replaceState("", "", window.location.href.split('#')[0]);
+                    }
+                    else {
+                        //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                        setCookieMobileRedirect("browser", "", -1);
+                        //reload lại trang để hệ thống chuyển về bản mobile.
+                        if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry|Windows Phone|webOS)/i) != null) {
+                            window.location = window.location.href;
+                        }
+                    }
+                } else {
+                    //van dang o phien lam viec cu thi khong lam gi.   
+                }
+            }
+        } catch (e) {
+            console.log("Lỗi check mobile redirect: " + e);
+        }
+
+    }
+    CheckMobileRedirect();
+    </script>
+    <script type="text/javascript">
+     (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments);
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+        m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-4263013-38', 'auto');
+    ga('send', 'pageview');
+    </script>
+    <script type="text/javascript">
+     var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "17793284" }), function () {
+        var c = document.createElement("script"), e = document.getElementsByTagName("script")[0];
+        c.async = !0, c.src = ("https:" == document.location.protocol ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js", e.parentNode.insertBefore(c, e);
+    }();
+    </script>
+    <!-- admicro async-->
+    <script type="text/javascript">
+     var admicroAD = admicroAD || {};
+    admicroAD.unit = admicroAD.unit || [];
+    </script>
+    <script type="text/javascript">
+     (function () {
+            var a = document.createElement("script");
+            a.async = !0;
+            a.type = "text/javascript";
+            a.onerror = function () { window.admerrorload = true; };
+            a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/admcore.js";
+            var b = document.getElementsByTagName("script")[0];
+            b.parentNode.insertBefore(a, b);
+        })();
+    </script>
+    <!-- GOOGLE SEARCH STRUCTURED DATA FOR ARTICLE -->
+    <script type="application/ld+json">
+     {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://vtv.vn/truyen-hinh/tap-chi-kinh-te-dac-biet-2019-se-de-cap-toi-nhung-noi-dung-hap-dan-nao-202001231056165.htm"
+        },
+        "headline": "Tạp ch&#237; kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn n&#224;o?",
+        "description": "VTV.vn - Tạp ch&#237; kinh tế đặc biệt 2019 xoay quanh h&#224;nh tr&#236;nh kh&#225;m ph&#225; trước c&#226;u hỏi: C&#243; thế lực n&#224;o đ&#243; đang hủy diệt những m&#244; h&#236;nh truyền thống?",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://vtv1.mediacdn.vn/zoom/700_438/2020/1/23/posterexport3-15797515375541307719938.jpg",
+            "width" : 700,
+            "height" : 438
+        },
+        "datePublished": "2020-01-23T13:28:00+07:00",
+        "dateModified": "2020-01-23T13:28:00+07:00",
+        "author": {
+            "@type": "Person",
+            "name": "H.T"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "vtv.vn",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://vtv1.mediacdn.vn/web_images/vtv60.png",
+                "width": 60,
+                "height": 60
+            }
+        }
+    }
+    </script>
+    <!-- GOOGLE BREADCRUMB STRUCTURED DATA -->
+    <script type="application/ld+json">
+     {
+                "@context": "http://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://vtv.vn",
+                        "name": "Trang chủ"
+                    }
+                },{
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://vtv.vn/truyen-hinh.htm",
+                        "name": "Truyền hình"
+                    }
+                }
+                
+                ]
+            }
+    </script>
+   </link>
+  </link>
+ </head>
+ <body>
+  <!-- Load Facebook SDK for JavaScript -->
+  <form action="" id="form1" method="post">
+   <div class="aspNetHidden">
+    <input id="hdTitle" name="hdTitle" type="hidden" value="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào?"/>
+    <input id="hdSapo" name="hdSapo" type="hidden" value="VTV.vn - Tạp chí kinh tế đặc biệt 2019 xoay quanh hành trình khám phá trước câu hỏi: Có thế lực nào đó đang hủy diệt những mô hình truyền thống?"/>
+    <input id="hdZoneId" name="hdZoneId" type="hidden" value="88"/>
+    <input id="hdZoneParentId" name="hdZoneParentId" type="hidden" value="88"/>
+    <input id="hdZoneUrl" name="hdZoneUrl" type="hidden" value="truyen-hinh"/>
+    <input id="hdZoneParentUrl" name="hdZoneParentUrl" type="hidden" value="truyen-hinh"/>
+    <input id="hdNewsTitle" name="hdNewsTitle" type="hidden" value="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào?"/>
+    <input id="hdNewsId" name="hdNewsId" type="hidden" value="202001231056165"/>
+    <input id="hdUrl" name="hdUrl" type="hidden" value="/truyen-hinh/tap-chi-kinh-te-dac-biet-2019-se-de-cap-toi-nhung-noi-dung-hap-dan-nao-202001231056165.htm"/>
+    <input id="hdShareUrl" name="hdShareUrl" type="hidden" value="https://vtv.vn/news-202001231056165.htm"/>
+    <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwUJNzM1NzY2NTgzZGRs7hF+mOR5Npi5BEYwAAiZ0eIbFg=="/>
+   </div>
+   <div id="admWrapsite">
+    <style>
+     .header .left .logo.noel{background: url(https://vtv1.mediacdn.vn/web_images/noel-vtv-2019.gif) no-repeat 165px -6px;width: 622px;background-size: 458px 49px;top: 0;}
+     @media screen and /*!fix*/ (max-width: 1279px) {
+        .header .left .logo.noel{
+            background: url(https://vtv1.mediacdn.vn/web_images/noel-vtv-2019.gif) no-repeat 165px 1px;
+            width: 445px;
+            background-size: 275px 42px;
+            left: 17px;
+
+        }
+    }
+     .header .left .logo.nammoi2020{
+         left: -86px;
+    height: auto;width:406px;
+    top: 12px;
+     }
+     .header .left .logo.nammoi2020 img{
+         width:218px;
+     }
+    </style>
+    <style>
+     .header .vtvgov{float: right;margin-top: 7px;margin-right: 10px;color: #fff;font: bold 10px/15px arial;display: inline-block;border: 1px solid #ad040b;border-radius: 5px;padding: 7px 6px 7px 4px;}
+    .header .hdicon{background-position: -250px -8px;width: 15px;height: 14px;float:left;margin-top: 1px;    margin-right: 4px;}
+    .menu_chinh .menudown .list_menu{width: 175px;margin-left: 10px;}
+    .tvandvideotop ul{ float: left;}
+    .menu_chinh ul li a{padding:0 9px;}
+    .daitruyenhinh{
+        width: 190px;
+        height: 81px;
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-position: -136px -80px;
+        position: absolute;
+        right: 0;
+    }
+    .header .left .logo.nammoi2020 .daitruyenhinh{
+        margin-top:-7px;
+    }
+    /*tet .header .left .logo{top:0}*/
+    </style>
+    <div class="header">
+     <div class="wp1160">
+      <div class="header_top">
+       <div class="left">
+        <a class="logo" href="/" title="Báo điện tử Đài Truyền Hình Việt Nam">
+         <img height="81" src="https://vtv1.mediacdn.vn/web_images/trangchulogo2018.png"/>
+         <span class="sprite daitruyenhinh">
+         </span>
+        </a>
+       </div>
+       <div class="right">
+        <div class="search">
+         <div contenteditable="true" id="txtSearch">
+         </div>
+         <a class="sprite btsearch" href="javascript:void(0);" id="btnSearch" rel="nofollow">
+         </a>
+        </div>
+        <div class="menu_top">
+         <ul>
+          <li class="hideonsearch">
+           <a class="sF sprite" href="https://www.facebook.com/baodientuvtv" rel="nofollow" target="_blank" title="Facebook vtv.vn">
+           </a>
+          </li>
+         </ul>
+        </div>
+        <a href="http://english.vtv.vn/" rel="nofollow" target="_blank" title="English version">
+         <i class="iconbantienganh sprite">
+         </i>
+        </a>
+        <a class="vtvgov mgr10" href="https://vtv.gov.vn" rel="nofollow" target="_blank">
+         <span class="hdicon sprite">
+         </span>
+         Cổng thông tin VTV
+        </a>
+        <a class="videohot sprite" href="/truyen-hinh-truc-tuyen.htm" title="Video, truyền hình trực tuyến">
+        </a>
+        <a class="a_mobile_ico" href="javascript:;;" rel="nofollow">
+         <i class="mobile_ico">
+         </i>
+        </a>
+       </div>
+      </div>
+      <div class="menu_chinh">
+       <ul>
+        <li class="home">
+         <a class="sprite" href="/" rel="home" title="Trang chủ">
+         </a>
+        </li>
+        <li>
+         <a href="/chinh-tri.htm" title="Chính trị">
+          CHÍNH TRỊ
+         </a>
+        </li>
+        <li>
+         <a href="/xa-hoi.htm" title="Xã hội">
+          XÃ HỘI
+         </a>
+        </li>
+        <li>
+         <a href="/phap-luat.htm" title="Pháp luật">
+          PHÁP LUẬT
+         </a>
+        </li>
+        <li>
+         <a href="/the-gioi.htm" title="Thế giới">
+          THẾ GIỚI
+         </a>
+        </li>
+        <li>
+         <a href="/kinh-te.htm" title="Kinh tế">
+          KINH TẾ
+         </a>
+        </li>
+        <li>
+         <a href="/the-thao.htm" title="Thể thao">
+          THỂ THAO
+         </a>
+        </li>
+        <li>
+         <a href="/truyen-hinh.htm" title="Truyền hình">
+          TRUYỀN HÌNH
+         </a>
+        </li>
+        <li>
+         <a href="/van-hoa-giai-tri.htm" title="Văn hóa - Giải trí">
+          GIẢI TRÍ
+         </a>
+        </li>
+        <li>
+         <a href="/suc-khoe.htm" title="Sức khỏe">
+          SỨC KHỎE
+         </a>
+        </li>
+        <li>
+         <a href="/cong-nghe.htm" title="Công nghệ">
+          CÔNG NGHỆ
+         </a>
+        </li>
+        <li>
+         <a href="/giao-duc.htm" title="Giáo dục">
+          GIÁO DỤC
+         </a>
+        </li>
+        <li>
+         <a href="/tam-long-viet.htm" title="Tấm lòng Việt">
+          TẤM LÒNG VIỆT
+         </a>
+        </li>
+        <li class="btmenu end btmenu2">
+         <a class="sprite" href="javascript:;" rel="nofollow">
+         </a>
+         <div class="menudown">
+          <div class="list_menu">
+           <p>
+            <a class="nametop" href="javascript:void(0);" rel="nofollow">
+             TIN TỨC
+            </a>
+           </p>
+           <p>
+           </p>
+           <p>
+            <a class="nametop1" href="/chinh-tri.htm" title="Chính trị">
+             <span>
+             </span>
+             Chính trị
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/xa-hoi.htm" title="Xã hội">
+             <span>
+             </span>
+             Xã hội
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/trong-nuoc/phap-luat.htm" title="Pháp luật">
+             <span>
+             </span>
+             Pháp luật
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/the-gioi.htm" title="Tin thế giới">
+             Tin Thế Giới
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/the-gioi/tin-tuc.htm" title="Tin tức thế giới">
+             <span>
+             </span>
+             Tin tức
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/the-gioi/the-gioi-do-day.htm" title="Thế giới đó đây">
+             <span>
+             </span>
+             Thế giới đó đây
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/kinh-te.htm" title="Kinh tế">
+             Kinh Tế
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/kinh-te/bat-dong-san.htm" title="Bất động sản">
+             <span>
+             </span>
+             Bất động sản
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/kinh-te/tai-chinh.htm" title="Tài chính">
+             <span>
+             </span>
+             Tài chính
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/kinh-te/thi-truong.htm" title="Thị trường">
+             <span>
+             </span>
+             Thị trường
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/kinh-te/tieu-dung.htm" title="Tiêu dùng">
+             <span>
+             </span>
+             Tiêu dùng
+            </a>
+           </p>
+          </div>
+          <div class="list_menu">
+           <p>
+            <a class="nametop" href="javascript:void(0);" rel="nofollow">
+             VTV
+            </a>
+           </p>
+           <p>
+            <a class="nametop1" href="/truyen-hinh.htm" title="Truyền hình">
+             Truyền Hình
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/truyen-hinh/phim-vtv.htm" title="Phim VTV">
+             <span>
+             </span>
+             Phim VTV
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/truyen-hinh/hau-truong.htm" title="Hậu trường">
+             <span>
+             </span>
+             Hậu trường
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/truyen-hinh/nhan-vat.htm" title="Nhân vật">
+             <span>
+             </span>
+             Nhân vật
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/truyen-hinh/goc-khan-gia.htm" title="Khán giả">
+             <span>
+             </span>
+             Góc khán giả
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/chuyen-dong-24h.htm" title="Chuyển động 24h">
+             <span>
+             </span>
+             Chuyển động 24h
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/van-de-hom-nay.htm" title="Vấn đề hôm nay">
+             <span>
+             </span>
+             Vấn đề hôm nay
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/viet-nam-va-the-gioi.htm" title="Việt Nam và thế giới">
+             Việt Nam &amp; thế giới
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/goc-khan-gia.htm" title="Góc khán giả">
+             Góc khán giả
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/chao-buoi-sang.htm" title="Chào buổi sáng">
+             Chào buổi sáng
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/viet-nam-hom-nay.htm" title="Việt Nam hôm nay">
+             Việt Nam hôm nay
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+          </div>
+          <div class="list_menu">
+           <p>
+            <a class="nametop" href="javascript:void(0);" rel="nofollow">
+             ĐỜI SỐNG
+            </a>
+           </p>
+           <p>
+            <a class="nametop1" href="/van-hoa-giai-tri.htm" title="Văn hóa - giải trí">
+             Văn Hóa - Giải Trí
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/van-hoa-giai-tri/dien-anh.htm" title="Điện ảnh">
+             <span>
+             </span>
+             Điện ảnh
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/van-hoa-giai-tri/am-nhac.htm" title="Âm nhạc">
+             <span>
+             </span>
+             Âm nhạc
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/doi-song.htm" title="Đời sống">
+             Đời sống
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/doi-song/du-lich.htm" title="Du lịch">
+             <span>
+             </span>
+             Du lịch
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/doi-song/lam-dep.htm" title="Làm đẹp">
+             <span>
+             </span>
+             Làm đẹp
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/doi-song/gioi-tinh.htm" title="Giới tính">
+             <span>
+             </span>
+             Giới tính
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/suc-khoe.htm" title="Sức khỏe">
+             Sức khỏe
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/tam-long-viet.htm" title="Tấm lòng Việt">
+             Tấm lòng Việt
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+          </div>
+          <div class="list_menu">
+           <p>
+            <a class="nametop" href="/the-thao.htm" title="Thể thao">
+             THỂ THAO
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/the-thao/bong-da-trong-nuoc.htm" title="Bóng đá Việt Nam">
+             <span>
+             </span>
+             Bóng đá Việt Nam
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/the-thao/bong-da-quoc-te.htm" title="Bóng đá quốc tế">
+             <span>
+             </span>
+             Bóng đá quốc tế
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/the-thao/tennis.htm" title="Tennis">
+             <span>
+             </span>
+             Quần vợt
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/the-thao/video.htm" title="Video">
+             <span>
+             </span>
+             Video
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/the-thao/cac-mon-khac.htm" title="Các môn khác">
+             <span>
+             </span>
+             Các môn khác
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/the-thao/ben-le.htm" title="Bên lề">
+             <span>
+             </span>
+             Bên lề
+            </a>
+           </p>
+          </div>
+          <div class="list_menu" style="width: 180px">
+           <p>
+            <a class="nametop" href="/chuong-trinh-dac-sac.htm" title="Chương trình đặc sắc">
+             CHƯƠNG TRÌNH ĐẶC SẮC
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/chuong-trinh-dac-sac/su-kien-va-binh-luan.htm" title="Sự kiện &amp; bình luận">
+             <span>
+             </span>
+             Sự kiện &amp; bình luận
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/chuong-trinh-dac-sac/toan-canh-the-gioi.htm" title="Toàn cảnh thế giới">
+             <span>
+             </span>
+             Toàn cảnh thế giới
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/chuong-trinh-dac-sac/tap-chi-kinh-te-cuoi-tuan.htm" title="Tạp chí kinh tế cuối tuần">
+             <span>
+             </span>
+             Tạp chí kinh tế cuối tuần
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/chuong-trinh-dac-sac/dang-trong-cuoc-song-hom-nay.htm" title="Đảng trong cuộc sống hôm nay">
+             <span>
+             </span>
+             Đảng trong cuộc sống hôm nay
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/chuong-trinh-dac-sac/moi-ngay-mot-cuon-sach.htm" title="Mỗi ngày một cuốn sách">
+             <span>
+             </span>
+             Mỗi ngày một cuốn sách
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/chuong-trinh-dac-sac/song-moi.htm" title="Sống mới">
+             <span>
+             </span>
+             Sống mới
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/chuong-trinh-dac-sac/nhip-song-do-thi.htm" title="Nhịp sống đô thị">
+             <span>
+             </span>
+             Nhịp sống đô thị
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/truc-tuyen.htm" title="Giao lưu trực tuyến">
+             <span>
+             </span>
+             Giao lưu trực tuyến
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/lich-phat-song.htm" title="Lịch Phát Sóng">
+             <span>
+             </span>
+             Lịch phát sóng
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/magazine.htm" title="Magazine">
+             <span>
+             </span>
+             Magazine
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/doi-song.htm" title="Đời sống">
+             <span>
+             </span>
+             Đời sống
+            </a>
+           </p>
+          </div>
+          <div class="list_menu list_menu_end">
+           <p>
+            <a class="nametop" href="javascript:void(0);" rel="nofollow">
+             KHÁC
+            </a>
+           </p>
+           <p>
+            <a class="nametop1" href="/cong-nghe.htm" title="Công nghệ">
+             Công Nghệ
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/cong-nghe/san-pham.htm" title="Sản phẩm">
+             <span>
+             </span>
+             Sản phẩm
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/cong-nghe/thi-truong.htm" title="Thị trường">
+             <span>
+             </span>
+             Thị trường
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/cong-nghe/tu-van.htm" title="Tư vấn">
+             <span>
+             </span>
+             Tư vấn
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/giao-duc.htm" title="Giáo dục">
+             Giáo Dục
+             <span class="sprite ionright">
+             </span>
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/giao-duc/tu-van.htm" title="Tư vấn giáo dục">
+             <span>
+             </span>
+             Tư vấn
+            </a>
+           </p>
+           <p>
+            <a class="nametop2" href="/giao-duc/hoc-truc-tuyen.htm" title="Học trực tuyến">
+             <span>
+             </span>
+             Học trực tuyến
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="http://vtv8.vtv.vn" title="VTV8">
+             <span>
+             </span>
+             VTV8
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="http://vtv9.vtv.vn" title="VTV9">
+             <span>
+             </span>
+             VTV9
+            </a>
+           </p>
+           <p class="border">
+            <a class="nametop1" href="/lien-he-toa-soan.htm" title="VTV6">
+             <span>
+             </span>
+             Liên hệ tòa soạn
+            </a>
+           </p>
+          </div>
+          <span class="submenu_shadow">
+          </span>
+         </div>
+         <style>
+          .menu_chinh .menudown .list_menu p{
+        margin-bottom:0 !important;
+    }
+         </style>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="wp1160">
+    </div>
+    <div class="adm-mainsection">
+     <div class="ads-sponsor type-2 adm-hidden">
+      <div id="admsectionlogo">
+      </div>
+      <div id="admsection1">
+      </div>
+      <div id="admsection2">
+      </div>
+      <div id="admsection3">
+      </div>
+     </div>
+     <div class="wp1160">
+      <div class="box-ads-top wp1160">
+       <div id="admzone12359">
+       </div>
+       <script>
+        admicroAD.unit.push(function () { admicroAD.show('admzone12359') });
+       </script>
+      </div>
+      <div class="w1156 detailpage">
+       <div class="submenu_detail">
+        <div class="left">
+         <p class="tenmuc">
+          <a href="/truyen-hinh.htm" title="Truyền hình">
+           Truyền hình
+          </a>
+          <i class="sprite">
+          </i>
+         </p>
+        </div>
+        <div class="right">
+         <div class="login">
+          <div class="login" id="loginInfo">
+           <p class="dangnhap">
+            <i class="icon sprite">
+            </i>
+            <a href="javascript:;" id="btnLogin" rel="nofollow" title="Đăng nhập">
+             Đăng nhập
+            </a>
+           </p>
+           <span class="border sprite">
+           </span>
+           <p class="dangky">
+            <i class="sprite">
+            </i>
+            <a href="javascript:;" id="btnRegister" rel="nofollow" title="Đăng ký">
+             Đăng ký
+            </a>
+           </p>
+           <span class="border sprite">
+           </span>
+          </div>
+         </div>
+         <a class="sprite rss_icon" href="/rss.htm" rel="nofollow" title="Link RSS">
+         </a>
+        </div>
+       </div>
+       <div class="clearfix">
+       </div>
+       <div class="detail_left border_right adm-leftsection">
+        <div class="w638 mgl96">
+         <div class="noidung">
+          <h1 class="title_detail" data-field="title">
+           Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào?
+          </h1>
+          <p class="author">
+           H.T
+           <span class="time">
+            -
+            <i class="icon_time sprite">
+            </i>
+            Thứ năm, ngày 23/01/2020 13:28 GMT+7
+           </span>
+          </p>
+          <div class="chiase clearfix chiase_top">
+           <div class="facebook_bt fbLikeWrap mgr5">
+            <span class="fl vtv-fb-like sprite mgr5">
+            </span>
+            <span class="fl vtv-fb-share sprite">
+            </span>
+            <div class="fb-like hidden" data-action="like" data-height="25" data-href="https://vtv.vn/news-202001231056165.htm" data-layout="button" data-share="true" data-show-faces="false" data-width="580">
+            </div>
+           </div>
+           <div class="linkhay_bt">
+            <a class="sprite" href="http://embed2.linkhay.com/actions/link/post/embed.php?source_url=https://vtv.vn/news-202001231056165.htm" rel="nofollow" target="_blank" title="Linkhay">
+            </a>
+           </div>
+           <div class="mail_bt">
+            <a class="sprite" href="javascript:location.href='mailto:?SUBJECT='+document.title+'&amp;BODY='+escape(location.href);" rel="nofollow" title="Gửi mail">
+            </a>
+           </div>
+           <div class="fbSendWrap fr mgr5">
+            <div class="facebook_sent sprite">
+            </div>
+            <div class="fb-send hidden" data-colorscheme="light" data-href="https://vtv.vn/news-202001231056165.htm">
+            </div>
+           </div>
+          </div>
+          <img alt="" class="news-avatar" data-field="firstphoto" src="https://vtv1.mediacdn.vn/thumb_w/650/2020/1/23/posterexport3-15797515375541307719938.jpg" width="650"/>
+          <h2 class="sapo" data-field="sapo">
+           VTV.vn - Tạp chí kinh tế đặc biệt 2019 xoay quanh hành trình khám phá trước câu hỏi: Có thế lực nào đó đang hủy diệt những mô hình truyền thống?
+          </h2>
+          <div class="tinlienquan clearfix">
+           <ul>
+            <li>
+             <i class="icon_li">
+             </i>
+             <a data-nocheck="1" href="/truyen-hinh/tap-chi-kinh-te-dac-biet-2019-tung-trailer-bi-an-he-lo-ve-dai-chien-dot-tien-20200120162351171.htm" title="Tạp chí kinh tế đặc biệt 2019 tung trailer bí ẩn, hé lộ về Đại chiến Đốt tiền">
+              Tạp chí kinh tế đặc biệt 2019 tung trailer bí ẩn, hé lộ về Đại chiến Đốt tiền
+             </a>
+            </li>
+            <li>
+             <i class="icon_li">
+             </i>
+             <a data-nocheck="1" href="/truyen-hinh/tap-chi-kinh-te-dac-biet-se-tro-lai-trong-dip-tet-canh-ty-2020-20200120112249468.htm" title="Tạp chí kinh tế đặc biệt sẽ trở lại trong dịp Tết Canh Tý 2020">
+              Tạp chí kinh tế đặc biệt sẽ trở lại trong dịp Tết Canh Tý 2020
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="ta-justify" data-field="body" id="entry-body">
+           <p>
+            Chỉ ít ngày nữa,
+            <a href="https://vtv.vn/tap-chi-kinh-te-dac-biet.html" target="_blank" title="Tạp chí kinh tế đặc biệt">
+             Tạp chí kinh tế đặc biệt
+            </a>
+            2019 – chương trình thường niên của Trung tâm Tin tức VTV24 sẽ lên sóng trong dịp Tết Nguyên đán Canh Tý 2020.
+            <br/>
+           </p>
+           <p>
+            Chương trình năm nay mang tên "Cuộc chiến nền tảng" tập trung vào điều đang được cả thế giới sử dụng, theo dõi và đồng thời lo sợ. Đó là Công nghệ và Dữ liệu lớn, hay mô hình kinh doanh dựa vào công nghệ và dữ liệu lớn có tên gọi mô hình Nền tảng đang thay đổi cuộc sống của mọi người, mọi doanh nghiệp và cả nền kinh tế thế giới.
+           </p>
+           <div class="VCSortableInPreviewMode active" data-autoplay="false" data-contentid="ed9e50f6-1a32-4d78-970e-b80966802909" data-displaymode="0" data-height="400px" data-info="da7df9c03cce11ea8e2ad731abda6cb5" data-location="" data-namespace="vtv" data-originalid="" data-removedlogo="false" data-thumb="https://video-thumbs.mediacdn.vn/vtv/2020/1/22/trailer-tap-chi-test-0121-1579666961439577276512-ee835.jpg" data-version="1" data-vid="vtv/2020/1/22/trailer-tap-chi-test-0121-1579666961439577276512-ee835.mp4" data-width="600px" embed-type="4" type="VideoStream">
+            <div class="VideoCMS_Caption">
+             <p class="" data-placeholder="[nhập chú thích]" style="text-align: center;">
+              Trailer Tạp chí kinh tế đặc biệt 2019
+             </p>
+            </div>
+           </div>
+           <p>
+            Qua những hình ảnh và trailer đã tiết lộ, chương trình sẽ xoay quanh hành trình khám phá của Minh Long - một nhà báo kinh tế và Kim - trợ lý ảo của Minh Long trước câu hỏi: Có thế lực nào đó đang hủy diệt những mô hình truyền thống?.
+            <br/>
+           </p>
+           <div class="VCSortableInPreviewMode noCaption active" style="" type="Photo">
+            <div>
+             <img alt="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 2." data-original="https://vtv1.mediacdn.vn/2020/1/23/vlcsnap-2020-01-23-10h31m07s349-15797515228891303161835.png" h="1280" height="" id="img_ba00e890-3d93-11ea-a315-790bd7b0bd78" photoid="ba00e890-3d93-11ea-a315-790bd7b0bd78" rel="lightbox" src="https://vtv1.mediacdn.vn/thumb_w/640/2020/1/23/vlcsnap-2020-01-23-10h31m07s349-15797515228891303161835.png" style="max-width:100%;" title="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 2." type="photo" w="1280" width=""/>
+            </div>
+            <div class="PhotoCMS_Caption">
+            </div>
+           </div>
+           <p>
+            Bên cạnh đó, 4 đội chơi của gameshow Đại chiến Đốt tiền cũng đã được hé lộ. Đó là Màu đỏ cánh sen, Xanh da "Trời ơi tin được không", Cơn lốc màu da cam và Tim sắc tím. Khán giả có thể dễ dàng nhận ra những đội chơi này đại diện cho các nền tảng thương mại điện tử đình đám ở Việt Nam hiện nay. 4 đội sẽ tranh đấu ở các vòng thi hấp dẫn mà 1 trong số đó là cuộc đua về thời gian giao hàng.
+           </p>
+           <div class="VCSortableInPreviewMode noCaption" style="" type="Photo">
+            <div>
+             <img alt="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 3." data-original="https://vtv1.mediacdn.vn/2020/1/23/vlcsnap-2020-01-23-10h30m34s713-1579751522893764829570-15797515757301958122777.png" h="1280" height="" id="img_b9df08b0-3d93-11ea-817d-85bddf617dcf" photoid="d83c2a90-3d93-11ea-a730-2faeb99b0794" rel="lightbox" src="https://vtv1.mediacdn.vn/2020/1/23/vlcsnap-2020-01-23-10h30m34s713-1579751522893764829570-15797515757301958122777.png" style="max-width:100%;" title="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 3." type="photo" w="1280" width=""/>
+            </div>
+            <div class="PhotoCMS_Caption">
+            </div>
+           </div>
+           <p>
+            Một nội dung nữa cũng được đề cập trong Tạp chí kinh tế đặc biệt 2019 là cuộc chiến giữa Chính phủ và nền tảng. "Thực tế, không chỉ chúng ta mà ngay cả Chính phủ các nước phát triển cũng lúng túng trong việc quản lý các công ty nền tảng" – nhân vật Kim nhấn mạnh trong đoạn trailer.
+            <br/>
+           </p>
+           <p>
+            Ngoài ra, chương trình cũng phản ánh sự thay đổi của cuộc sống, của nền kinh tế số những năm qua trong lĩnh vực gọi xe công nghệ, fintech hay nội dung số…
+           </p>
+           <div class="VCSortableInPreviewMode noCaption" style="" type="Photo">
+            <div>
+             <img alt="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 4." data-original="https://vtv1.mediacdn.vn/2020/1/23/vlcsnap-2020-01-23-10h53m55s879-15797516458461517355199.png" h="1280" height="" id="img_02c7e3d0-3d94-11ea-bff5-5f8d391fde07" photoid="02c7e3d0-3d94-11ea-bff5-5f8d391fde07" rel="lightbox" src="https://vtv1.mediacdn.vn/thumb_w/640/2020/1/23/vlcsnap-2020-01-23-10h53m55s879-15797516458461517355199.png" style="max-width:100%;" title="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 4." type="photo" w="1280" width=""/>
+            </div>
+            <div class="PhotoCMS_Caption">
+            </div>
+           </div>
+           <div class="VCSortableInPreviewMode noCaption" style="" type="Photo">
+            <div>
+             <img alt="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 5." data-original="https://vtv1.mediacdn.vn/2020/1/23/vlcsnap-2020-01-23-10h53m30s375-15797516458501075623317.png" h="1280" height="" id="img_02a89c00-3d94-11ea-be10-457dc3fe8027" photoid="02a89c00-3d94-11ea-be10-457dc3fe8027" rel="lightbox" src="https://vtv1.mediacdn.vn/thumb_w/640/2020/1/23/vlcsnap-2020-01-23-10h53m30s375-15797516458501075623317.png" style="max-width:100%;" title="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 5." type="photo" w="1280" width=""/>
+            </div>
+            <div class="PhotoCMS_Caption">
+            </div>
+           </div>
+           <div class="VCSortableInPreviewMode noCaption" style="" type="Photo">
+            <div>
+             <img alt="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 6." data-original="https://vtv1.mediacdn.vn/2020/1/23/vlcsnap-2020-01-23-10h53m21s330-15797516458521823714555.png" h="1280" height="" id="img_02881bb0-3d94-11ea-a16d-7169e0724d02" photoid="02881bb0-3d94-11ea-a16d-7169e0724d02" rel="lightbox" src="https://vtv1.mediacdn.vn/thumb_w/640/2020/1/23/vlcsnap-2020-01-23-10h53m21s330-15797516458521823714555.png" style="max-width:100%;" title="Tạp chí kinh tế đặc biệt 2019 sẽ đề cập tới những nội dung hấp dẫn nào? - Ảnh 6." type="photo" w="1280" width=""/>
+            </div>
+            <div class="PhotoCMS_Caption">
+            </div>
+           </div>
+           <p>
+            Những nội dung kinh tế trong Tạp chí kinh tế đặc biệt 2019 được thể hiện bằng hiệu ứng đồ họa ấn tượng cũng như trường quay 3D để chuyển tải một cách sinh động, dễ hiểu, gần gũi với phần đông khán giả.
+            <br/>
+           </p>
+           <p>
+            <b>
+             Chương trình Tạp chí kinh tế đặc biệt 2019: Cuộc chiến nền tảng sẽ được phát sóng vào 20h05 ngày 26/1 (mùng 2 Tết Canh Tý) trên kênh VTV1. Mời quý khán giả chú ý đón xem!
+            </b>
+           </p>
+           <p>
+            <b>
+             * Mời quý độc giả theo dõi các chương trình đã phát sóng của Đài Truyền hình Việt Nam trên
+             <a href="https://vtv.vn/truyen-hinh-truc-tuyen.htm" rel="nofollow" target="_blank" title="TV Online!">
+              TV Online
+             </a>
+             !
+            </b>
+           </p>
+          </div>
+          <div class="clearfix">
+          </div>
+          <style>
+           .bottom-sharing li:first-child{min-width:130px;}
+          </style>
+          <div class="clearfix chiase bottom-social">
+           <ul class="bottom-sharing fl">
+            <li>
+             <div class="facebook-counter">
+              <span class="count-element count-facebook-like bubble">
+               0
+              </span>
+              <span class="count-element count-facebook-share bubble">
+               0
+              </span>
+             </div>
+             <div class="facebook_bt fbLikeWrap">
+              <div class="fb-like" data-action="like" data-height="20" data-href="https://vtv.vn/news-202001231056165.htm" data-layout="button" data-share="true" data-show-faces="false" data-width="112">
+              </div>
+             </div>
+            </li>
+            <li>
+             <a class="ming-counter bubble">
+              0
+             </a>
+             <span class="button-comment sprite">
+             </span>
+            </li>
+            <li class="fanpage">
+             <div class="facebook-counter">
+              <span class="count-element count-facebook-like-fanpage bubble">
+               977k
+              </span>
+             </div>
+             <div class="fb-like" data-action="like" data-height="21" data-href="https://www.facebook.com/baodientuvtv" data-layout="button" data-share="false" data-show-faces="false" data-width="60">
+             </div>
+            </li>
+            <li class="mail_bt">
+             <a class="sprite" href="javascript:location.href='mailto:?SUBJECT='+document.title+'&amp;BODY='+escape(location.href);" rel="nofollow" title="Gửi mail">
+             </a>
+            </li>
+            <li class="fr">
+             <div class="fbSendWrap">
+              <div class="facebook_sent sprite">
+              </div>
+              <div class="fb-send hidden" data-colorscheme="light" data-href="https://vtv.vn/news-202001231056165.htm">
+              </div>
+             </div>
+            </li>
+           </ul>
+           <img class="fanpage-focus" src="https://vtv1.mediacdn.vn/Images/like-fanpage-vtv.jpg">
+           </img>
+          </div>
+          <div class="clearfix">
+          </div>
+          <div class="news_keyword">
+           <p class="icon_box">
+            <i class="sprite">
+            </i>
+            Từ khóa:
+           </p>
+           <a href="/tap-chi-kinh-te.html" itemprop="keywords" title="tạp chí kinh tế">
+            tạp chí kinh tế
+           </a>
+           <a href="/trung-tam-tin-tuc-vtv24.html" itemprop="keywords" title="Trung tâm Tin tức VTV24">
+            , Trung tâm Tin tức VTV24
+           </a>
+           <a href="/dip-tet-nguyen-dan.html" itemprop="keywords" title="dịp Tết Nguyên Đán">
+            , dịp Tết Nguyên Đán
+           </a>
+           <a href="/du-lieu-lon.html" itemprop="keywords" title="dữ liệu lớn">
+            , dữ liệu lớn
+           </a>
+           <a href="/mo-hinh-kinh-doanh.html" itemprop="keywords" title="mô hình kinh doanh">
+            , mô hình kinh doanh
+           </a>
+           <a href="/tro-ly-ao.html" itemprop="keywords" title="trợ lý ảo">
+            , trợ lý ảo
+           </a>
+           <a href="/cuoc-chien-nen-tang.html" itemprop="keywords" title="Cuộc chiến nền tảng">
+            , Cuộc chiến nền tảng
+           </a>
+          </div>
+          <script type="text/javascript">
+           var tagparam = ["tap-chi-kinh-te","trung-tam-tin-tuc-vtv24","dip-tet-nguyen-dan","du-lieu-lon","mo-hinh-kinh-doanh","tro-ly-ao","cuoc-chien-nen-tang"];
+          </script>
+         </div>
+         <div class="clearfix">
+          <div id="admzone12364">
+          </div>
+          <script>
+           admicroAD.unit.push(function () { admicroAD.show('admzone12364') });
+          </script>
+         </div>
+         <div class="clearfix">
+         </div>
+         <div class="ads-sponsor type-2 adm-hidden">
+          <div id="admsection5">
+          </div>
+         </div>
+         <div class="detail_comment clearfix fl">
+          <iframe frameborder="0" height="100%" id="sComment" scrolling="no" src="https://vtvapi3.cnnd.vn/comment2.htm?objId=202001231056165&amp;objType=1&amp;objZoneId=88&amp;theme=light&amp;layout=large&amp;objHeight=0&amp;objUrl=https://vtv.vn/news-202001231056165.htm&amp;objTitle=VCVlMSViYSVhMXArY2glYzMlYWQra2luaCt0JWUxJWJhJWJmKyVjNCU5MSVlMSViYSViN2MrYmklZTElYmIlODd0KzIwMTkrcyVlMSViYSViZCslYzQlOTElZTElYmIlODErYyVlMSViYSVhZHArdCVlMSViYiU5YmkrbmglZTElYmIlYWZuZytuJWUxJWJiJTk5aStkdW5nK2glZTElYmElYTVwK2QlZTElYmElYWJuK24lYzMlYTBvJTNm" width="100%">
+          </iframe>
+         </div>
+         <div class="clear">
+         </div>
+         <script type="text/javascript">
+          function resizeIframe(event) {
+        var iframe = document.getElementById('sComment');
+        if (event.origin !== 'https://vtvapi3.cnnd.vn') return;
+        if (isNaN(event.data)) return;
+        var height = parseInt(event.data);
+        iframe.height = height + "px";
+    }
+    if (window.addEventListener) {
+        window.addEventListener('message', resizeIframe, false);
+    } else if (window.attachEvent) {
+        window.attachEvent('onmessage', resizeIframe);
+    }
+         </script>
+         <div class="clearfix">
+         </div>
+        </div>
+        <div class="w824 fl tincungmuc">
+         <div class="gach_cham mgb20 clearfix">
+         </div>
+         <div class="stream_detail fl">
+          <div class="tincungmuc">
+           <p class="title_box">
+            Cùng chuyên mục
+           </p>
+           <div class="border_title sprite clearfix">
+           </div>
+           <div class="clearfix pdb20">
+            <ul>
+             <li class="big_left">
+              <a href="/truyen-hinh/yeu-trong-dau-thuong-tap-12-he-lo-nhung-moi-tinh-eo-le-nay-sinh-han-thu-2020080314093551.htm" title="Yêu trong đau thương - Tập 1,2: Hé lộ những mối tình éo le, nảy sinh hận thù">
+               <img alt="Yêu trong đau thương - Tập 1,2: Hé lộ những mối tình éo le, nảy sinh hận thù" src="https://vtv1.mediacdn.vn/zoom/510_338/2020/8/3/a-161-15964390451971688796191.jpg"/>
+              </a>
+              <p>
+               <a href="/truyen-hinh/yeu-trong-dau-thuong-tap-12-he-lo-nhung-moi-tinh-eo-le-nay-sinh-han-thu-2020080314093551.htm" title="Yêu trong đau thương - Tập 1,2: Hé lộ những mối tình éo le, nảy sinh hận thù">
+                Yêu trong đau thương - Tập 1,2: Hé lộ những mối tình éo le, nảy sinh hận thù
+               </a>
+              </p>
+              <p class="sapo_stream">
+               VTV.vn - Hai tập đầu phim "Yêu trong đau thương" hé lộ những tình tiết đầy hấp dẫn, đặc biệt là những trò chơi tình ái "theo tình tình chạy, trốn tình tình theo".
+              </p>
+             </li>
+             <li class="top_right first">
+              <a href="/truyen-hinh/titi-hkt-xuat-hien-ben-canh-thanh-huong-trong-100-giay-ruc-ro-20200803132303041.htm" title="Titi (HKT) xuất hiện bên cạnh Thanh Hương trong 100 Giây rực rỡ">
+               <img alt="Titi (HKT) xuất hiện bên cạnh Thanh Hương trong 100 Giây rực rỡ" src="https://vtv1.mediacdn.vn/zoom/93_93/2020/8/3/titi-thanh-huong-1-15964359410721208050909.jpg"/>
+              </a>
+              <p>
+               <a href="/truyen-hinh/titi-hkt-xuat-hien-ben-canh-thanh-huong-trong-100-giay-ruc-ro-20200803132303041.htm" title="Titi (HKT) xuất hiện bên cạnh Thanh Hương trong 100 Giây rực rỡ">
+                Titi (HKT) xuất hiện bên cạnh Thanh Hương trong...
+               </a>
+              </p>
+              <span class="time need-get-timeago news-time" title="8/3/2020 2:29:00 PM">
+              </span>
+             </li>
+             <li class="top_right">
+              <a href="/truyen-hinh/danh-hai-hoai-linh-la-dong-luc-de-duong-thanh-vang-theo-duoi-uoc-mo-dien-hai-20200803113450994.htm" title="Danh hài Hoài Linh là động lực để Dương Thanh Vàng theo đuổi ước mơ diễn hài">
+               <img alt="Danh hài Hoài Linh là động lực để Dương Thanh Vàng theo đuổi ước mơ diễn hài" src="https://vtv1.mediacdn.vn/zoom/93_93/2020/8/3/duong-thanh-vang-trong-chuong-trinh-chuyen-cua-sao-8-15964292280111469504478.jpg"/>
+              </a>
+              <p>
+               <a href="/truyen-hinh/danh-hai-hoai-linh-la-dong-luc-de-duong-thanh-vang-theo-duoi-uoc-mo-dien-hai-20200803113450994.htm" title="Danh hài Hoài Linh là động lực để Dương Thanh Vàng theo đuổi ước mơ diễn hài">
+                Danh hài Hoài Linh là động lực để Dương Thanh Vàng...
+               </a>
+              </p>
+              <span class="time need-get-timeago news-time" title="8/3/2020 2:27:00 PM">
+              </span>
+             </li>
+             <li class="top_right">
+              <a href="/truyen-hinh/le-hoang-tiet-lo-mot-cap-ke-phi-cong-tre-len-ngoi-trong-gioi-showbiz-viet-20200803104351041.htm" title="Lê Hoàng tiết lộ “mốt” cặp kè “phi công trẻ” lên ngôi trong giới showbiz Việt">
+               <img alt="Lê Hoàng tiết lộ “mốt” cặp kè “phi công trẻ” lên ngôi trong giới showbiz Việt" src="https://vtv1.mediacdn.vn/zoom/93_93/2020/8/3/img8137-1596426258111678586819.jpg"/>
+              </a>
+              <p>
+               <a href="/truyen-hinh/le-hoang-tiet-lo-mot-cap-ke-phi-cong-tre-len-ngoi-trong-gioi-showbiz-viet-20200803104351041.htm" title="Lê Hoàng tiết lộ “mốt” cặp kè “phi công trẻ” lên ngôi trong giới showbiz Việt">
+                Lê Hoàng tiết lộ “mốt” cặp kè “phi công trẻ” lên...
+               </a>
+              </p>
+              <span class="time need-get-timeago news-time" title="8/3/2020 2:25:05 PM">
+              </span>
+             </li>
+             <li class="top_right">
+              <a href="/truyen-hinh/hanh-ly-tinh-yeu-loai-thieu-gia-pho-co-tieu-thu-xinh-dep-chon-chang-ky-su-20200803101954869.htm" title="Hành lý tình yêu: Loại thiếu gia phố cổ, tiểu thư xinh đẹp chọn chàng kỹ sư">
+               <img alt="Hành lý tình yêu: Loại thiếu gia phố cổ, tiểu thư xinh đẹp chọn chàng kỹ sư" src="https://vtv1.mediacdn.vn/zoom/93_93/2020/8/3/hanh-ly-tinh-yeu-1-15964273895091368917011-crop-1596427648927773520566.jpg"/>
+              </a>
+              <p>
+               <a href="/truyen-hinh/hanh-ly-tinh-yeu-loai-thieu-gia-pho-co-tieu-thu-xinh-dep-chon-chang-ky-su-20200803101954869.htm" title="Hành lý tình yêu: Loại thiếu gia phố cổ, tiểu thư xinh đẹp chọn chàng kỹ sư">
+                Hành lý tình yêu: Loại thiếu gia phố cổ, tiểu thư...
+               </a>
+              </p>
+              <span class="time need-get-timeago news-time" title="8/3/2020 11:27:00 AM">
+              </span>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="search_place mgb38 clearfix">
+         <label>
+          Xem theo ngày
+         </label>
+         <div class="ngay">
+          <select class="sDay">
+           <option selected="selected" value="0">
+            Ngày
+           </option>
+           <option value="1">
+            1
+           </option>
+           <option value="2">
+            2
+           </option>
+           <option value="3">
+            3
+           </option>
+           <option value="4">
+            4
+           </option>
+           <option value="5">
+            5
+           </option>
+           <option value="6">
+            6
+           </option>
+           <option value="7">
+            7
+           </option>
+           <option value="8">
+            8
+           </option>
+           <option value="9">
+            9
+           </option>
+           <option value="10">
+            10
+           </option>
+           <option value="11">
+            11
+           </option>
+           <option value="12">
+            12
+           </option>
+           <option value="13">
+            13
+           </option>
+           <option value="14">
+            14
+           </option>
+           <option value="15">
+            15
+           </option>
+           <option value="16">
+            16
+           </option>
+           <option value="17">
+            17
+           </option>
+           <option value="18">
+            18
+           </option>
+           <option selected="selected" value="19">
+            19
+           </option>
+           <option value="20">
+            20
+           </option>
+           <option value="21">
+            21
+           </option>
+           <option value="22">
+            22
+           </option>
+           <option value="23">
+            23
+           </option>
+           <option value="24">
+            24
+           </option>
+           <option value="25">
+            25
+           </option>
+           <option value="26">
+            26
+           </option>
+           <option value="27">
+            27
+           </option>
+           <option value="28">
+            28
+           </option>
+           <option value="29">
+            29
+           </option>
+           <option value="30">
+            30
+           </option>
+           <option value="31">
+            31
+           </option>
+          </select>
+          <span class="icon_down sprite">
+          </span>
+         </div>
+         <div class="thang">
+          <select class="sMonth">
+           <option value="0">
+            Tháng
+           </option>
+           <option value="1">
+            Tháng 1
+           </option>
+           <option value="2">
+            Tháng 2
+           </option>
+           <option value="3">
+            Tháng 3
+           </option>
+           <option selected="selected" value="4">
+            Tháng 4
+           </option>
+           <option value="5">
+            Tháng 5
+           </option>
+           <option value="6">
+            Tháng 6
+           </option>
+           <option value="7">
+            Tháng 7
+           </option>
+           <option value="8">
+            Tháng 8
+           </option>
+           <option value="9">
+            Tháng 9
+           </option>
+           <option value="10">
+            Tháng 10
+           </option>
+           <option value="11">
+            Tháng 11
+           </option>
+           <option value="12">
+            Tháng 12
+           </option>
+          </select>
+          <span class="icon_down sprite">
+          </span>
+         </div>
+         <div class="nam">
+          <select class="sYear">
+           <option value="0">
+            Năm
+           </option>
+           <option selected="selected" value="2020">
+            2020
+           </option>
+           <option value="2019">
+            2019
+           </option>
+           <option value="2018">
+            2018
+           </option>
+           <option value="2017">
+            2017
+           </option>
+           <option value="2016">
+            2016
+           </option>
+           <option value="2015">
+            2015
+           </option>
+          </select>
+          <span class="icon_down sprite">
+          </span>
+         </div>
+         <button id="btnViewByDate" type="button">
+          XEM
+         </button>
+        </div>
+        <script type="text/javascript">
+         (runinit = window.runinit || []).push(function () {
+        loadJsAsync('https://vtv1.mediacdn.vn/web_js/searchbydate.min.js', function () {
+            SearchByDate.Init('truyen-hinh');
+        });
+    });
+        </script>
+       </div>
+       <div class="ads_right adm-rightsection">
+        <div id="admsection8">
+        </div>
+        <div id="admzone12361">
+        </div>
+        <script>
+         window.addEventListener('load', function () {
+        admicroAD.unit.push(function () { admicroAD.show('admzone12361') });
+    });
+        </script>
+        <div id="admzone6313">
+        </div>
+        <script>
+         admicroAD.unit.push(function () { admicroAD.show('admzone6313') });
+        </script>
+        <div id="admzone12362">
+        </div>
+        <script>
+         admicroAD.unit.push(function () { admicroAD.show('admzone12362') });
+        </script>
+       </div>
+       <div id="adm_sponsor_footer1">
+       </div>
+       <div id="adm_sticky_footer1" style="height: 0px; clear: both;">
+       </div>
+       <div class="clearfix">
+       </div>
+       <div class="w824 fl border_right">
+        <div class="stream_detail fl">
+         <div class="tinmoi_st timeline">
+          <p class="title_box hide">
+           TIN MỚI
+          </p>
+          <div class="border_title clearfix">
+          </div>
+          <span class="clearfix">
+          </span>
+          <ul>
+          </ul>
+         </div>
+         <div class="loadmore">
+          <a href="javascript:void(0)" rel="nofollow">
+           Xem thêm
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="ads_right fr">
+        <div class="ads-sponsor type-2 adm-hidden">
+         <div id="admsection7">
+         </div>
+        </div>
+        <div id="admzone12350">
+        </div>
+        <script>
+         admicroAD.unit.push(function () { admicroAD.show('admzone12350') });
+        </script>
+       </div>
+      </div>
+      <div id="adm_sponsor_footer2">
+      </div>
+      <div id="adm_sticky_footer2" style="height: 0px; clear: both;">
+      </div>
+      <div id="fb-root">
+      </div>
+      <script src="//media1.admicro.vn/js_boxapp/tagsponsorz_473691.js">
+      </script>
+      <script>
+       (runinit = window.runinit || []).push(function () {
+        chenAdsMidPageDetail($("#entry-body"), 493325);
+    });
+      </script>
+     </div>
+    </div>
+    <div class="clearfix mgb20">
+    </div>
+    <div id="adm_sticky_footer">
+    </div>
+    <div class="clearfix auto-hide">
+     <div class="clearfix" id="admStickyFooter">
+     </div>
+     <div class="clearfix mgt20 mgb20">
+      <div class="adv-bottom clearfix">
+       <div id="admzone12363">
+       </div>
+       <script>
+        admicroAD.unit.push(function () { admicroAD.show('admzone12363') });
+       </script>
+      </div>
+     </div>
+     <div class="footer clearfix">
+      <div class="menu_footer">
+       <div class="wp1160">
+        <ul>
+         <li class="home">
+          <a class="sprite" href="/" rel="home" title="Trang chủ">
+          </a>
+         </li>
+         <li>
+          <a href="/trong-nuoc.htm" title="TRONG NƯỚC">
+           TRONG NƯỚC
+          </a>
+         </li>
+         <li>
+          <a href="/the-gioi.htm" title="THẾ GIỚI">
+           THẾ GIỚI
+          </a>
+         </li>
+         <li>
+          <a href="/the-thao.htm" title="THỂ THAO">
+           THỂ THAO
+          </a>
+         </li>
+         <li>
+          <a href="/truyen-hinh.htm" title="TRUYỀN HÌNH">
+           TRUYỀN HÌNH
+          </a>
+         </li>
+         <li>
+          <a href="/van-hoa-giai-tri.htm" title="VĂN HÓA - GIẢI TRÍ">
+           GIẢI TRÍ
+          </a>
+         </li>
+         <li>
+          <a href="/kinh-te.htm" title="KINH TẾ">
+           KINH TẾ
+          </a>
+         </li>
+         <li>
+          <a href="/doi-song.htm" title="ĐỜI SỐNG">
+           ĐỜI SỐNG
+          </a>
+         </li>
+         <li>
+          <a href="/suc-khoe.htm" title="Sức khỏe">
+           SỨC KHỎE
+          </a>
+         </li>
+         <li>
+          <a href="/giao-duc.htm" title="GIÁO DỤC">
+           GIÁO DỤC
+          </a>
+         </li>
+         <li>
+          <a href="/cong-nghe.htm" title="Công nghệ">
+           CÔNG NGHỆ
+          </a>
+         </li>
+         <li>
+          <a href="/goc-khan-gia.htm" title="KHÁN GIẢ">
+           KHÁN GIẢ
+          </a>
+         </li>
+         <li>
+          <a href="/magazine.htm" title="V-Zine">
+           V-ZINE
+          </a>
+         </li>
+         <li class="bt_down">
+          <a class="threeline sprite" href="javascript:;" rel="nofollow">
+          </a>
+          <div class="menudown">
+           <div class="list_menu">
+            <p>
+             <a class="nametop" href="javascript:void(0);" rel="nofollow">
+              TIN TỨC
+             </a>
+            </p>
+            <p>
+            </p>
+            <p>
+             <a class="nametop1" href="/chinh-tri.htm" title="Chính trị">
+              <span>
+              </span>
+              Chính trị
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/xa-hoi.htm" title="Xã hội">
+              <span>
+              </span>
+              Xã hội
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/trong-nuoc/phap-luat.htm" title="Pháp luật">
+              <span>
+              </span>
+              Pháp luật
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/the-gioi.htm" title="Tin thế giới">
+              Tin Thế Giới
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/the-gioi/tin-tuc.htm" title="Tin tức thế giới">
+              <span>
+              </span>
+              Tin tức
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/the-gioi/the-gioi-do-day.htm" title="Thế giới đó đây">
+              <span>
+              </span>
+              Thế giới đó đây
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/kinh-te.htm" title="Kinh tế">
+              Kinh Tế
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/kinh-te/bat-dong-san.htm" title="Bất động sản">
+              <span>
+              </span>
+              Bất động sản
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/kinh-te/tai-chinh.htm" title="Tài chính">
+              <span>
+              </span>
+              Tài chính
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/kinh-te/thi-truong.htm" title="Thị trường">
+              <span>
+              </span>
+              Thị trường
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/kinh-te/tieu-dung.htm" title="Tiêu dùng">
+              <span>
+              </span>
+              Tiêu dùng
+             </a>
+            </p>
+           </div>
+           <div class="list_menu">
+            <p>
+             <a class="nametop" href="javascript:void(0);" rel="nofollow">
+              VTV
+             </a>
+            </p>
+            <p>
+             <a class="nametop1" href="/truyen-hinh.htm" title="Truyền hình">
+              Truyền Hình
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/truyen-hinh/phim-vtv.htm" title="Phim VTV">
+              <span>
+              </span>
+              Phim VTV
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/truyen-hinh/hau-truong.htm" title="Hậu trường">
+              <span>
+              </span>
+              Hậu trường
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/truyen-hinh/nhan-vat.htm" title="Nhân vật">
+              <span>
+              </span>
+              Nhân vật
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/truyen-hinh/goc-khan-gia.htm" title="Khán giả">
+              <span>
+              </span>
+              Góc khán giả
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/chuyen-dong-24h.htm" title="Chuyển động 24h">
+              <span>
+              </span>
+              Chuyển động 24h
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/van-de-hom-nay.htm" title="Vấn đề hôm nay">
+              <span>
+              </span>
+              Vấn đề hôm nay
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/viet-nam-va-the-gioi.htm" title="Việt Nam và thế giới">
+              Việt Nam &amp; thế giới
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/goc-khan-gia.htm" title="Góc khán giả">
+              Góc khán giả
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/chao-buoi-sang.htm" title="Chào buổi sáng">
+              Chào buổi sáng
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/viet-nam-hom-nay.htm" title="Việt Nam hôm nay">
+              Việt Nam hôm nay
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+           </div>
+           <div class="list_menu">
+            <p>
+             <a class="nametop" href="javascript:void(0);" rel="nofollow">
+              ĐỜI SỐNG
+             </a>
+            </p>
+            <p>
+             <a class="nametop1" href="/van-hoa-giai-tri.htm" title="Văn hóa - giải trí">
+              Văn Hóa - Giải Trí
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/van-hoa-giai-tri/dien-anh.htm" title="Điện ảnh">
+              <span>
+              </span>
+              Điện ảnh
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/van-hoa-giai-tri/am-nhac.htm" title="Âm nhạc">
+              <span>
+              </span>
+              Âm nhạc
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/doi-song.htm" title="Đời sống">
+              Đời sống
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/doi-song/du-lich.htm" title="Du lịch">
+              <span>
+              </span>
+              Du lịch
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/doi-song/lam-dep.htm" title="Làm đẹp">
+              <span>
+              </span>
+              Làm đẹp
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/doi-song/gioi-tinh.htm" title="Giới tính">
+              <span>
+              </span>
+              Giới tính
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/suc-khoe.htm" title="Sức khỏe">
+              Sức khỏe
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/tam-long-viet.htm" title="Tấm lòng Việt">
+              Tấm lòng Việt
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+           </div>
+           <div class="list_menu">
+            <p>
+             <a class="nametop" href="/the-thao.htm" title="Thể thao">
+              THỂ THAO
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/the-thao/bong-da-trong-nuoc.htm" title="Bóng đá Việt Nam">
+              <span>
+              </span>
+              Bóng đá Việt Nam
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/the-thao/bong-da-quoc-te.htm" title="Bóng đá quốc tế">
+              <span>
+              </span>
+              Bóng đá quốc tế
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/the-thao/tennis.htm" title="Tennis">
+              <span>
+              </span>
+              Quần vợt
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/the-thao/video.htm" title="Video">
+              <span>
+              </span>
+              Video
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/the-thao/cac-mon-khac.htm" title="Các môn khác">
+              <span>
+              </span>
+              Các môn khác
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/the-thao/ben-le.htm" title="Bên lề">
+              <span>
+              </span>
+              Bên lề
+             </a>
+            </p>
+           </div>
+           <div class="list_menu" style="width: 180px">
+            <p>
+             <a class="nametop" href="/chuong-trinh-dac-sac.htm" title="Chương trình đặc sắc">
+              CHƯƠNG TRÌNH ĐẶC SẮC
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/chuong-trinh-dac-sac/su-kien-va-binh-luan.htm" title="Sự kiện &amp; bình luận">
+              <span>
+              </span>
+              Sự kiện &amp; bình luận
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/chuong-trinh-dac-sac/toan-canh-the-gioi.htm" title="Toàn cảnh thế giới">
+              <span>
+              </span>
+              Toàn cảnh thế giới
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/chuong-trinh-dac-sac/tap-chi-kinh-te-cuoi-tuan.htm" title="Tạp chí kinh tế cuối tuần">
+              <span>
+              </span>
+              Tạp chí kinh tế cuối tuần
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/chuong-trinh-dac-sac/dang-trong-cuoc-song-hom-nay.htm" title="Đảng trong cuộc sống hôm nay">
+              <span>
+              </span>
+              Đảng trong cuộc sống hôm nay
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/chuong-trinh-dac-sac/moi-ngay-mot-cuon-sach.htm" title="Mỗi ngày một cuốn sách">
+              <span>
+              </span>
+              Mỗi ngày một cuốn sách
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/chuong-trinh-dac-sac/song-moi.htm" title="Sống mới">
+              <span>
+              </span>
+              Sống mới
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/chuong-trinh-dac-sac/nhip-song-do-thi.htm" title="Nhịp sống đô thị">
+              <span>
+              </span>
+              Nhịp sống đô thị
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/truc-tuyen.htm" title="Giao lưu trực tuyến">
+              <span>
+              </span>
+              Giao lưu trực tuyến
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/lich-phat-song.htm" title="Lịch Phát Sóng">
+              <span>
+              </span>
+              Lịch phát sóng
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/magazine.htm" title="Magazine">
+              <span>
+              </span>
+              Magazine
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/doi-song.htm" title="Đời sống">
+              <span>
+              </span>
+              Đời sống
+             </a>
+            </p>
+           </div>
+           <div class="list_menu list_menu_end">
+            <p>
+             <a class="nametop" href="javascript:void(0);" rel="nofollow">
+              KHÁC
+             </a>
+            </p>
+            <p>
+             <a class="nametop1" href="/cong-nghe.htm" title="Công nghệ">
+              Công Nghệ
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/cong-nghe/san-pham.htm" title="Sản phẩm">
+              <span>
+              </span>
+              Sản phẩm
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/cong-nghe/thi-truong.htm" title="Thị trường">
+              <span>
+              </span>
+              Thị trường
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/cong-nghe/tu-van.htm" title="Tư vấn">
+              <span>
+              </span>
+              Tư vấn
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/giao-duc.htm" title="Giáo dục">
+              Giáo Dục
+              <span class="sprite ionright">
+              </span>
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/giao-duc/tu-van.htm" title="Tư vấn giáo dục">
+              <span>
+              </span>
+              Tư vấn
+             </a>
+            </p>
+            <p>
+             <a class="nametop2" href="/giao-duc/hoc-truc-tuyen.htm" title="Học trực tuyến">
+              <span>
+              </span>
+              Học trực tuyến
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="http://vtv8.vtv.vn" title="VTV8">
+              <span>
+              </span>
+              VTV8
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="http://vtv9.vtv.vn" title="VTV9">
+              <span>
+              </span>
+              VTV9
+             </a>
+            </p>
+            <p class="border">
+             <a class="nametop1" href="/lien-he-toa-soan.htm" title="VTV6">
+              <span>
+              </span>
+              Liên hệ tòa soạn
+             </a>
+            </p>
+           </div>
+           <span class="submenu_shadow">
+           </span>
+          </div>
+          <style>
+           .menu_chinh .menudown .list_menu p{
+        margin-bottom:0 !important;
+    }
+          </style>
+         </li>
+        </ul>
+       </div>
+       <div class="clearfix">
+       </div>
+       <div class="wp1160">
+        <div class="info1">
+         <div class="left">
+          <a class="logo_ft fl" href="/" title="Trang chủ">
+           <img alt="logo footer" src="https://vtv1.mediacdn.vn/web_images/logo-vtv-footer-2.png">
+           </img>
+          </a>
+          <a class="a_mobile_ico" href="javascript:;;">
+           <i class="mobile_ico">
+           </i>
+           Quay về giao diện điện thoại
+          </a>
+         </div>
+         <div class="right">
+          <p class="linkft">
+           <a href="https://vtv.gov.vn" rel="nofollow" target="_blank" title="HOẠT ĐỘNG VTV">
+            <span class="icon_hoatdong sprite">
+            </span>
+            CỔNG THÔNG TIN VTV
+           </a>
+           |
+           <a href="/hoat-dong-vtv.htm#contactform" title="LIÊN HỆ">
+            <span class="icon_lienhe sprite">
+            </span>
+            LIÊN HỆ
+           </a>
+          </p>
+          <div class="searchft sprite">
+           <input id="txtSearchBottom" placeholder="Tìm kiếm" type="text"/>
+           <a class="bt_search" href="javascript:void(0);" id="btnSearchBottom" rel="nofollow">
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="clearfix">
+        </div>
+        <div class="info2 clearfix">
+         <div class="left">
+          <p>
+           CƠ QUAN CHỦ QUẢN:
+           <strong>
+            ĐÀI TRUYỀN HÌNH VIỆT NAM
+           </strong>
+          </p>
+          <p>
+           CƠ QUAN BÁO CHÍ:
+           <strong>
+            BÁO ĐIỆN TỬ VTV NEWS
+           </strong>
+          </p>
+          <p style="width: 455px">
+           Giấy phép hoạt động báo chí điện tử số 306/GP-BTTTT cấp ngày 22/02/2012.
+          </p>
+          <p>
+           ® Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản. Ghi rõ nguồn VTV.vn khi phát hành lại thông tin từ website này.
+          </p>
+         </div>
+         <div class="border">
+         </div>
+         <div class="center">
+          <p>
+           <b>
+            Tổng Biên tập: Vũ Thanh Thủy
+           </b>
+          </p>
+          <p>
+           <b>
+            Phó Tổng Biên tập: Phạm Quốc Thắng
+           </b>
+          </p>
+          <p>
+           Tổng đài VTV: (024) 3.8355931; (024) 3.8355932
+          </p>
+          <p>
+           Ðiện thoại Báo điện tử VTV: (024) 66897 897 Email:
+           <a href="mailto:toasoan@vtv.vn" rel="nofollow" title="Liên hệ">
+            toasoan@vtv.vn
+           </a>
+          </p>
+          <p>
+           Liên hệ quảng cáo: 0942 86 11 33
+          </p>
+         </div>
+         <div class="border">
+         </div>
+         <div class="right">
+          <a href="http://vfc.vtv.vn" rel="nofollow" target="_blank" title="VFC">
+           VFC
+          </a>
+          <a href="http://tvad.com.vn" rel="nofollow" target="_blank" title="TVAd">
+           TVAd
+          </a>
+          <a href="https://vtv.vn" rel="nofollow" target="_blank" title="vtvtc">
+           VTVTC
+          </a>
+          <a href="https://vtv.vn" rel="nofollow" target="_blank" title="VTV Broadcom">
+           VTV Broadcom
+          </a>
+          <a href="http://ctv.vtv.vn" rel="nofollow" target="_blank" title="CTV">
+           CTV
+          </a>
+          <a href="http://www.vtvcab.vn" rel="nofollow" target="_blank" title="VTVCab">
+           VTVCab
+          </a>
+          <a href="http://www.kplus.vn" rel="nofollow" target="_blank" title="K+">
+           K+
+          </a>
+          <a href="https://vtv.vn" rel="nofollow" target="_blank" title="SCTV">
+           SCTV
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <style>
+      .menu_footer .menudown{display: none}
+     </style>
+    </div>
+   </div>
+   <a class="sprite" id="scrollToTop" rel="nofollow" title="Lên trên">
+   </a>
+   <script>
+    (runinit = window.runinit || []).push(function() {
+            initGopYButton();
+        });
+   </script>
+   <link href="https://vtv1.mediacdn.vn/web_css/1024.v2018.02.22.css" media="screen and (max-width: 1279px)" rel="stylesheet"/>
+   <!-- Start Alexa Certify Javascript -->
+   <script type="text/javascript">
+    _atrk_opts = { atrk_acct: "tDURh1aUXR00im", domain: "vtv.vn", dynamic: true };
+    (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+   </script>
+   <noscript>
+    <img alt="" height="1" src="https://certify.alexametrics.com/atrk.gif?account=tDURh1aUXR00im" style="display:none" width="1"/>
+   </noscript>
+   <!-- End Alexa Certify Javascript -->
+   <style>
+    #videonotify {width: 258px;/*height: 211px;*/box-sizing: border-box;display: block;position: fixed;left: 20px;bottom: 30px;padding: 15px 20px 10px 20px;z-index: 9999;background-color: #f0f2fb;border-radius: 5px;box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.08);
+        display: none;
+    }
+    #videonotify h3 { font-size: 14px;color: #b70002;font-weight: bold;padding-left: 25px;position: relative}
+    #videonotify h3 i{display: block;background-color: #d4111b;width: 18px;height: 12px;border-radius: 3px;top: 2px;left: 0;position: absolute;}
+    #videonotify h3 i:before{content: '';width: 0;height: 0;border-style: solid;border-width: 3px 0 3px 6px;border-color: transparent transparent transparent #fff;position: absolute;left: 7px;top: 3px;}
+    #videonotify h3{ margin-bottom: 10px;}
+    #videonotify .title{ font: normal 12px Arial;color: #292929;/*white-space: nowrap;text-overflow: ellipsis;*/display:block;}
+    #videonotify .notifyplayer {width: 215px;height: 121px;position: relative;margin-bottom: 5px;}
+    #videonotify .notifyplayer span.dangphat{color: #fff; position: absolute;top: 10px;left: 10px;display: block;font: normal 10px Arial;background: #ed3b33;border-radius: 2px;padding: 1px 3px;z-index: 999;}
+    #videonotify .closenotify{ position: absolute;top: 10px;right: 10px;color: #9b9b9b;font-size: 15px;font-family: SFD-Medium, Arial;cursor: pointer;}
+    #videonotify .notifytimeago{ font: normal 11px Arial;color: #a7a6a6;display: block;}
+    #videonotify .timeago{ display: block;}
+    #videonotify .timeago i{background-position: -661px -853px;float: left;width: 17px;height: 15px;}
+
+    #livevideotieudungvtv1{height:100%;}
+   </style>
+   <div id="videonotify">
+    <span class="closenotify">
+     X
+    </span>
+    <a href="#" rel="nofollow">
+     <h3>
+      <i>
+      </i>
+      ĐANG PHÁT
+     </h3>
+     <div class="notifyplayer">
+      <div class="VCSortableInPreviewMode" data-advmode="true" data-autoplay="true" data-contentid="8b5f4bd0-287b-451d-8a4c-7333970f5232" data-displaymode="1" data-height="121px" data-info="974de0e096c411e8a02f431c1f029252" data-item-id="974de0e096c411e8a02f431c1f029252" data-location="" data-namespace="vtv" data-removedlogo="false" data-thumb="http://video-thumbs.mediacdn.vn/vtv/2018/8/3/0308thoi-tiet-9h10-1533263108058287562035-47d44_thumb4.jpg" data-vid="vtv/2018/8/3/0308thoi-tiet-9h10-1533263108058287562035-47d44.mp4" data-width="215px" embed-type="4" type="VideoStream">
+      </div>
+     </div>
+     <span class="title">
+      Bản tin thời tiết chào buổi sáng
+     </span>
+     <span class="timeago">
+      <i class="sprite">
+      </i>
+      <span class="notifytimeago">
+       3 phút trước
+      </span>
+     </span>
+    </a>
+   </div>
+   <script>
+    (runinit = window.runinit || []).push(function () {
+        //VideoNotify.cookieName = getRandomString();
+        VideoNotify.timerequest = 30000;//30s request 1 lần nếu ko có dữ liệu
+        VideoNotify.init();
+
+        //tam ngung vi dot nay ko co
+        //TieuDungNotify.timerequest = 30000;
+        //TieuDungNotify.init();
+    });
+   </script>
+  </form>
+ </body>
+</html>

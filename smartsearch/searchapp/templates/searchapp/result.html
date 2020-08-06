@@ -1,0 +1,48 @@
+{% extends 'searchapp/base.html' %}
+{% block content %}
+{% load crispy_forms_tags %}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<div class="container">
+    <div class="row box fixed-top">
+        <div>
+            <h3 style="color:black;text-align: center; font-weight: bold; font-size: 34px;">WELCOME djangopython!</h3>
+            <br>
+            <h5 style="color:black;text-align: center;">TEST IS SUCCESS!</h5>
+            <br>
+            <br>
+            <br>
+            <p style="color:black;text-align: center;">The website after testing showed a sensitivity level of 43%.</p><br>
+            <p style="color:black;text-align: center;">Users over 18 should access!</p>
+        </div>
+    </div>
+</div>
+
+<section class="hero is-white is-fullheight">
+    <div id="particles-js"></div>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer1 fixed-bottom">
+                <div class="content has-text-centered">
+                    <p class="has-text-grey">
+                        The search engine that built with <i class="fa fa-heart"></i> for education</p>
+                </div>
+                <div class="content has-text-centered">
+                    <div id="menu">
+                        <ul>
+                            <li><a href="home">Our Team</a></li>
+                            <li><a href="https://www.facebook.com/">Facebook</a></li>
+                            <li><a href="https://www.instagram.com/">Instagram</a></li>
+                            <li>
+                                <a href="https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin">Gmail</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</section>
+{% endblock %}

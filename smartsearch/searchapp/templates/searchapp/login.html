@@ -1,0 +1,48 @@
+{% extends 'searchapp/base.html' %}
+{% block content %}
+{% load crispy_forms_tags %}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+            <form class="form_create text-center" action="" method="post">
+                <h5 style="font-weight: bold;">PLEASE LOG IN TO DO TEST WITH THE MOST ACCURACY!</h5>
+                {% csrf_token %}
+                {{ form|crispy }}
+                <button type="submit" class="btn btn-outline-primary" value="submit">Sign in</button>
+                <p>You don't have an account <a href="{% url 'searchapp:register' %}">Sign up</a></p>
+            </form>
+        </div>
+    </div>
+</div>
+
+<section class="hero is-white is-fullheight">
+    <div id="particles-js"></div>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer1 fixed-bottom">
+                <div class="content has-text-centered">
+                    <p class="has-text-grey">
+                        The search engine that built with <i class="fa fa-heart"></i> for education</p>
+                </div>
+                <div class="content has-text-centered">
+                    <div id="menu">
+                        <ul>
+                            <li><a href="home">Our Team</a></li>
+                            <li><a href="https://www.facebook.com/">Facebook</a></li>
+                            <li><a href="https://www.instagram.com/">Instagram</a></li>
+                            <li>
+                                <a href="https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin">Gmail</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</section>
+{% endblock %}

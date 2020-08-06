@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+<html lang="vi" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width" name="viewport"/>
+  <meta name="ir-site-verification-token" value="-26088149">
+   <link href="https://gmpg.org/xfn/11" rel="profile"/>
+   <link href="https://nguoichuweb.com/xmlrpc.php" rel="pingback"/>
+   <link href="https://nguoichuweb.com/wp-content/uploads/2018/02/favicon-5.ico" rel="shortcut icon">
+    <title>
+     Thực Hành Tự Làm 1 Trang Web Hoàn Chỉnh Cho Người Mới Bắt Đầu
+    </title>
+    <!-- This site is optimized with the Yoast SEO plugin v9.4 - https://yoast.com/wordpress/plugins/seo/ -->
+    <meta content="Bài viết này sẽ hướng dẫn bạn cách tự làm một trang web hoàn chỉnh từ đầu đến cuối. Nếu bạn đang muốn xây dựng một website thì đừng bỏ qua bài viết này !" name="description">
+     <link href="https://nguoichuweb.com/huong-dan-tu-lam-1-trang-web/" rel="canonical">
+      <meta content="vi_VN" property="og:locale"/>
+      <meta content="article" property="og:type"/>
+      <meta content="Thực Hành Tự Làm 1 Trang Web Hoàn Chỉnh Cho Người Mới Bắt Đầu" property="og:title"/>
+      <meta content="Bài viết này sẽ hướng dẫn bạn cách tự làm một trang web hoàn chỉnh từ đầu đến cuối. Nếu bạn đang muốn xây dựng một website thì đừng bỏ qua bài viết này !" property="og:description"/>
+      <meta content="https://nguoichuweb.com/huong-dan-tu-lam-1-trang-web/" property="og:url"/>
+      <meta content="Người Chủ Web" property="og:site_name"/>
+      <meta content="summary_large_image" name="twitter:card"/>
+      <meta content="Bài viết này sẽ hướng dẫn bạn cách tự làm một trang web hoàn chỉnh từ đầu đến cuối. Nếu bạn đang muốn xây dựng một website thì đừng bỏ qua bài viết này !" name="twitter:description"/>
+      <meta content="Thực Hành Tự Làm 1 Trang Web Hoàn Chỉnh Cho Người Mới Bắt Đầu" name="twitter:title"/>
+      <!-- / Yoast SEO plugin. -->
+      <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+      <link href="//s.w.org" rel="dns-prefetch"/>
+      <link href="https://nguoichuweb.com/feed/" rel="alternate" title="Dòng thông tin Người Chủ Web »" type="application/rss+xml"/>
+      <script type="text/javascript">
+       window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nguoichuweb.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+      </script>
+      <style type="text/css">
+       img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+      </style>
+      <link href="https://nguoichuweb.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.10" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-includes/css/dashicons.min.css?ver=5.0.10" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.2.14" id="post-views-counter-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/plugins/table-maker/css/style.css?ver=1.9.1" id="wpsm-comptable-styles-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/plugins/ultimate-social-media-plus/css/sfsi-style.css?ver=5.0.10" id="SFSIPLUSmainCss-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz%3A200%2C300%2C400%2C700&amp;ver=5.0.10" id="athemes-headings-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/themes/hiero/css/athemes-glyphs.css?ver=5.0.10" id="athemes-glyphs-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/themes/hiero/css/bootstrap.min.css?ver=5.0.10" id="athemes-bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/themes/hiero/style.css?ver=5.0.10" id="athemes-style-css" media="all" rel="stylesheet" type="text/css"/>
+      <style id="athemes-style-inline-css" type="text/css">
+       a, #main-navigation .sf-menu > ul > li:hover:after, #main-navigation .sf-menu > ul > li.sfHover:after, #main-navigation .sf-menu > ul > li.current_page_item:after, #main-navigation .sf-menu > ul > li.current-menu-item:after, .entry-title a:hover, .comment-list li.comment .comment-author .fn a:hover, .comment-list li.comment .reply a, .widget li a:hover, .site-extra .widget li a:hover, .site-extra .widget_athemes_social_icons li a:hover [class^="ico-"]:before, .site-footer a:hover { color: #ba0031; }
+button:hover, a.button:hover, input[type="button"]:hover, .widget-title span, input[type="reset"]:hover, input[type="submit"]:hover { border-color: #ba0031; }
+button:hover, a.button:hover, .widget_athemes_social_icons li a:hover [class^="ico-"]:before, input[type="button"]:hover, .widget_athemes_tabs .widget-tab-nav li.active a, input[type="reset"]:hover, .comments-link a, .site-content [class*="navigation"] a:hover, input[type="submit"]:hover, #main-navigation li:hover ul, #main-navigation li.sfHover ul, #main-navigation li a:hover, #main-navigation li.sfHover > a, #main-navigation li.current_page_item > a, #main-navigation li.current-menu-item > a, #main-navigation li.current-menu-parent > a, #main-navigation li.current-page-parent > a, #main-navigation li.current-page-ancestor > a, #main-navigation li.current_page_ancestor > a { background: #ba0031; }
+.site-title a { color: ; }
+.site-description { color: ; }
+.entry-title, .entry-title a { color: ; }
+body { color: ; }
+      </style>
+      <link href="https://nguoichuweb.com/wp-content/plugins/newsletter/style.css?ver=5.8.7" id="newsletter-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/plugins/wp-coupons-and-deals/assets/css/style.css?ver=2.7.1" id="wpcd-style-css" media="all" rel="stylesheet" type="text/css"/>
+      <style id="wpcd-style-inline-css" type="text/css">
+       .coupon-type { background-color: #ff0073; } .deal-type { background-color: #ff0073; } .wpcd-coupon { border-color: ; }
+      </style>
+      <link href="https://nguoichuweb.com/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=2.1.2" id="forget-about-shortcode-buttons-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/plugins/buttons-shortcode-and-widget/include/otw_components/otw_shortcode/css/general_foundicons.css?ver=5.0.10" id="otw-shortcode-general_foundicons-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/plugins/buttons-shortcode-and-widget/include/otw_components/otw_shortcode/css/social_foundicons.css?ver=5.0.10" id="otw-shortcode-social_foundicons-css" media="all" rel="stylesheet" type="text/css"/>
+      <link href="https://nguoichuweb.com/wp-content/plugins/buttons-shortcode-and-widget/include/otw_components/otw_shortcode/css/otw_shortcode.css?ver=5.0.10" id="otw-shortcode-css" media="all" rel="stylesheet" type="text/css"/>
+      <script>
+       if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}
+      </script>
+      <script src="https://nguoichuweb.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">
+      </script>
+      <script src="https://nguoichuweb.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+      </script>
+      <script src="https://nguoichuweb.com/wp-content/themes/hiero/js/bootstrap.min.js?ver=5.0.10" type="text/javascript">
+      </script>
+      <script src="https://nguoichuweb.com/wp-content/themes/hiero/js/superfish.js?ver=5.0.10" type="text/javascript">
+      </script>
+      <script src="https://nguoichuweb.com/wp-content/themes/hiero/js/supersubs.js?ver=5.0.10" type="text/javascript">
+      </script>
+      <script src="https://nguoichuweb.com/wp-content/themes/hiero/js/settings.js?ver=5.0.10" type="text/javascript">
+      </script>
+      <script src="https://nguoichuweb.com/wp-content/plugins/wp-coupons-and-deals/assets/js/clipboard.min.js?ver=2.7.1" type="text/javascript">
+      </script>
+      <link href="https://nguoichuweb.com/wp-json/" rel="https://api.w.org/"/>
+      <link href="https://nguoichuweb.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+      <link href="https://nguoichuweb.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+      <meta content="WordPress 5.0.10" name="generator"/>
+      <link href="https://nguoichuweb.com/?p=340" rel="shortlink"/>
+      <link href="https://nguoichuweb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnguoichuweb.com%2Fhuong-dan-tu-lam-1-trang-web%2F" rel="alternate" type="application/json+oembed"/>
+      <link href="https://nguoichuweb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnguoichuweb.com%2Fhuong-dan-tu-lam-1-trang-web%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+      <meta content="1620108901388904" property="fb:app_id"/>
+      <script>
+       jQuery(document).ready(function(e) {
+                jQuery("body").addClass("sfsi_plus_3.02")
+            });
+			function sfsi_plus_processfurther(ref) {
+				var feed_id = 'aE1FWENRZXY5cmUxcXBCQUJmTTliSkd3L2VseHRlMzlMQWt0S0F0QlhTcTBJclo5MElzV29qQnhDTmRDVEhrbDI5TEhiSStaYlVDMHJVK3FIM3ZZckdXZWthd2U5dDU3ZDhxbWwxWG5XbHNtM2J0N01DY21CSlRWS2hnNzdONEl8SHBia25SUEszeUlGdDZVTDN1MVU3cE5SZ1MvNXowcjAwT1hER0Nwai80VT0=';
+				var feedtype = 8;
+				var email = jQuery(ref).find('input[name="data[Widget][email]"]').val();
+				var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+				if ((email != "Enter your email") && (filter.test(email))) {
+					if (feedtype == "8") {
+						var url = "https://www.specificfeeds.com/widgets/subscribeWidget/"+feed_id+"/"+feedtype;
+						window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+						return true;
+					}
+				} else {
+					alert("Please enter email address");
+					jQuery(ref).find('input[name="data[Widget][email]"]').focus();
+					return false;
+				}
+			}
+      </script>
+      <style aria-selected="true" type="text/css">
+       .sfsi_plus_subscribe_Popinner
+			{
+								width: 100% !important;
+				height: auto !important;
+												border: 1px solid #b5b5b5 !important;
+								padding: 18px 0px !important;
+				background-color: #ffffff !important;
+			}
+			.sfsi_plus_subscribe_Popinner form
+			{
+				margin: 0 20px !important;
+			}
+			.sfsi_plus_subscribe_Popinner h5
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-weight: bold !important;
+								color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				margin: 0 0 10px !important;
+    			padding: 0 !important;
+			}
+			.sfsi_plus_subscription_form_field {
+				margin: 5px 0 !important;
+				width: 100% !important;
+				display: inline-flex;
+				display: -webkit-inline-flex;
+			}
+			.sfsi_plus_subscription_form_field input {
+				width: 100% !important;
+				padding: 10px 0px !important;
+			}
+			.sfsi_plus_subscribe_Popinner input[type=email]
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_plus_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+			   font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			
+			.sfsi_plus_subscribe_Popinner input[type=email]:-moz-placeholder { /* Firefox 18- */
+			    font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			
+			.sfsi_plus_subscribe_Popinner input[type=email]::-moz-placeholder {  /* Firefox 19+ */
+			    font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			
+			.sfsi_plus_subscribe_Popinner input[type=email]:-ms-input-placeholder {  
+			  	font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_plus_subscribe_Popinner input[type=submit]
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-weight: bold !important;
+								color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				background-color: #dedede !important;
+			}
+      </style>
+      <meta content="lTH1V3pmXx0nJg0d3QUa" name="specificfeeds-verification-code-aE1FWENRZXY5cmUxcXBCQUJmTTliSkd3L2VseHRlMzlMQWt0S0F0QlhTcTBJclo5MElzV29qQnhDTmRDVEhrbDI5TEhiSStaYlVDMHJVK3FIM3ZZckdXZWthd2U5dDU3ZDhxbWwxWG5XbHNtM2J0N01DY21CSlRWS2hnNzdONEl8SHBia25SUEszeUlGdDZVTDN1MVU3cE5SZ1MvNXowcjAwT1hER0Nwai80VT0="/>
+      <!--[if lt IE 9]>
+<script src="https://nguoichuweb.com/wp-content/themes/hiero/js/html5shiv.js"></script>
+<![endif]-->
+      <style id="wp-custom-css" type="text/css">
+       /*
+Bạn có thể thêm CSS ở đây.
+
+Nhấp chuột vào biểu tượng trợ giúp phía trên để tìm hiểu thêm.
+*/
+.widget_athemes_tabs .widget-tab-nav li {
+    width: auto;
+}
+blockquote p {
+    font-size: 15px;
+    padding: 10px;
+    background-color: #fffee2;
+}
+blockquote {
+    padding: 0 0 0 0px;
+    border-left: 0px solid #eee;
+}
+      </style>
+     </link>
+    </meta>
+   </link>
+  </meta>
+ </head>
+ <body class="page-template-default page page-id-340 group-blog" data-rsssl="1">
+  <header class="site-header" id="masthead" role="banner">
+   <div class="clearfix container">
+    <div class="site-branding">
+     <a href="https://nguoichuweb.com/" title="Người Chủ Web">
+      <img alt="Người Chủ Web" src="https://nguoichuweb.com/wp-content/uploads/2018/02/logo-1.png"/>
+     </a>
+     <!-- .site-branding -->
+    </div>
+    <nav class="main-navigation" id="main-navigation" role="navigation">
+     <a class="nav-open" href="#main-navigation">
+      Menu
+     </a>
+     <a class="nav-close" href="#">
+      Close
+     </a>
+     <div class="clearfix sf-menu">
+      <ul class="menu" id="menu-menumain">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-351" id="menu-item-351">
+        <a href="https://nguoichuweb.com/">
+         Trang chủ
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97" id="menu-item-97">
+          <a href="https://nguoichuweb.com/gioi-thieu/">
+           Giới Thiệu
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343">
+        <a href="https://nguoichuweb.com/ly-do-nen-tu-lam-1-trang-web/">
+         Lý Do Nên Tự Làm Web
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382" id="menu-item-382">
+        <a href="https://nguoichuweb.com/cac-y-tuong-de-lam-website/">
+         Ý Tưởng Để Làm Web
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-340 current_page_item menu-item-has-children menu-item-342" id="menu-item-342">
+        <a href="https://nguoichuweb.com/huong-dan-tu-lam-1-trang-web/">
+         Thực Hành Tự Làm Web
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-344" id="menu-item-344">
+          <a href="https://nguoichuweb.com/137/huong-dan-cach-mua-ten-mien-tren-namecheap-cho-nguoi-moi-bat-dau/">
+           Hướng Dẫn Cách Mua Tên Miền
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-345" id="menu-item-345">
+          <a href="https://nguoichuweb.com/100/huong-dan-cach-mua-hosting-cua-hostgator-cho-nguoi-moi-bat-dau/">
+           Hướng Dẫn Cách Mua Hosting
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-346" id="menu-item-346">
+          <a href="https://nguoichuweb.com/214/huong-dan-cach-tro-ten-mien-ve-hosting-cho-nguoi-moi-bat-dau/">
+           Hướng Dẫn Cách Trỏ Tên Miền Về Hosting
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425" id="menu-item-425">
+          <a href="https://nguoichuweb.com/chuan-bi-ma-nguon/">
+           Chuẩn Bị Mã Nguồn
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-347" id="menu-item-347">
+          <a href="https://nguoichuweb.com/283/tung-buoc-chi-tiet-de-cai-dat-ma-nguon-wordpress-len-hosting/">
+           Hướng Dẫn Cài Đặt Mã Nguồn Website Lên Hosting
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424" id="menu-item-424">
+          <a href="https://nguoichuweb.com/huong-dan-tu-hoan-thien-trang-web-dung-ma-nguon-wordpress-cua-ban/">
+           Hướng Dẫn Tự Hoàn Thiện Trang Web Dùng Mã Nguồn WordPress Của Bạn
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-600" id="menu-item-600">
+        <a href="https://nguoichuweb.com/chia-se/huong-dan-cach-mua-hosting/">
+         Mua Hosting
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-602" id="menu-item-602">
+          <a href="https://nguoichuweb.com/top-5-hosting-nuoc-ngoai-tot-nhat-hien-nay/">
+           Top 5 Hosting Nước Ngoài
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-766" id="menu-item-766">
+          <a href="https://nguoichuweb.com/top-3-nha-cung-cap-may-chu-ao-vps-tot-nhat-the-gioi-hien-nay/">
+           Top 3 Nhà Cung Cấp Máy Chủ Ảo VPS
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-604" id="menu-item-604">
+          <a href="https://nguoichuweb.com/100/huong-dan-cach-mua-hosting-cua-hostgator-cho-nguoi-moi-bat-dau/">
+           Cách Mua Hosting của HostGator
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-663" id="menu-item-663">
+          <a href="https://nguoichuweb.com/642/huong-dan-cac-buoc-mua-hosting-tai-stablehost-don-gian-nhat/">
+           Cách Mua Hosting tại StableHost
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-664" id="menu-item-664">
+          <a href="https://nguoichuweb.com/632/huong-dan-cac-buoc-mua-hosting-tai-siteground-nhanh-nhat/">
+           Cách Mua Hosting tại SiteGround
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-665" id="menu-item-665">
+          <a href="https://nguoichuweb.com/621/huong-dan-chi-tiet-cach-mua-hosting-tai-hawkhost-cho-nguoi-moi/">
+           Cách Mua Hosting tại HawkHost
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-666" id="menu-item-666">
+          <a href="https://nguoichuweb.com/605/huong-dan-cach-mua-hosting-tren-dreamhost-don-gian-cho-nguoi-moi/">
+           Cách Mua Hosting tại Dreamhost
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-667" id="menu-item-667">
+          <a href="https://nguoichuweb.com/556/huong-dan-cach-mua-vps-knownhost-an-toan-cho-nguoi-moi/">
+           Cách Mua VPS của KnownHost
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-668" id="menu-item-668">
+          <a href="https://nguoichuweb.com/537/huong-dan-cach-mua-vps-linode-don-gian-cho-nguoi-moi/">
+           Cách Mua VPS của Linode
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-601" id="menu-item-601">
+        <a href="https://nguoichuweb.com/chia-se/huong-dan-cach-mua-ten-mien/">
+         Mua Tên Miền
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749" id="menu-item-749">
+          <a href="https://nguoichuweb.com/top-5-nha-dang-ky-ten-mien-tot-nhat-hien-nay/">
+           Top 5 Nhà Đăng Ký Tên Miền Tốt Nhất
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-603" id="menu-item-603">
+          <a href="https://nguoichuweb.com/137/huong-dan-cach-mua-ten-mien-tren-namecheap-cho-nguoi-moi-bat-dau/">
+           Cách Mua Tên Miền Trên NameCheap
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-707" id="menu-item-707">
+          <a href="https://nguoichuweb.com/685/huong-dan-cach-mua-ten-mien-tai-name-com-cho-nguoi-moi-bat-dau/">
+           Cách Mua Tên Miền tại NAME
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-708" id="menu-item-708">
+          <a href="https://nguoichuweb.com/669/huong-dan-cach-mua-ten-mien-tai-godaddy/">
+           Cách Mua Tên Miền tại Godaddy
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-599" id="menu-item-599">
+        <a href="https://nguoichuweb.com/chia-se/coupon-giam-gia/">
+         Coupon Giảm Giá
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-795" id="menu-item-795">
+        <a href="https://nguoichuweb.com/chia-se/blog-nguoi-chu-web/">
+         Blog
+        </a>
+       </li>
+      </ul>
+     </div>
+     <!-- #main-navigation -->
+    </nav>
+   </div>
+   <!-- #masthead -->
+  </header>
+  <div class="site-main" id="main">
+   <div class="clearfix container">
+    <div class="content-area" id="primary">
+     <div class="site-content" id="content" role="main">
+      <article class="clearfix post-340 page type-page status-publish hentry" id="post-340">
+       <header class="entry-header">
+        <h1 class="entry-title">
+         Thực Hành Tự Làm 1 Trang Web Hoàn Chỉnh Cho Người Mới Bắt Đầu
+        </h1>
+       </header>
+       <!-- .entry-header -->
+       <div class="clearfix entry-content">
+        <p>
+         Bạn đã hiểu được
+         <a href="https://nguoichuweb.com/ly-do-nen-tu-lam-1-trang-web/" rel="noopener noreferrer" target="_blank">
+          lý do tại sao bạn nên tự làm 1 trang web
+         </a>
+         và bạn cũng đã chọn được cho mình một
+         <a href="https://nguoichuweb.com/cac-y-tuong-de-lam-website/" rel="noopener noreferrer" target="_blank">
+          ý tưởng website
+         </a>
+         phù hợp với mục đích và nhu cầu của bạn, thế nhưng bạn vẫn băn khoăn không biết bắt đầu tiến hành làm web như thế nào ? Các bước thực hiện ra sao ? Chuẩn bị những gì ? …
+        </p>
+        <p>
+         Đừng lo ! Để có thể tự làm một trang web hoàn chỉnh từ đầu đến cuối, xin mời bạn thực hiện theo đúng trình tự các bước có kèm theo các bài hướng dẫn chi tiết như sau:
+        </p>
+        <h2>
+         <strong>
+          Bước 1:
+         </strong>
+         <strong>
+          Đăng Ký Tên Miền
+         </strong>
+        </h2>
+        <p>
+         Khi bắt đầu một trang web thì Tên miền (domain name) là một trong những thành phần quan trọng không thể thiếu trong khâu chuẩn bị của bạn. Hãy tưởng tượng, khi bạn muốn vào trang tìm kiếm Google thì bạn sẽ bật trình duyệt trên điện thoại hoặc máy tính của bạn lên, sau đó bạn bấm “google.com” vào ô địa chỉ của trình duyệt và bấm phím Enter, lập tức trên trình duyệt hiện ra trang tìm kiếm Google, ở đây “google.com” chính là tên miền.
+        </p>
+        <p>
+         Ở Việt Nam thường phân Tên Miền thành 2 loại là Tên Miền Quốc Tế (.com, .net, .org,…) và Tên Miền Quốc Gia Việt Nam (.vn, .com.vn, …). Lời khuyên từ các chuyên gia là mỗi doanh nghiệp hoặc cá nhân khi đăng ký tên miền nên đăng ký ít nhất 4 tên miền quan trọng:
+         <b>
+          .com, .net, .vn, .com.vn
+         </b>
+         . Tuy nhiên với người mới bắt đầu, để tiết kiệm chi phí bạn chỉ cần đăng ký tên miền “.com” là đã giành được vị thế tốt nhất cho trang web của bạn !
+        </p>
+        <p>
+         Để đăng ký tên miền, bạn vui lòng làm theo
+         <a href="https://nguoichuweb.com/137/huong-dan-cach-mua-ten-mien-tren-namecheap-cho-nguoi-moi-bat-dau/" rel="noopener noreferrer" target="_blank">
+          Hướng Dẫn Cách Mua Tên Miền Trên NameCheap Cho Người Mới Bắt Đầu
+         </a>
+        </p>
+        <h2>
+         <strong>
+          Bước 2:
+         </strong>
+         <strong>
+          Đăng Ký Hosting
+         </strong>
+        </h2>
+        <p>
+         Hosting là một không gian lưu trữ trên máy chủ cho phép bạn lưu trữ mã nguồn website và dữ liệu trên không gian đó.
+        </p>
+        <p>
+         Máy chủ chứa hosting là một máy tính có cấu hình rất mạnh, được cài đặt sẵn các phần mềm cho phép thực thi chương trình của mã nguồn website và thông thường máy chủ này được kết nối đến mạng Internet thông qua một đường truyền có băng thông lớn, cho phép nhiều người có thể truy cập vào máy chủ cùng lúc mà không gây nghẽn mạch. Ngoài ra không giống như máy tính ở nhà của bạn sử dụng IP động (địa chỉ IP bị thay đổi mỗi khi reset modem mạng), máy chủ chứa Hosting có một địa chỉ IP tĩnh (luôn cố định), do đó người dùng mạng cũng có thể truy cập đến trang web của bạn bằng cách gõ địa chỉ IP của máy chủ.
+        </p>
+        <p>
+         Có 2 loại Hosting bạn có thể chọn lựa để đăng ký mua đó là Web Hosting và Cloud Hosting. Mỗi loại có những ưu điểm và nhược điểm riêng chẳng hạn nói về tính linh động thì Cloud Hosting tốt hơn, nhưng xét về giá cả thì Web Hosting lại rẻ hơn và phù hợp hơn với người mới bắt đầu hoặc những người muốn tiết kiệm chi phí nhưng vẫn đảm bảo có 1 trang web chuyên nghiệp hoạt động ổn định.
+        </p>
+        <p>
+         Để đăng ký mua Hosting, bạn vui lòng làm theo
+         <a href="https://nguoichuweb.com/100/huong-dan-cach-mua-hosting-cua-hostgator-cho-nguoi-moi-bat-dau/" rel="noopener noreferrer" target="_blank">
+          Hướng Dẫn Cách Mua Hosting của HostGator Cho Người Mới Bắt Đầu
+         </a>
+        </p>
+        <h2>
+         <strong>
+          Bước 3:
+         </strong>
+         <strong>
+          Trỏ Tên Miền về Hosting
+         </strong>
+        </h2>
+        <p>
+         Mặc dù người dùng mạng có thể truy cập đến trang web của bạn thông qua địa chỉ IP của máy chủ như được trình bày trong bước 2, tuy nhiên điều sẽ vô cùng bất tiện cho người dùng vì việc truy cập trang web bằng địa chỉ IP vừa phức tạp lại vừa khó nhớ.
+        </p>
+        <p>
+         Thay vì vậy, chỉ cần trỏ Tên Miền của bạn về địa chỉ IP máy chủ Hosting là bạn đã cho phép người dùng truy cập vào nội dung web của bạn bằng cách gõ Tên Miền vào ô địa chỉ trên trình duyệt và ấn phím Enter.
+        </p>
+        <p>
+         Bạn có thể dễ dàng trỏ Tên Miền về Hosting của bạn bằng cách làm theo
+         <a href="https://nguoichuweb.com/214/huong-dan-cach-tro-ten-mien-ve-hosting-cho-nguoi-moi-bat-dau/" rel="noopener noreferrer" target="_blank">
+          Hướng Dẫn Cách Trỏ Tên Miền Về Hosting Cho Người Mới Bắt Đầu
+         </a>
+        </p>
+        <h2>
+         <strong>
+          Bước 4:
+         </strong>
+         <strong>
+          Chuẩn Bị Mã Nguồn
+         </strong>
+        </h2>
+        <p>
+         “Mã Nguồn Của Website là một hệ thống gồm một hoặc nhiều tập tin được viết bằng
+         <em>
+          ngôn ngữ lập trình website
+         </em>
+         , giúp kết nối các thành phần
+         <em>
+          giao diện người dùng của website
+         </em>
+         với
+         <em>
+          cơ sở dữ liệu
+         </em>
+         của website để tạo thành một trang web hoàn chỉnh”.
+        </p>
+        <p>
+         Để dễ hiểu về Mã Nguồn, nhiều người ví việc làm một trang web như xây một ngôi nhà, trong đó: Tên Miền là địa chỉ nhà, Hosting là phần đất để xây nhà, và cuối cùng “Mã Nguồn” chính là những vật liệu để hình thành nên toàn bộ căn nhà bao gồm kết cấu, chất liệu, nội thất bên trong và hình dáng bên ngoài của căn nhà.
+        </p>
+        <p>
+         Có nhiều loại mã nguồn khác nhau mà bạn có thể chọn lựa, trong đó WordPress là một loại mã nguồn mở thông dụng và dễ triển khai nhất hiện nay. Bạn có thể tải bộ mã nguồn WordPress về máy tính của bạn bằng cách
+         <a href="https://vi.wordpress.org/" rel="noopener noreferrer" target="_blank">
+          bấm vào đây
+         </a>
+         hoặc tải theo liên kết:
+         <a href="https://vi.wordpress.org/" rel="noopener noreferrer" target="_blank">
+          https://vi.wordpress.org/
+         </a>
+        </p>
+        <p>
+         Bạn có thể tìm hiểu thêm nội dung này qua bài viết chi tiết
+         <a href="https://nguoichuweb.com/chuan-bi-ma-nguon/" rel="noopener noreferrer" target="_blank">
+          Chuẩn Bị Mã Nguồn
+         </a>
+        </p>
+        <h2>
+         <strong>
+          Bước 5:
+         </strong>
+         <strong>
+          Cài Đặt Mã Nguồn Website Lên Hosting.
+         </strong>
+        </h2>
+        <p>
+         Sau khi đã chuẩn bị xong mã nguồn, bạn cần upload mã nguồn này lên không gian Hosting của bạn, sau đó bạn chỉ cần khởi tạo cơ sở dữ liệu và kết nối mã nguồn này đến cơ sở dữ liệu là đã có thể nhìn thấy những hình ảnh đầu tiên về trang web của bạn, quá đơn giản phải không nào ?
+        </p>
+        <p>
+         Để thực hiện bước 5 này, bạn chỉ cần làm theo hướng dẫn đã được chuẩn bị cho bạn trong bài viết
+         <a href="https://nguoichuweb.com/283/tung-buoc-chi-tiet-de-cai-dat-ma-nguon-wordpress-len-hosting/" rel="noopener noreferrer" target="_blank">
+          Từng Bước Chi Tiết Để Cài Đặt Mã Nguồn WordPress Lên Hosting
+         </a>
+        </p>
+        <h2>
+         <strong>
+          Bước 6:
+         </strong>
+         <strong>
+          Hoàn Thiện Trang Web Của Bạn
+         </strong>
+        </h2>
+        <p>
+         Trang web được tạo ra sau khi bạn hoàn thành Bước 5 là trang web căn bản nhất, nó tương tự như một ngôi nhà mới làm xong phần thô !
+        </p>
+        <p>
+         Để hoàn thiện trang web, bạn cần nhớ lại
+         <a href="https://nguoichuweb.com/cac-y-tuong-de-lam-website/" rel="noopener noreferrer" target="_blank">
+          Ý Tưởng Để Làm Web
+         </a>
+         lúc đầu của bạn là gì ? Từ đó bạn sẽ biết được bạn cần làm gì tiếp theo để biến trang web của bạn thành một trang web thực sự có đầy đủ nội dung và đáp ứng được các tiêu chuẩn về hình thức, giúp thu hút và giữ chân những người viếng thăm trang web của bạn !
+        </p>
+        <p>
+         Để hoàn thiện trang web sử dụng mã nguồn WordPress, bạn có thể tham khảo các hướng dẫn gợi ý có sẵn của tác giả NguoiChuWeb.com thông qua bài viết:
+         <a href="https://nguoichuweb.com/huong-dan-tu-hoan-thien-trang-web-dung-ma-nguon-wordpress-cua-ban/">
+          <strong>
+           Hướng Dẫn Tự Hoàn Thiện Trang Web Sử Dụng Mã Nguồn WordPress Của Bạn
+          </strong>
+         </a>
+        </p>
+       </div>
+       <!-- .entry-content -->
+      </article>
+      <!-- #post-## -->
+      <!-- #content -->
+     </div>
+     <!-- #primary -->
+    </div>
+    <div class="site-sidebar widget-area" id="widget-area-2" role="complementary">
+     <aside class="widget widget_text" id="text-6">
+      <div class="textwidget">
+       <a href="https://nguoichuweb.com/huong-dan-tu-lam-1-trang-web/" title="Hướng Dẫn Thực Hành Tự Làm Một Trang Web Hoàn Chỉnh Cho Người Mới Bắt Đầu">
+        <img src="https://nguoichuweb.com/wp-content/uploads/2018/02/huong-dan-thuc-hanh-tu-lam-web-3.jpg"/>
+       </a>
+      </div>
+     </aside>
+     <a class="medium otw-red radius otw-button" href="https://nguoichuweb.com/top-5-nha-dang-ky-ten-mien-tot-nhat-hien-nay/">
+      <i class="general foundicon-right-arrow">
+      </i>
+      Top 5 Nhà Đăng Ký Tên Miền Tốt Rẻ
+     </a>
+     <a class="medium otw-red radius otw-button" href="https://nguoichuweb.com/top-5-hosting-nuoc-ngoai-tot-nhat-hien-nay/">
+      <i class="general foundicon-right-arrow">
+      </i>
+      Top 5 Hosting Nước Ngoài Tốt Nhất
+     </a>
+     <a class="medium otw-red radius otw-button" href="https://nguoichuweb.com/top-3-nha-cung-cap-may-chu-ao-vps-tot-nhat-the-gioi-hien-nay/">
+      <i class="general foundicon-right-arrow">
+      </i>
+      Top 3 nhà cung cấp máy chủ ảo VPS
+     </a>
+     <aside class="widget widget_text" id="text-5">
+      <h3 class="widget-title">
+       <span>
+        Tại sao bạn nên tự làm một trang web ?
+       </span>
+      </h3>
+      <div class="textwidget">
+       Khi nói đến việc “tự làm một trang web” thì điều này không có nghĩa là bạn cần phải tự làm một trang web từ A đến Z. Chẳng ai trách bạn nếu bạn có nhiều tiền và muốn thuê người khác làm trang web cho bạn, tuy nhiên nhiên nếu bạn có tài chính mạnh thậm chí không thiếu để thuê cả một đội ngũ quản lý web nhưng lại phải “đau đầu” vì một ngày đẹp trời nào đó một cá nhân hoặc công ty quản lý tên miền của bạn bỗng nhiên “biến mất” như chưa hề tồn tại thì người đáng trách chính là bạn ! Do đó nếu bạn đang có ý định làm một trang web thì đừng quên đọc bài viết
+       <a href="https://nguoichuweb.com/ly-do-nen-tu-lam-1-trang-web/">
+        Các Lý Do Nên Tự Làm 1 Trang Web
+       </a>
+       trước khi bắt đầu xây dựng đế chế của riêng mình trong thế giới Internet bạn nhé ! :)
+      </div>
+     </aside>
+     <aside class="widget widget_athemes_tabs" id="athemes_tabs-2">
+      <ul class="clearfix widget-tab-nav" id="widget-tab">
+       <li class="active">
+        <a href="#widget-tab-popular">
+         Xem nhiều nhất
+        </a>
+       </li>
+       <li>
+        <a href="#widget-tab-latest">
+         Mới nhất
+        </a>
+       </li>
+       <li>
+        <a href="#widget-tab-tags">
+         Tags
+        </a>
+       </li>
+      </ul>
+      <div class="widget-tab-content">
+       <div class="tab-pane active" id="widget-tab-popular">
+        <ul>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/860/khuyen-mai-khung-tai-location-spain-cung-stablehost/" title="Khuyến mãi “khủng” tại location Spain cùng StableHost">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="50" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2019/02/1-50x50.jpg" srcset="https://nguoichuweb.com/wp-content/uploads/2019/02/1-50x50.jpg 50w, https://nguoichuweb.com/wp-content/uploads/2019/02/1-150x150.jpg 150w" title="Khuyến mãi “khủng” tại location Spain cùng StableHost" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/860/khuyen-mai-khung-tai-location-spain-cung-stablehost/" rel="bookmark" title="Khuyến mãi “khủng” tại location Spain cùng StableHost">
+             Khuyến mãi “khủng” tại location Spain cùng StableHost
+            </a>
+           </h4>
+           <span>
+            0 Bình luận
+           </span>
+          </div>
+         </li>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/57/huong-dan-cach-xac-thuc-tai-khoan-paypal-thanh-cong/" title="Hướng Dẫn Cách Xác Thực Tài Khoản PayPal Thành Công">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="24" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2017/08/paypal_account_verify_5.png" srcset="https://nguoichuweb.com/wp-content/uploads/2017/08/paypal_account_verify_5.png 489w, https://nguoichuweb.com/wp-content/uploads/2017/08/paypal_account_verify_5-300x141.png 300w" title="Hướng Dẫn Cách Xác Thực Tài Khoản PayPal Thành Công" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/57/huong-dan-cach-xac-thuc-tai-khoan-paypal-thanh-cong/" rel="bookmark" title="Hướng Dẫn Cách Xác Thực Tài Khoản PayPal Thành Công">
+             Hướng Dẫn Cách Xác Thực Tài Khoản PayPal Thành Công
+            </a>
+           </h4>
+           <span>
+            0 Bình luận
+           </span>
+          </div>
+         </li>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/100/huong-dan-cach-mua-hosting-cua-hostgator-cho-nguoi-moi-bat-dau/" title="Hướng Dẫn Cách Mua Hosting của HostGator Cho Người Mới Bắt Đầu">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="23" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2017/08/dangky_hostgator_1-1.png" srcset="https://nguoichuweb.com/wp-content/uploads/2017/08/dangky_hostgator_1-1.png 750w, https://nguoichuweb.com/wp-content/uploads/2017/08/dangky_hostgator_1-1-300x138.png 300w" title="Hướng Dẫn Cách Mua Hosting của HostGator Cho Người Mới Bắt Đầu" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/100/huong-dan-cach-mua-hosting-cua-hostgator-cho-nguoi-moi-bat-dau/" rel="bookmark" title="Hướng Dẫn Cách Mua Hosting của HostGator Cho Người Mới Bắt Đầu">
+             Hướng Dẫn Cách Mua Hosting của HostGator Cho Người Mới Bắt Đầu
+            </a>
+           </h4>
+           <span>
+            0 Bình luận
+           </span>
+          </div>
+         </li>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/137/huong-dan-cach-mua-ten-mien-tren-namecheap-cho-nguoi-moi-bat-dau/" title="Hướng Dẫn Cách Mua Tên Miền Trên NameCheap Cho Người Mới Bắt Đầu">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="23" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2017/10/mua_ten_mien_namecheap_1.png" srcset="https://nguoichuweb.com/wp-content/uploads/2017/10/mua_ten_mien_namecheap_1.png 750w, https://nguoichuweb.com/wp-content/uploads/2017/10/mua_ten_mien_namecheap_1-300x140.png 300w" title="Hướng Dẫn Cách Mua Tên Miền Trên NameCheap Cho Người Mới Bắt Đầu" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/137/huong-dan-cach-mua-ten-mien-tren-namecheap-cho-nguoi-moi-bat-dau/" rel="bookmark" title="Hướng Dẫn Cách Mua Tên Miền Trên NameCheap Cho Người Mới Bắt Đầu">
+             Hướng Dẫn Cách Mua Tên Miền Trên NameCheap Cho Người Mới Bắt Đầu
+            </a>
+           </h4>
+           <span>
+            0 Bình luận
+           </span>
+          </div>
+         </li>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/181/tim-hieu-cach-su-dung-tai-khoan-hostgator-cho-nguoi-moi-bat-dau/" title="Tìm Hiểu Cách Sử Dụng Tài Khoản Hostgator Cho Người Mới Bắt Đầu">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="36" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2017/10/quanly_billing_1.png" srcset="https://nguoichuweb.com/wp-content/uploads/2017/10/quanly_billing_1.png 500w, https://nguoichuweb.com/wp-content/uploads/2017/10/quanly_billing_1-300x215.png 300w" title="Tìm Hiểu Cách Sử Dụng Tài Khoản Hostgator Cho Người Mới Bắt Đầu" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/181/tim-hieu-cach-su-dung-tai-khoan-hostgator-cho-nguoi-moi-bat-dau/" rel="bookmark" title="Tìm Hiểu Cách Sử Dụng Tài Khoản Hostgator Cho Người Mới Bắt Đầu">
+             Tìm Hiểu Cách Sử Dụng Tài Khoản Hostgator Cho Người Mới Bắt Đầu
+            </a>
+           </h4>
+           <span>
+            0 Bình luận
+           </span>
+          </div>
+         </li>
+        </ul>
+        <!-- #widget-tab-popular -->
+       </div>
+       <div class="tab-pane" id="widget-tab-latest">
+        <ul>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/860/khuyen-mai-khung-tai-location-spain-cung-stablehost/" title="Khuyến mãi “khủng” tại location Spain cùng StableHost">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="50" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2019/02/1-50x50.jpg" srcset="https://nguoichuweb.com/wp-content/uploads/2019/02/1-50x50.jpg 50w, https://nguoichuweb.com/wp-content/uploads/2019/02/1-150x150.jpg 150w" title="Khuyến mãi “khủng” tại location Spain cùng StableHost" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/860/khuyen-mai-khung-tai-location-spain-cung-stablehost/" rel="bookmark" title="Khuyến mãi “khủng” tại location Spain cùng StableHost">
+             Khuyến mãi “khủng” tại location Spain cùng StableHost
+            </a>
+           </h4>
+           <span>
+            Tháng Hai 25, 2019
+           </span>
+          </div>
+         </li>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/851/san-loc-dau-nam-voi-uu-dai-chi-5-88-usd-tai-namecheap/" title="Săn lộc đầu năm với ưu đãi chỉ $5.88 USD tại Namecheap">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="50" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2019/02/Capture-50x50.jpg" srcset="https://nguoichuweb.com/wp-content/uploads/2019/02/Capture-50x50.jpg 50w, https://nguoichuweb.com/wp-content/uploads/2019/02/Capture-150x150.jpg 150w" title="Săn lộc đầu năm với ưu đãi chỉ $5.88 USD tại Namecheap" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/851/san-loc-dau-nam-voi-uu-dai-chi-5-88-usd-tai-namecheap/" rel="bookmark" title="Săn lộc đầu năm với ưu đãi chỉ $5.88 USD tại Namecheap">
+             Săn lộc đầu năm với ưu đãi chỉ $5.88 USD tại Namecheap
+            </a>
+           </h4>
+           <span>
+            Tháng Hai 16, 2019
+           </span>
+          </div>
+         </li>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/831/dung-tha-ga-hosting-cua-hostgator-voi-gia-chi-0-01-usdthang/" title="Dùng thả ga Hosting của HostGator với giá chỉ $0.01 USD/tháng">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="36" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2017/10/quanly_billing_1.png" srcset="https://nguoichuweb.com/wp-content/uploads/2017/10/quanly_billing_1.png 500w, https://nguoichuweb.com/wp-content/uploads/2017/10/quanly_billing_1-300x215.png 300w" title="Dùng thả ga Hosting của HostGator với giá chỉ $0.01 USD/tháng" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/831/dung-tha-ga-hosting-cua-hostgator-voi-gia-chi-0-01-usdthang/" rel="bookmark" title="Dùng thả ga Hosting của HostGator với giá chỉ $0.01 USD/tháng">
+             Dùng thả ga Hosting của HostGator với giá chỉ $0.01 USD/tháng
+            </a>
+           </h4>
+           <span>
+            Tháng Ba 07, 2018
+           </span>
+          </div>
+         </li>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/829/off25vn-ma-giam-gia-25-khi-ban-mua-hosting-tren-hostgator/" title="OFF25VN – Mã giảm giá 25% khi bạn mua Hosting trên HostGator">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="50" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2017/12/hostgator-50x50.png" srcset="https://nguoichuweb.com/wp-content/uploads/2017/12/hostgator-50x50.png 50w, https://nguoichuweb.com/wp-content/uploads/2017/12/hostgator-150x150.png 150w" title="OFF25VN – Mã giảm giá 25% khi bạn mua Hosting trên HostGator" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/829/off25vn-ma-giam-gia-25-khi-ban-mua-hosting-tren-hostgator/" rel="bookmark" title="OFF25VN – Mã giảm giá 25% khi bạn mua Hosting trên HostGator">
+             OFF25VN – Mã giảm giá 25% khi bạn mua Hosting trên HostGator
+            </a>
+           </h4>
+           <span>
+            Tháng Ba 07, 2018
+           </span>
+          </div>
+         </li>
+         <li class="clearfix">
+          <div class="widget-entry-thumbnail">
+           <a href="https://nguoichuweb.com/825/ngay-6-732018-co-hoi-chuyen-ten-mien-ve-namecheap-chi-voi-3-98-usd/" title="Ngày 6-7/3/2018: Cơ hội chuyển tên miền về NameCheap chỉ với $3.98 USD">
+            <img alt="" class="attachment-thumb-small size-thumb-small wp-post-image" height="50" sizes="(max-width: 50px) 100vw, 50px" src="https://nguoichuweb.com/wp-content/uploads/2018/03/Move-Your-Domain-Day-50x50.png" srcset="https://nguoichuweb.com/wp-content/uploads/2018/03/Move-Your-Domain-Day-50x50.png 50w, https://nguoichuweb.com/wp-content/uploads/2018/03/Move-Your-Domain-Day-150x150.png 150w" title="Ngày 6-7/3/2018: Cơ hội chuyển tên miền về NameCheap chỉ với $3.98 USD" width="50"/>
+           </a>
+          </div>
+          <div class="widget-entry-summary">
+           <h4>
+            <a href="https://nguoichuweb.com/825/ngay-6-732018-co-hoi-chuyen-ten-mien-ve-namecheap-chi-voi-3-98-usd/" rel="bookmark" title="Ngày 6-7/3/2018: Cơ hội chuyển tên miền về NameCheap chỉ với $3.98 USD">
+             Ngày 6-7/3/2018: Cơ hội chuyển tên miền về NameCheap chỉ với $3.98 USD
+            </a>
+           </h4>
+           <span>
+            Tháng Ba 05, 2018
+           </span>
+          </div>
+         </li>
+        </ul>
+        <!-- #widget-tab-latest -->
+       </div>
+       <div class="tab-pane" id="widget-tab-tags">
+        <a aria-label="NameCheap (3 mục)" class="tag-cloud-link tag-link-37 tag-link-position-1" href="https://nguoichuweb.com/tag/namecheap/" style="font-size: 1em;">
+         NameCheap
+        </a>
+        <a aria-label="Mã Giảm Giá HostGator (3 mục)" class="tag-cloud-link tag-link-140 tag-link-position-2" href="https://nguoichuweb.com/tag/ma-giam-gia-hostgator/" style="font-size: 1em;">
+         Mã Giảm Giá HostGator
+        </a>
+        <a aria-label="Danh Sách Mã Giảm Giá HostGator (3 mục)" class="tag-cloud-link tag-link-141 tag-link-position-3" href="https://nguoichuweb.com/tag/danh-sach-ma-giam-gia-hostgator/" style="font-size: 1em;">
+         Danh Sách Mã Giảm Giá HostGator
+        </a>
+        <a aria-label="Mã Giảm Giá HostGator Mới Nhất (3 mục)" class="tag-cloud-link tag-link-145 tag-link-position-4" href="https://nguoichuweb.com/tag/ma-giam-gia-hostgator-moi-nhat/" style="font-size: 1em;">
+         Mã Giảm Giá HostGator Mới Nhất
+        </a>
+        <a aria-label="Mã Giảm Giá HostGator Năm 2018 (3 mục)" class="tag-cloud-link tag-link-146 tag-link-position-5" href="https://nguoichuweb.com/tag/ma-giam-gia-hostgator-nam-2018/" style="font-size: 1em;">
+         Mã Giảm Giá HostGator Năm 2018
+        </a>
+        <!-- #widget-tab-tags -->
+       </div>
+      </div>
+     </aside>
+     <aside class="widget widget_listcategorypostswidget" id="listcategorypostswidget-3">
+      <h3 class="widget-title">
+       <span>
+        Cách Mua Tên Miền
+       </span>
+      </h3>
+      <ul class="lcp_catlist" id="lcp_instance_listcategorypostswidget-3">
+       <li class="cach-mua-domain-name-com cach-mua-domain-tren-name-com cach-mua-ten-mien-name-com cach-mua-ten-mien-tren-name-com huong-dan-cach-mua-domain-name-com huong-dan-cach-mua-domain-tren-name-com huong-dan-cach-mua-ten-mien-name-com huong-dan-cach-mua-ten-mien-tren-name-com mua-domain-name-com mua-domain-tren-name-com mua-ten-mien-name-com mua-ten-mien-tren-name-com">
+        <a href="https://nguoichuweb.com/685/huong-dan-cach-mua-ten-mien-tai-name-com-cho-nguoi-moi-bat-dau/" title="Hướng Dẫn Cách Mua Tên Miền Tại Name.com Cho Người Mới Bắt Đầu">
+         Hướng Dẫn Cách Mua Tên Miền Tại Name.com Cho Người Mới Bắt Đầu
+        </a>
+       </li>
+       <li class="cach-mua-domain-godaddy cach-mua-domain-tai-godaddy cach-mua-ten-mien-godaddy cach-mua-ten-mien-tai-godaddy mua-domain-godaddy mua-domain-tai-godaddy mua-ten-mien-godaddy mua-ten-mien-tai-godaddy">
+        <a href="https://nguoichuweb.com/669/huong-dan-cach-mua-ten-mien-tai-godaddy/" title="Hướng Dẫn Cách Mua Tên Miền Tại Godaddy">
+         Hướng Dẫn Cách Mua Tên Miền Tại Godaddy
+        </a>
+       </li>
+       <li class="cach-mua-ten-mien-nuoc-ngoai cach-mua-ten-mien-quoc-te huong-dan-cach-mua-ten-mien lam-sao-de-dang-ky-mua-ten-mien mua-ten-mien-truc-tuyen name-cheap namecheap thu-tuc-mua-ten-mien-quoc-te">
+        <a href="https://nguoichuweb.com/137/huong-dan-cach-mua-ten-mien-tren-namecheap-cho-nguoi-moi-bat-dau/" title="Hướng Dẫn Cách Mua Tên Miền Trên NameCheap Cho Người Mới Bắt Đầu">
+         Hướng Dẫn Cách Mua Tên Miền Trên NameCheap Cho Người Mới Bắt Đầu
+        </a>
+       </li>
+      </ul>
+      <a href="https://nguoichuweb.com/chia-se/huong-dan-cach-mua-ten-mien/">
+      </a>
+     </aside>
+     <aside class="widget widget_listcategorypostswidget" id="listcategorypostswidget-2">
+      <h3 class="widget-title">
+       <span>
+        Cách Mua Hosting
+       </span>
+      </h3>
+      <ul class="lcp_catlist" id="lcp_instance_listcategorypostswidget-2">
+       <li class="cach-mua-vps-linode huong-dan-cach-mua-vps-linode huong-dan-mua-vps-linode linode mua-vps-linode vps-linode">
+        <a href="https://nguoichuweb.com/537/huong-dan-cach-mua-vps-linode-don-gian-cho-nguoi-moi/" title="Hướng Dẫn Cách Đăng Ký Mua VPS Linode Thành Công 100%">
+         Hướng Dẫn Cách Đăng Ký Mua VPS Linode Thành Công 100%
+        </a>
+       </li>
+       <li class="cach-mua-hosting-hawkhost cach-mua-hosting-tren-hawkhost huong-dan-cach-mua-hosting-hawkhost huong-dan-cach-mua-hosting-tren-hawkhost huong-dan-mua-hosting-hawkhost huong-dan-mua-hosting-tren-hawkhost mua-hosting-hawkhost mua-hosting-tren-hawkhost">
+        <a href="https://nguoichuweb.com/621/huong-dan-chi-tiet-cach-mua-hosting-tai-hawkhost-cho-nguoi-moi/" title="Hướng Dẫn Chi Tiết Cách Mua Hosting Tại HawkHost Cho Người Mới">
+         Hướng Dẫn Chi Tiết Cách Mua Hosting Tại HawkHost Cho Người Mới
+        </a>
+       </li>
+       <li class="hosting-siteground huong-dan-cach-mua-hosting-siteground huong-dan-cach-mua-hosting-tren-siteground huong-dan-mua-hosting-siteground huong-dan-mua-hosting-tren-siteground mua-hosting-siteground mua-hosting-tren-siteground">
+        <a href="https://nguoichuweb.com/632/huong-dan-cac-buoc-mua-hosting-tai-siteground-nhanh-nhat/" title="Hướng Dẫn Các Bước Mua Hosting Tại SiteGround Nhanh Nhất">
+         Hướng Dẫn Các Bước Mua Hosting Tại SiteGround Nhanh Nhất
+        </a>
+       </li>
+       <li class="hosting-stablehost huong-dan-cach-mua-hosting-stablehost huong-dan-cach-mua-hosting-tren-stablehost huong-dan-mua-hosting-stablehost huong-dan-mua-hosting-tren-stablehost mua-hosting-stablehost mua-hosting-tren-stablehost">
+        <a href="https://nguoichuweb.com/642/huong-dan-cac-buoc-mua-hosting-tai-stablehost-don-gian-nhat/" title="Hướng Dẫn Các Bước Mua Hosting Tại StableHost Đơn Giản Nhất">
+         Hướng Dẫn Các Bước Mua Hosting Tại StableHost Đơn Giản Nhất
+        </a>
+       </li>
+       <li class="cach-mua-hosting-cua-hostgator cach-xac-thuc-hostgator host-nuoc-ngoai hostgator hosting-nuoc-ngoai huong-dan-hostgator web-hosting">
+        <a href="https://nguoichuweb.com/100/huong-dan-cach-mua-hosting-cua-hostgator-cho-nguoi-moi-bat-dau/" title="Hướng Dẫn Cách Mua Hosting của HostGator Cho Người Mới Bắt Đầu">
+         Hướng Dẫn Cách Mua Hosting của HostGator Cho Người Mới Bắt Đầu
+        </a>
+       </li>
+       <li class="cach-mua-hosting-dreamhost cach-mua-hosting-tren-dreamhost huong-dan-cach-mua-hosting-dreamhost huong-dan-cach-mua-hosting-tren-dreamhost huong-dan-mua-hosting-tren-dreamhost mua-hosting-dreamhost mua-hosting-tren-dreamhost">
+        <a href="https://nguoichuweb.com/605/huong-dan-cach-mua-hosting-tren-dreamhost-don-gian-cho-nguoi-moi/" title="Hướng Dẫn Cách Mua Hosting Trên DreamHost Đơn Giản Cho Người Mới">
+         Hướng Dẫn Cách Mua Hosting Trên DreamHost Đơn Giản Cho Người Mới
+        </a>
+       </li>
+       <li class="cach-mua-vps-knownhost huong-dan-cach-mua-vps-knownhost huong-dan-mua-vps-knownhost mua-vps-knownhost vps-knownhost">
+        <a href="https://nguoichuweb.com/556/huong-dan-cach-mua-vps-knownhost-an-toan-cho-nguoi-moi/" title="Hướng Dẫn Cách Mua VPS của KnownHost Cho Người Mới Bắt Đầu">
+         Hướng Dẫn Cách Mua VPS của KnownHost Cho Người Mới Bắt Đầu
+        </a>
+       </li>
+      </ul>
+      <a href="https://nguoichuweb.com/chia-se/huong-dan-cach-mua-hosting/">
+      </a>
+     </aside>
+     <aside class="widget widget_newsletterwidget" id="newsletterwidget-2">
+      <h3 class="widget-title">
+       <span>
+        Đăng ký nhận bản tin
+       </span>
+      </h3>
+      Đăng ký để nhận các thông tin giảm giá mới nhất thông qua hộp mail từ các nhà cung cấp dịch vụ hàng đầu thế giới !
+      <div class="tnp tnp-widget">
+       <form action="https://nguoichuweb.com/?na=s" method="post" onsubmit="return newsletter_check(this)">
+        <input name="nlang" type="hidden" value=""/>
+        <input name="nr" type="hidden" value="widget"/>
+        <input name="nl[]" type="hidden" value="0"/>
+        <div class="tnp-field tnp-field-email">
+         <label>
+          Email
+         </label>
+         <input class="tnp-email" name="ne" required="" type="email"/>
+        </div>
+        <div class="tnp-field tnp-field-button">
+         <input class="tnp-submit" type="submit" value="Đăng Ký"/>
+        </div>
+       </form>
+      </div>
+     </aside>
+     <aside class="widget widget_text" id="text-8">
+      <h3 class="widget-title">
+       <span>
+        Truy cập nhanh
+       </span>
+      </h3>
+      <div class="textwidget">
+       <a href="//namecheap.pxf.io/c/1203843/386446/5618">
+        <img alt="Domain names for just 88 cents!" border="0" height="250" src="//a.impactradius-go.com/display-ad/5618-386446" width="300"/>
+       </a>
+       <img border="0" height="0" src="//namecheap.pxf.io/i/1203843/386446/5618" style="position:absolute;visibility:hidden;" width="0"/>
+       <br/>
+       <br/>
+       <a href="//partners.hostgator.com/c/1203843/191542/3094">
+        <img alt="" border="0" height="250" src="//a.impactradius-go.com/display-ad/3094-191542" width="300"/>
+       </a>
+       <img border="0" height="0" src="//partners.hostgator.com/i/1203843/191542/3094" style="position:absolute;visibility:hidden;" width="0"/>
+      </div>
+     </aside>
+     <!-- #widget-area-2 -->
+    </div>
+   </div>
+   <!-- #main -->
+  </div>
+  <div class="site-extra extra-four" id="extra">
+   <div class="container">
+    <div class="clearfix pad">
+     <div class="widget-area" id="widget-area-3" role="complementary">
+      <div class="widget widget_text" id="text-4">
+       <h3 class="widget-title">
+        <span>
+         Giới thiệu
+        </span>
+       </h3>
+       <div class="textwidget">
+        Với mong muốn giúp bạn đọc có thể tạo dựng cho mình một website chuyên nghiệp với rủi ro thấp nhất, trang web NguoiChuWeb.com được thành lập và hoạt động như một Blog cá nhân với định hướng trở thành nơi chia sẻ tất cả các kiến thức và kinh nghiệm quý báu của tác giả trong việc xây dựng, quản lý và phát triển một trang web bất kỳ từ giai đoạn ươm mầm ý tưởng cho đến khi trở thành một website nổi tiếng với hàng triệu người truy cập !
+        <a href="https://nguoichuweb.com/gioi-thieu/">
+         Xem chi tiết
+        </a>
+       </div>
+      </div>
+      <!-- #widget-area-3 -->
+     </div>
+     <div class="widget-area" id="widget-area-4" role="complementary">
+      <div class="widget widget_categories" id="categories-2">
+       <h3 class="widget-title">
+        <span>
+         Chuyên Mục Người Chủ Web
+        </span>
+       </h3>
+       <ul>
+        <li class="cat-item cat-item-81">
+         <a href="https://nguoichuweb.com/chia-se/coupon-giam-gia/" title="Tổng hợp danh sách các mã giảm giá mới nhất từ các nhà cung cấp Hosting &amp; Tên miền nổi tiếng trên thế giới như HostGator, StableHost, KnownHost, Linode, NameCheap, Name, Godaddy, ...">
+          Coupon Giảm Giá
+         </a>
+        </li>
+        <li class="cat-item cat-item-82">
+         <a href="https://nguoichuweb.com/chia-se/huong-dan-cach-mua-hosting/" title="Nơi chia sẻ các bài viết hướng dẫn cách mua Hosting chất lượng từ các nhà cung cấp dịch vụ Hosting hàng đầu thế giới như HostGator, StableHost, KnownHost, Linode, ... hãy đọc các bài hướng dẫn chi tiết để giúp bạn mua Hosting nước ngoài thành công và tiết kiệm nhất !">
+          Hướng Dẫn Cách Mua Hosting
+         </a>
+        </li>
+        <li class="cat-item cat-item-83">
+         <a href="https://nguoichuweb.com/chia-se/huong-dan-cach-mua-ten-mien/" title="Hướng dẫn từng bước cách mua Tên Miền dành cho người mới bắt đầu, nếu bạn là người lần đầu tiên mua Domain Name quốc tế thì chuyên mục này sẽ rất có ích cho bạn !">
+          Hướng Dẫn Cách Mua Tên Miền
+         </a>
+        </li>
+        <li class="cat-item cat-item-11">
+         <a href="https://nguoichuweb.com/chia-se/huong-dan-hostgator/" title="Tổng hợp các bài viết hay nhất và chi tiết nhất về HostGator, xem chi tiết cách mua và cách sử dụng cũng như cách cài đặt website lên HostGator dành cho người mới bắt đầu">
+          Hướng Dẫn HostGator
+         </a>
+        </li>
+        <li class="cat-item cat-item-80">
+         <a href="https://nguoichuweb.com/chia-se/huong-dan-knownhost/" title="Tập hợp các bài viết hướng dẫn mua và hướng dẫn sử dụng VPS từ nhà cung cấp dịch vụ VPS nổi tiếng thế giới KnownHost">
+          Hướng Dẫn KnownHost
+         </a>
+        </li>
+        <li class="cat-item cat-item-79">
+         <a href="https://nguoichuweb.com/chia-se/huong-dan-linode/" title="Các bài viết hướng dẫn cách mua và cách sử dụng VPS của nhà cung cấp dịch vụ VPS hàng đầu thế giới Linode, nếu bạn là người mới bắt đầu với VPS của Linode thì các bài viết này sẽ rất có ích cho bạn">
+          Hướng Dẫn Linode
+         </a>
+        </li>
+        <li class="cat-item cat-item-32">
+         <a href="https://nguoichuweb.com/chia-se/huong-dan-namecheap/" title="Hướng dẫn cách mua tên miền trên NameCheap, tổng hợp các bài viết hướng dẫn sử dụng NameCheap, cách trỏ tên miền  từ NameCheap về Hosting cho người mới bắt đầu">
+          Hướng Dẫn NameCheap
+         </a>
+        </li>
+        <li class="cat-item cat-item-2">
+         <a href="https://nguoichuweb.com/chia-se/huong-dan-paypal/" title="Tổng hợp các bài viết hướng dẫn về PayPal, cách tạo tài khoản PayPal cho người mới bắt đầu, cách xác thực PayPal dễ thành công nhất, cách chuyển tiền trên PayPal">
+          Hướng Dẫn PayPal
+         </a>
+        </li>
+        <li class="cat-item cat-item-52">
+         <a href="https://nguoichuweb.com/chia-se/huong-dan-wordpress/" title="Tổng hợp các bài viết hướng dẫn chi tiết về WordPress dành cho người mới bắt đầu, nếu bạn đang muốn làm một website wordpress thì các bài viết này được viết dành riêng cho bạn">
+          Hướng Dẫn WordPress
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- #widget-area-4 -->
+     </div>
+     <div class="widget-area" id="widget-area-5" role="complementary">
+      <div class="widget widget_recent_entries" id="recent-posts-4">
+       <h3 class="widget-title">
+        <span>
+         Mới nhất
+        </span>
+       </h3>
+       <ul>
+        <li>
+         <a href="https://nguoichuweb.com/860/khuyen-mai-khung-tai-location-spain-cung-stablehost/">
+          Khuyến mãi “khủng” tại location Spain cùng StableHost
+         </a>
+        </li>
+        <li>
+         <a href="https://nguoichuweb.com/851/san-loc-dau-nam-voi-uu-dai-chi-5-88-usd-tai-namecheap/">
+          Săn lộc đầu năm với ưu đãi chỉ $5.88 USD tại Namecheap
+         </a>
+        </li>
+        <li>
+         <a href="https://nguoichuweb.com/831/dung-tha-ga-hosting-cua-hostgator-voi-gia-chi-0-01-usdthang/">
+          Dùng thả ga Hosting của HostGator với giá chỉ $0.01 USD/tháng
+         </a>
+        </li>
+        <li>
+         <a href="https://nguoichuweb.com/829/off25vn-ma-giam-gia-25-khi-ban-mua-hosting-tren-hostgator/">
+          OFF25VN – Mã giảm giá 25% khi bạn mua Hosting trên HostGator
+         </a>
+        </li>
+        <li>
+         <a href="https://nguoichuweb.com/825/ngay-6-732018-co-hoi-chuyen-ten-mien-ve-namecheap-chi-voi-3-98-usd/">
+          Ngày 6-7/3/2018: Cơ hội chuyển tên miền về NameCheap chỉ với $3.98 USD
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- #widget-area-5 -->
+     </div>
+     <div class="widget-area" id="widget-area-6" role="complementary">
+      <div class="widget widget_athemes_social_icons" id="athemes_social_icons-2">
+       <h3 class="widget-title">
+        <span>
+         Kết nối
+        </span>
+       </h3>
+       <ul class="clearfix widget-social-icons">
+        <li class="widget-si-twitter">
+         <a href="https://nguoichuweb.com/" title="Twitter">
+          <i class="ico-twitter">
+          </i>
+         </a>
+        </li>
+        <li class="widget-si-facebook">
+         <a href="https://www.facebook.com/Nguoichuwebcom-1991197594502115/" title="Facebook">
+          <i class="ico-facebook">
+          </i>
+         </a>
+        </li>
+        <li class="widget-si-linkedin">
+         <a href="https://nguoichuweb.com/" title="LinkedIn">
+          <i class="ico-linkedin">
+          </i>
+         </a>
+        </li>
+        <li class="widget-si-gplus">
+         <a href="https://plus.google.com/u/0/102400635420731896999" title="Google+">
+          <i class="ico-gplus">
+          </i>
+         </a>
+        </li>
+        <li class="widget-si-pinterest">
+         <a href="https://nguoichuweb.com/" title="Pinterest">
+          <i class="ico-pinterest">
+          </i>
+         </a>
+        </li>
+        <li class="widget-si-youtube">
+         <a href="https://www.youtube.com/channel/UCvpYe8G110gzKQTuPmi0O7w" title="YouTube">
+          <i class="ico-youtube">
+          </i>
+         </a>
+        </li>
+        <!-- .widget-social-icons -->
+       </ul>
+      </div>
+      <div class="widget widget_newsletterwidgetminimal" id="newsletterwidgetminimal-2">
+       <h3 class="widget-title">
+        <span>
+         Đăng ký nhận bản tin
+        </span>
+       </h3>
+       <div class="tnp tnp-widget-minimal">
+        <form action="https://nguoichuweb.com/?na=s" class="tnp-form" method="post" onsubmit="return newsletter_check(this)">
+         <input name="nr" type="hidden" value="widget-minimal">
+          <input class="tnp-email" name="ne" placeholder="Email" required="" type="email" value=""/>
+          <input class="tnp-submit" type="submit" value="Đăng Ký"/>
+         </input>
+        </form>
+       </div>
+      </div>
+      <!-- #widget-area-6 -->
+     </div>
+    </div>
+   </div>
+   <!-- #extra -->
+  </div>
+  <footer class="site-footer" id="colophon" role="contentinfo">
+   <div class="clearfix container">
+    <div class="site-info">
+     © 2020 Người Chủ Web. All rights reserved.
+    </div>
+    <!-- .site-info -->
+    <div class="site-credit">
+     Cảm ơn bạn đã ghé thăm NguoiChuWeb.com !
+    </div>
+    <!-- .site-credit -->
+   </div>
+   <!-- #colophon -->
+  </footer>
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1620108901388904&version=v2.3";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <!--facebook like and share js -->
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <!--google share and  like and e js -->
+  <script type="text/javascript">
+   window.___gcfg = {
+			  lang: 'en_US'
+			};
+
+			(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+				po.src = 'https://apis.google.com/js/plusone.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			})();
+  </script>
+  <!-- google share -->
+  <script type="text/javascript">
+   (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/platform.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+  </script>
+  <!--pinit js -->
+  <script src="//assets.pinterest.com/js/pinit.js" type="text/javascript">
+  </script>
+  <!-- twitter JS End -->
+  <script>
+   !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+  </script>
+  <script>
+   jQuery( document ).scroll(function( $ )
+		{
+	    	var y = jQuery(this).scrollTop();
+	      	if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))
+			{	 
+	       		if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-100)
+				{
+				  jQuery('.sfsi_plus_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+"px",position:"absolute"});
+				  jQuery('.sfsi_plus_outr_div').fadeIn(200);
+				  jQuery('.sfsi_plus_FrntInner').fadeIn(200);
+	       		}
+	       		else
+				{
+				   jQuery('.sfsi_plus_outr_div').fadeOut();
+				   jQuery('.sfsi_plus_FrntInner').fadeOut();
+ 			    }
+	    	}
+	  		else
+			{
+	       		if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-3)
+				{
+			        jQuery('.sfsi_plus_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+200+"px",position:"absolute"});
+	        		jQuery('.sfsi_plus_outr_div').fadeIn(200);
+					jQuery('.sfsi_plus_FrntInner').fadeIn(200);
+	    		}
+	  			else
+				{
+				    jQuery('.sfsi_plus_outr_div').fadeOut();
+	      			jQuery('.sfsi_plus_FrntInner').fadeOut();
+	       		}
+	 		} 
+		});
+  </script>
+  <link href="https://nguoichuweb.com/wp-includes/js/thickbox/thickbox.css?ver=5.0.10" id="thickbox-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://nguoichuweb.com/wp-content/plugins/list-category-posts//lcp_paginator.css?ver=5.0.10" id="lcp_paginator-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="https://nguoichuweb.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="https://nguoichuweb.com/wp-content/plugins/ultimate-social-media-plus/js/shuffle/modernizr.custom.min.js?ver=5.0.10" type="text/javascript">
+  </script>
+  <script src="https://nguoichuweb.com/wp-content/plugins/ultimate-social-media-plus/js/shuffle/jquery.shuffle.min.js?ver=5.0.10" type="text/javascript">
+  </script>
+  <script src="https://nguoichuweb.com/wp-content/plugins/ultimate-social-media-plus/js/shuffle/random-shuffle-min.js?ver=5.0.10" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/nguoichuweb.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/nguoichuweb.com\/wp-content\/plugins\/ultimate-social-media-plus\/"};
+var sfsi_plus_links = {"admin_url":"https:\/\/nguoichuweb.com\/wp-admin\/","plugin_dir_url":"https:\/\/nguoichuweb.com\/wp-content\/plugins\/ultimate-social-media-plus\/"};
+/* ]]> */
+  </script>
+  <script src="https://nguoichuweb.com/wp-content/plugins/ultimate-social-media-plus/js/custom.js?ver=5.0.10" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var wpcd_object = {"ajaxurl":"https:\/\/nguoichuweb.com\/wp-admin\/admin-ajax.php"};
+var wpcd_main_js = {"minutes":"ph\u00fat","seconds":"gi\u00e2y","hours":"gi\u1edd","day":"ng\u00e0y","week":"tu\u1ea7n","expired_text":"Khuy\u1ebfn m\u1ea1i n\u00e0y \u0111\u00e3 h\u1ebft h\u1ea1n!","word_count":"30","button_text":"Sao ch\u00e9p","after_copy":"\u0110\u00e3 sao ch\u00e9p","vote_success":"You have voted successfully!","vote_fail":"Voting failed!","vote_already":"You have voted already!"};
+/* ]]> */
+  </script>
+  <script src="https://nguoichuweb.com/wp-content/plugins/wp-coupons-and-deals/assets/js/main.js?ver=2.7.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","profile_error":"","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
+/* ]]> */
+  </script>
+  <script src="https://nguoichuweb.com/wp-content/plugins/newsletter/subscription/validate.js?ver=5.8.7" type="text/javascript">
+  </script>
+  <script src="https://nguoichuweb.com/wp-includes/js/wp-embed.min.js?ver=5.0.10" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var thickboxL10n = {"next":"Trang sau >","prev":"< Trang tr\u01b0\u1edbc","image":"\u1ea2nh","of":"c\u1ee7a","close":"\u0110\u00f3ng","noiframes":"T\u00ednh n\u0103ng n\u00e0y y\u00eau c\u1ea7u b\u1eadt frame. B\u1ea1n c\u00f3 th\u1ec3 \u0111\u00e3 t\u1eaft t\u00ednh n\u0103ng n\u00e0y ho\u1eb7c tr\u00ecnh duy\u1ec7t kh\u00f4ng h\u1ed7 tr\u1ee3.","loadingAnimation":"https:\/\/nguoichuweb.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+  </script>
+  <script src="https://nguoichuweb.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105" type="text/javascript">
+  </script>
+ </body>
+</html>
+<!-- Dynamic page generated in 2.398 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-07-17 03:21:17 -->

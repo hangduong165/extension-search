@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Righteous');
+.input:focus {
+    border-color: transparent;
+}
+
+#result .hero-body {
+    padding: 24px;
+}
+
+.search-results li {
+    margin-bottom: 5px;
+}
+
+.search-results li a {
+    padding: 7px 10px;
+    border-radius: 5px;
+    display: block;
+}
+
+.search-results li a:hover {
+    background-color: #F5F5F5;
+}
+
+.hero.is-white .pagination-link.is-current {
+    color: white !important;
+}
+
+
+/* ---- reset ---- */
+
+body {
+    margin: 0;
+    font: normal 75% 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+.text-logo strong {
+    font-family: 'Righteous' !important;
+    font-size: 250%;
+    font-weight: 300;
+}
+
+canvas {
+    display: block;
+    vertical-align: bottom;
+}
+
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    background-image: url("../images/img1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.output.active {
+    position: absolute;
+    z-index: 100;
+    margin-top: 5px;
+    background: #fff;
+    width: 100%;
+    padding: 10px;
+    max-height: 200px;
+    overflow-y: scroll;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.11);
+}
+
+.list:not(:last-child) {
+    border-bottom: 1px solid #eee;
+}
+
+.list {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    color: white;
+    padding: 15px 5px;
+    font-weight: 600;
+}
+
+.list:hover {
+    color: yellowgreen;
+}
+
+.home {
+text-color: black;
+}
+
+/*Footer*/
+.footer1 {
+  text-align: left;
+  padding: 3px;
+  background-color: #1E2629;
+  backdrop-filter: blur(20px);
+  color: #16a085;
+}
+
+.footer .has-text-grey{
+    font-size:15px;
+}
+
+#menu ul{
+    list-style-type: none;
+    text-align: center;
+    overflow: hidden;
+    width: 100%;
+}
+
+#menu li{
+     color: #34495e;
+     display: inline-block;
+     width: 120px;
+     height: 40px;
+     line-height: 35px;
+     margin-left: -5px;
+}
+#menu a {
+     text-decoration: none;
+     color: #16a085;
+     display: block;
+}
+
+#menu a:hover {
+     background: #34495e;
+     color: #16a085;
+}
+
+/*Button Test*/
+.button1 {
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 4px;
+  font-style: italic;
+}
+
+label[for="id_search_text"]{
+    display:none;
+}
+
+.alert1 {
+    padding: 10px;
+    background-color: #f44336;
+    color: white;
+    margin-bottom: 15px;
+    font-size: 25px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.closebtn {
+  color: #16a085;
+  float: right;
+  line-height: 1px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 50px;
+  text-align: right;
+}
+
+.closebtn:hover {
+  color: black;
+}
+/*Box Notification*/
+.box {
+  width: 50%;
+  height: 50%;
+  padding: 50px 50px;
+  border: 0px solid #fff;
+  font-family: sans-serif;
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(200px);
+  overflow: auto;
+}
+
+.fixed-top {
+    top:20%;
+    right:10%;
+    left:26%;
+    text-align:-webkit-left;
+    font-size: 15px;
+    font-family:sans-serif;
+}
+
+/*Login*/
+.containerLogin {
+    text-align: center;
+    color: black;
+    padding: 16px;
+}
+
+button {
+    background-color: #16a085;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    font-family: sans-serif;
+    text-color: white;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.ps{
+margin-bottom: 40px;
+}
+
+.ps a{
+text-align: center;
+display: inline-block;
+margin: 0 230px;
+width: 160px;
+height: 160px;
+overflow: hidden;
+border-radius: 60%;
+}
+
+.ps a img{
+width: 100%;
+filter: grayscale(100%);
+transition: 0.4s all;
+}
+
+.ps a:hover > img{
+filter: none;
+}
+
+.img1{
+background-image: url("../images/img8.jpg");
+}
+
+.form_create{
+    background-color:white;
+    width:100%;
+    position:absolute;
+    z-index:10;
+    top:10vh;
+    padding:10%;
+    font-size:15px;
+    border-radius:5%;
+
+}
+
+#hint_id_password1,
+#hint_id_username,
+#hint_id_password2 {
+    display:none;
+}
+label[for="id_username"],
+label[for="id_password1"],
+label[for="id_password2"]{
+    color:black;
+}
+span[class="asteriskField"] {
+    display:none;
+}
+
+.username {
+    font-size:20px;
+    color:white;
+    position:fixed;
+    top:5%;
+    left:90%;
+}
+
+#id_username,
+#id_password1,
+#id_password2,
+#id_password{
+    text-align:center;
+}
+
+.borderLogin {
+    border-style: groove;
+    border-radius: 10px;
+    text-align: left;
+    padding: 5px;
+    background-color: #16a085;
+    color: black;
+}
+
+.borderLogin1 a {
+    border-style: groove;
+    border-radius: 10px;
+    width: auto;
+    background-color: #16a085;
+    color: black;
+}
+
+

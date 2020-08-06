@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html data-n-head="%7B%22lang%22:%7B%22ssr%22:%22vi%22%7D%7D" data-n-head-ssr="" lang="vi">
+ <head>
+  <title>
+   Tạo một Django API trong vòng 20 phút - Viblo
+  </title>
+  <meta charset="utf-8" data-n-head="ssr"/>
+  <meta content="width=device-width, initial-scale=1" data-n-head="ssr" name="viewport"/>
+  <meta content="IE=edge" data-n-head="ssr" http-equiv="X-UA-Compatible"/>
+  <meta content="Viblo" data-n-head="ssr" name="application-name"/>
+  <meta content="Viblo" data-n-head="ssr" property="og:site_name"/>
+  <meta content="RKTOz1S8uxhAZHqaOsf6cSvT_pqnPHEyAnlTnlLiiok" data-n-head="ssr" name="google-site-verification"/>
+  <meta content="U3I1Yy84OGp3ZFprUTZCU1JrbjM4UT090" data-n-head="ssr" name="dmca-site-verification"/>
+  <meta content="#FFFFFF" data-n-head="ssr" name="msapplication-TileColor"/>
+  <meta content="/mstile-144x144.png" data-n-head="ssr" name="msapplication-TileImage"/>
+  <meta content="/mstile-70x70.png" data-n-head="ssr" name="msapplication-square70x70logo"/>
+  <meta content="/mstile-150x150.png" data-n-head="ssr" name="msapplication-square150x150logo"/>
+  <meta content="/mstile-310x150.png" data-n-head="ssr" name="msapplication-wide310x150logo"/>
+  <meta content="/mstile-310x310.png" data-n-head="ssr" name="msapplication-square310x310logo"/>
+  <meta content="article" data-hid="og:type" data-n-head="ssr" property="og:type"/>
+  <meta content="https://viblo.asia/p/tao-mot-django-api-trong-vong-20-phut-L4x5xO11lBM" data-hid="og:url" data-n-head="ssr" property="og:url"/>
+  <meta content="Viblo" data-hid="og:site_name" data-n-head="ssr" property="og:site_name"/>
+  <meta content="Tạo một Django API trong vòng 20 phút" data-hid="og:title" data-n-head="ssr" property="og:title"/>
+  <meta content="Django" data-hid="keywords" data-n-head="ssr" name="keywords"/>
+  <meta content="2020-03-16T14:53:51+07:00" data-hid="article:published_time" data-n-head="ssr" name="article:published_time"/>
+  <meta content="2020-07-31T18:00:12+07:00" data-hid="article:modified_time" data-n-head="ssr" name="article:modified_time"/>
+  <meta content="https://viblo.asia/u/vuduc" data-hid="article:author" data-n-head="ssr" name="article:author"/>
+  <meta content="Django" data-hid="article:tag" data-n-head="ssr" name="article:tag"/>
+  <meta content="Tạo một Django API trong vòng 20 phút" data-hid="twitter:title" data-n-head="ssr" name="twitter:title"/>
+  <meta content="Django là Python framework phổ biến nhất hiện nay, được thiết kế để cung cấp cho người dùng sự dễ sử dụng giống như Rails. Hãy cùng khám phá xem cách để xây dựng một API đơn giản nhanh như thế nào bằn..." data-hid="twitter:description" data-n-head="ssr" name="twitter:description"/>
+  <meta content="summary" data-hid="twitter:card" data-n-head="ssr" name="twitter:card"/>
+  <meta content="https://images.viblo.asia/d3a171f4-c790-4844-8b47-c0a89736cd7b.png" data-hid="og:image" data-n-head="ssr" property="og:image"/>
+  <meta content="Django là Python framework phổ biến nhất hiện nay, được thiết kế để cung cấp cho người dùng sự dễ sử dụng giống như Rails. Hãy cùng khám phá xem cách để xây dựng một API đơn giản nhanh như thế nào bằn..." data-hid="description" data-n-head="ssr" name="description"/>
+  <meta content="Django là Python framework phổ biến nhất hiện nay, được thiết kế để cung cấp cho người dùng sự dễ sử dụng giống như Rails. Hãy cùng khám phá xem cách để xây dựng một API đơn giản nhanh như thế nào bằn..." data-hid="og:description" data-n-head="ssr" property="og:description"/>
+  <link data-n-head="ssr" href="/rss" name="Viblo RSS Feed" rel="alternate" type="application/rss+xml"/>
+  <link data-n-head="ssr" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i|Open+Sans:400,400i,700,700i&amp;subset=vietnamese" rel="stylesheet"/>
+  <link crossorigin="anonymous" data-n-head="ssr" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" rel="stylesheet"/>
+  <link data-n-head="ssr" href="/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link data-n-head="ssr" href="/apple-touch-icon-57x57.png" rel="apple-touch-icon-precomposed" sizes="57x57"/>
+  <link data-n-head="ssr" href="/apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+  <link data-n-head="ssr" href="/apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+  <link data-n-head="ssr" href="/apple-touch-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+  <link data-n-head="ssr" href="/apple-touch-icon-60x60.png" rel="apple-touch-icon-precomposed" sizes="60x60"/>
+  <link data-n-head="ssr" href="/apple-touch-icon-120x120.png" rel="apple-touch-icon-precomposed" sizes="120x120"/>
+  <link data-n-head="ssr" href="/apple-touch-icon-76x76.png" rel="apple-touch-icon-precomposed" sizes="76x76"/>
+  <link data-n-head="ssr" href="/apple-touch-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
+  <link data-n-head="ssr" href="/favicon-196x196.png" rel="icon" sizes="196x196" type="image/png"/>
+  <link data-n-head="ssr" href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link data-n-head="ssr" href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link data-n-head="ssr" href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link data-n-head="ssr" href="/favicon-128.png" rel="icon" sizes="128x128" type="image/png"/>
+  <link data-hid="canonical" data-n-head="ssr" href="https://viblo.asia/p/tao-mot-django-api-trong-vong-20-phut-L4x5xO11lBM" rel="canonical"/>
+  <script data-n-head="ssr" type="application/ld+json">
+   {"@context":"https://schema.org","@type":"Article","image":["https://images.viblo.asia/d3a171f4-c790-4844-8b47-c0a89736cd7b.png","https://images.viblo.asia/d3a171f4-c790-4844-8b47-c0a89736cd7b.png"],"author":{"@type":"Person","name":"Vũ Đức","@id":"https://viblo.asia/u/vuduc","url":"https://viblo.asia/u/vuduc"},"keywords":"Django","headline":"Tạo một Django API trong vòng 20 phút","url":"https://viblo.asia/p/tao-mot-django-api-trong-vong-20-phut-L4x5xO11lBM","mainEntityOfPage":{"@type":"WebPage","@id":"https://viblo.asia/newest"},"publisher":{"@type":"Organization","name":"Viblo","logo":{"@type":"ImageObject","url":"https://viblo.asia/og-facebook-3.png"},"sameAs":["https://www.facebook.com/viblo.asia/"]},"datePublished":"2020-03-16T07:53:51.000Z","dateCreated":"2020-03-16T01:25:01.000Z","dateModified":"2020-07-31T11:00:12.000Z","description":"Django là Python framework phổ biến nhất hiện nay, được thiết kế để cung cấp cho người dùng sự dễ sử dụng giống như Rails. Hãy cùng khám phá xem cách để xây dựng một API đơn giản nhanh như thế nào bằng Django và thư viện có tên TastyPie. Thông qua đó, ta sẽ thấy được Django có thể làm một việc trở nên khó khăn như thế nào và ngược lại một việc có...","articleBody":"Django là Python framework phổ biến nhất hiện nay, được thiết kế để cung cấp cho người dùng sự dễ sử dụng giống như Rails. Hãy cùng khám phá xem cách để xây dựng một API đơn giản nhanh như thế nào bằng Django và thư viện có tên TastyPie. Thông qua đó, ta sẽ thấy được Django có thể làm một việc trở nên khó khăn như thế nào và ngược lại một việc có..."}
+  </script>
+  <link as="script" href="https://cdn.viblo.asia/_nuxt/62777eeeeebecc9042ac.js" rel="preload"/>
+  <link as="script" href="https://cdn.viblo.asia/_nuxt/4dffe31b4730cd957c13.js" rel="preload"/>
+  <link as="style" href="https://cdn.viblo.asia/_nuxt/dc741a6c92c5c0761880.css" rel="preload"/>
+  <link as="script" href="https://cdn.viblo.asia/_nuxt/ebacc991d84969f7c4d1.js" rel="preload"/>
+  <link as="style" href="https://cdn.viblo.asia/_nuxt/8d99a0f318b8a2f3cbab.css" rel="preload"/>
+  <link as="script" href="https://cdn.viblo.asia/_nuxt/f9a8c9ff77ee71dbc633.js" rel="preload"/>
+  <link as="style" href="https://cdn.viblo.asia/_nuxt/675946caf1a669356b0d.css" rel="preload"/>
+  <link as="script" href="https://cdn.viblo.asia/_nuxt/dbaf3325011289725e14.js" rel="preload"/>
+  <link href="https://cdn.viblo.asia/_nuxt/dc741a6c92c5c0761880.css" rel="stylesheet"/>
+  <link href="https://cdn.viblo.asia/_nuxt/8d99a0f318b8a2f3cbab.css" rel="stylesheet"/>
+  <link href="https://cdn.viblo.asia/_nuxt/675946caf1a669356b0d.css" rel="stylesheet"/>
+ </head>
+ <body>
+  <div data-server-rendered="true" id="__nuxt">
+   <div class="progress" data-v-223b411f="" style="width:0%;height:2px;background-color:#5488c7;opacity:0;">
+   </div>
+   <div id="__layout">
+    <div class="default" id="app-container">
+     <header class="main-navbar main-navbar__group py-1">
+      <div class="main-navbar__container container px-md-0">
+       <div class="main-navbar__left">
+        <a class="main-navbar__logo d-block mr-lg-5" href="/newest">
+         <img alt="Viblo" src="https://cdn.viblo.asia/_nuxt/img/fbfe575.svg"/>
+        </a>
+        <ul class="main-menu list-unstyled hidden-md-down">
+         <li class="main-menu__item">
+          <a class="link" href="/newest">
+           Posts
+          </a>
+         </li>
+         <li class="main-menu__item">
+          <a class="link" href="/questions">
+           <div class="el-badge badge-has-new">
+            Questions
+            <sup class="el-badge__content el-badge__content--undefined is-fixed" style="display:none;">
+            </sup>
+           </div>
+          </a>
+         </li>
+         <li class="main-menu__item">
+          <a class="link" href="/discussion">
+           Discussions
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="main-navbar__right">
+        <a class="link text-muted hidden-md-up mr-1" href="/search">
+         <i aria-hidden="true" class="fa fa-search">
+         </i>
+        </a>
+        <div class="sb hidden-sm-down flex-fill mr-1">
+         <input class="sb__input" placeholder="Search Viblo" value=""/>
+         <button class="btn btn-primary" style="display:;">
+          <i class="fa fa-search">
+          </i>
+         </button>
+         <i aria-hidden="true" class="fa fa-circle-o-notch fa-spin sb-icon" style="display:none;">
+         </i>
+         <i aria-hidden="true" class="fa fa-times sb-icon clr text-muted" style="display:none;">
+         </i>
+         <div class="sb__suggestions" style="display:none;">
+          <div>
+          </div>
+         </div>
+        </div>
+        <div class="main-navbar__group">
+         <span class="flyout announcement-flyout mr-1">
+          <div aria-hidden="true" class="el-popover el-popper flyout__popper" id="el-popover-1938" role="tooltip" style="width:undefinedpx;display:none;">
+           <!-- -->
+           <div class="flyout__header">
+            <div class="d-flex align-items-center justify-content-between">
+             <span class="text-dark">
+              Announcements
+             </span>
+             <!-- -->
+            </div>
+           </div>
+           <div class="flyout__body">
+            <div class="flyout__scroll el-scrollbar">
+             <div class="flyout__scroll-wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default">
+              <div class="el-scrollbar__view">
+               <div class="py-05 text-center">
+                <span>
+                 <i aria-hidden="true" class="fa fa-times">
+                 </i>
+                 No announcement yet.
+                </span>
+               </div>
+              </div>
+             </div>
+             <div class="el-scrollbar__bar is-horizontal">
+              <div class="el-scrollbar__thumb" style="width:0;transform:translateX(0%);ms-transform:translateX(0%);webkit-transform:translateX(0%);">
+              </div>
+             </div>
+             <div class="el-scrollbar__bar is-vertical">
+              <div class="el-scrollbar__thumb" style="height:0;transform:translateY(0%);ms-transform:translateY(0%);webkit-transform:translateY(0%);">
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="flyout__footer">
+            <div class="text-right">
+             <a class="announcement-flyout__all" href="/announcements">
+              All Announcements
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="el-badge">
+           <button class="el-button text-muted el-button--text" type="button">
+            <!-- -->
+            <i class="fa fa-info">
+            </i>
+            <!-- -->
+           </button>
+           <!-- -->
+          </div>
+         </span>
+         <!-- -->
+        </div>
+        <div class="main-navbar__group">
+         <!-- -->
+         <button class="el-button el-button--text" type="button">
+          <!-- -->
+          <i class="fa fa-sign-in">
+          </i>
+          <span>
+           Sign In/Sign up
+          </span>
+         </button>
+        </div>
+       </div>
+      </div>
+     </header>
+     <div id="main-content">
+      <div>
+       <div class="v-ctr-section promo__banner">
+        <a aria-ctr-enable="Viblo CV (New version)" href="https://cv.viblo.asia?utm_source=viblo&amp;utm_medium=top_banner" rel="noopener" target="_blank">
+         <div style="background-color:#FDF3EB;">
+          <div class="container px-0">
+           <img alt="Viblo CV (New version)" class="promo__banner__image" src="https://images.viblo.asia/full/b0890d9d-2a21-430d-b4ca-2cf9def6f9e5.png" style="max-height:undefinedpx;"/>
+          </div>
+         </div>
+        </a>
+       </div>
+       <!-- -->
+       <div class="container post-body position-relative">
+        <div class="row">
+         <div class="p-0 hidden-md-down col-lg-1">
+          <div class="post-actions d-flex flex-column align-items-center mx-auto">
+           <!-- -->
+           <div class="votes votes--side post-actions__vote mb-1">
+            <button class="icon-btn vote" title="Upvote">
+             <i aria-hidden="true" class="fa fa-caret-up">
+             </i>
+            </button>
+            <div class="points text-muted">
+             0
+            </div>
+            <button class="icon-btn vote" title="Downvote">
+             <i aria-hidden="true" class="fa fa-caret-down">
+             </i>
+            </button>
+           </div>
+           <div class="subscribe mb-2" data-v-3a0518d6="">
+            <button class="el-button post-actions__clip el-button--default" data-v-3a0518d6="" title="Clip this post" type="button">
+             <!-- -->
+             <i class="fa fa-paperclip">
+             </i>
+             <!-- -->
+            </button>
+           </div>
+           <div class="social-sharing mb-2 social-sharing--horizontal social-sharing--small" data-v-1b6678dc="">
+            <a class="link link--muted" data-v-1b6678dc="" rel="noopener" title="Share a link to this page on Facebook" tooltip-placement="right">
+             <i aria-hidden="true" class="fa fa-facebook" data-v-1b6678dc="">
+             </i>
+            </a>
+            <a class="link link--muted" data-v-1b6678dc="" rel="noopener" title="Share a link to this page on Twitter" tooltip-placement="right">
+             <i aria-hidden="true" class="fa fa-twitter" data-v-1b6678dc="">
+             </i>
+            </a>
+           </div>
+           <!-- -->
+           <!-- -->
+          </div>
+         </div>
+         <div class="post-body__main col-lg-8">
+          <article class="post-content">
+           <header class="mb-2">
+            <div class="d-sm-flex align-items-start mb-2">
+             <div class="post-author mb-2 mb-sm-0">
+              <a class="d-flex mr-05" href="/u/vuduc">
+               <div class="d-inline-block avatar-loading avatar--lg">
+               </div>
+              </a>
+              <div class="post-author__info overflow-hidden mr-1">
+               <div class="d-flex">
+                <div class="overflow-hidden flex-fix mr-05">
+                 <a class="text-bold post-author__name" href="/u/vuduc">
+                  Vũ Đức
+                 </a>
+                 <span class="text-muted">
+                  @vuduc
+                 </span>
+                </div>
+                <div class="subscribe">
+                 <button class="el-button el-button--mini-mini is-plain" type="button">
+                  <!-- -->
+                  <!-- -->
+                  <span>
+                   Follow
+                  </span>
+                 </button>
+                </div>
+               </div>
+               <div class="stats">
+                <span class="stats-item text-muted" title="Reputations: 23">
+                 <i aria-hidden="true" class="stats-item__icon fa fa-star">
+                 </i>
+                 23
+                </span>
+                <span class="stats-item text-muted" title="Followers: 1">
+                 <i aria-hidden="true" class="stats-item__icon fa fa-user-plus">
+                 </i>
+                 1
+                </span>
+                <span class="stats-item text-muted" title="Posts: 2">
+                 <i aria-hidden="true" class="stats-item__icon fa fa-pencil">
+                 </i>
+                 2
+                </span>
+               </div>
+              </div>
+             </div>
+             <div class="post-meta d-flex flex-column flex-wrap align-items-sm-end">
+              <div class="text-muted">
+               Published Mar 16th, 7:53 AM
+               <!-- -->
+               <span class="text-muted post-reading_time is-divide is-divide--fit" title="11 min read">
+                11 min read
+               </span>
+              </div>
+              <div class="d-flex align-items-center">
+               <div class="post-meta__item mr-1" title="Views: 279">
+                <i aria-hidden="true" class="el-icon-view post-meta__icon">
+                </i>
+                <span>
+                 279
+                </span>
+               </div>
+               <div class="post-meta__item mr-1" title="Scroll to Comments">
+                <button class="el-button el-button--text" type="button">
+                 <!-- -->
+                 <i class="fa fa-comments-o post-meta__icon">
+                 </i>
+                 <span>
+                  0
+                 </span>
+                </button>
+               </div>
+               <div class="post-meta__item" title="Show all Clips">
+                <button class="el-button el-button--text" type="button">
+                 <!-- -->
+                 <i class="fa fa-paperclip post-meta__icon">
+                 </i>
+                 <span>
+                  0
+                 </span>
+                </button>
+               </div>
+               <!-- -->
+              </div>
+             </div>
+            </div>
+            <h1 class="article-content__title">
+             Tạo một Django API trong vòng 20 phút
+            </h1>
+            <!-- -->
+           </header>
+           <div class="d-md-flex align-items-top justify-content-between">
+            <div class="tags" data-v-190ce5c0="">
+             <a class="el-tag tag_3wKND el-tag--info el-tag--medium" data-v-190ce5c0="" href="/tags/django">
+              Django
+             </a>
+            </div>
+            <div class="post__menu">
+             <div class="el-dropdown">
+              <button class="el-button text-muted p-0 el-button--text" title="Show more actions" type="button">
+               <!-- -->
+               <i class="post__menu__more el-icon-more-outline">
+               </i>
+               <!-- -->
+              </button>
+              <ul class="el-dropdown-menu el-popper el-dropdown-menu--medium" style="display:none;">
+               <!-- -->
+               <li class="el-dropdown-menu__item" tabindex="-1">
+                <!-- -->
+                <i aria-hidden="true" class="fa fa-flag-o pr-0 mr-05">
+                </i>
+                Report
+               </li>
+               <!-- -->
+               <!-- -->
+               <!-- -->
+               <!-- -->
+               <!-- -->
+               <!-- -->
+               <!-- -->
+              </ul>
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+           </div>
+           <!-- -->
+           <!-- -->
+           <div class="md-contents article-content__body my-2 flex-fill">
+            <p>
+             Django là Python framework phổ biến nhất hiện nay, được thiết kế để cung cấp cho người dùng sự dễ sử dụng giống như Rails. Hãy cùng khám phá xem cách để xây dựng một API đơn giản nhanh như thế nào bằng Django và thư viện có tên TastyPie. Thông qua đó, ta sẽ thấy được Django có thể làm một việc trở nên khó khăn như thế nào và ngược lại một việc có thể trở nên dễ dàng hơn như thế nào.
+            </p>
+            <p>
+             <strong>
+              Đối tượng hướng đến:
+             </strong>
+             Bạn nên có kiến thức cơ bản về REST API và CRUD. Kiến thức Python là một lợi thế nhưng không cần thiết. Bạn sẽ học được nó trong quá trình thực hành.
+Chúng ta sẽ xây dựng API cho ứng dụng web ghi chú tương tự Google Keep. Chúng ta sẽ xây dựng API REST-Ful với các CRUD endpoint, để tạo, đọc, cập nhật và xóa ghi chú. Tin tốt là thay vì tiếp cận các endpoint này một cách riêng lẻ, Django cho phép chúng ta ít nhiều tạo ra tất cả chúng bằng một thao tác.
+            </p>
+            <h1>
+             Thiết lập project
+            </h1>
+            <p>
+             Django chia công việc thành project và các app. Các project chứa các app, nhưng các app không nhất thiết thuộc về một project nhất định - ý tưởng này làm cho chúng có thể tái sử dụng các app trên các project khác nhau.
+            </p>
+            <p>
+             Trong tutorial này, chúng ta sẽ chỉ tạo một app trong một project, nhưng cấu trúc tệp có vẻ hơi kỳ lạ.
+            </p>
+            <p>
+             Cài đặt Python nếu bạn đã cài đặt, sau đó hãy cài đặt Django và tạo dự án của chúng ta:
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none">pip install Django
+django-admin startproject notable_django
+cd notable_django
+</code></pre>
+            <p>
+             Tiếp theo, chúng ta sẽ cài đặt TastyPie, thứ sẽ cung cấp cho chúng ta REST framework.
+            </p>
+            <p>
+             <code>
+              pip install django-tastypie
+             </code>
+            </p>
+            <p>
+             Cuối cùng, chúng ta có thể bắt đầu app trong project của chúng ta:
+            </p>
+            <p>
+             <code>
+              python manage.py startapp api
+             </code>
+            </p>
+            <p>
+             Trong thư mục notable_django, bây giờ bạn sẽ có hai thư mục con: một cũng được gọi là notable_django và một thư mục khác có tên api (cũng như có một tệp
+             <a href="http://manage.py" target="_blank">
+              manage.py
+             </a>
+             ).
+            </p>
+            <p>
+             Sự khác biệt giữa hai thư mục có thể được hiểu như thế này: notable_django chứa các cài đặt cho cấu hình của project, cũng như các URL. Thư mục api sẽ xử lý API thực tế.
+            </p>
+            <p>
+             Trước khi tiếp tục, chúng ta phải cài đặt app trong project, bên trong notable_django / settings-py:
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none"># notable_django/settings.py
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'api'
+]
+</code></pre>
+            <p>
+             Một lần nữa, project của chúng ta có thể có nhiều app được cài đặt - và những app đó không nhất thiết phải gắn với project đó. Project của chúng ta ở đây là notable_django và app của chúng ta được gọi là api.
+            </p>
+            <h1>
+             Model
+            </h1>
+            <p>
+             Điều đầu tiên chúng ta cần tạo là một model Note để tương tác.
+Đối với những người không quen thuộc với các model, mô tả dưới đây từ Django có thể giúp ích:
+            </p>
+            <blockquote>
+             <p>
+              Một model là nguồn thông tin duy nhất, dứt khoát về dữ liệu của bạn. Nó chứa các trường và hành vi thiết yếu của dữ liệu bạn lưu trữ. Nói chung, mỗi model ánh xạ tới một bảng cơ sở dữ liệu.
+             </p>
+            </blockquote>
+            <p>
+             Django đặc biệt (so với một framework như Ruby on Rails) ở chỗ việc migrations của bạn tuân theo cách bạn định nghĩa model của mình, thay vì được định nghĩa riêng biệt.
+            </p>
+            <p>
+             Chúng ta sẽ tạo model Note của mình và sau đó chạy migration để thiết lập cơ sở dữ liệu của chúng ta với bảng note (với tất cả các trường thích hợp).
+            </p>
+            <p>
+             Hãy tạo model của chúng ta, trong api /
+             <a href="http://model.py" target="_blank">
+              model.py
+             </a>
+             :
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none"># api/models.py
+class Note(models.Model):
+    title = models.CharField(max_length=200)
+    body = models.TextField()
+    created_at = models.DateTimeField(auto_now_add=True)
+</code></pre>
+            <p>
+             Chúng ta định nghĩa các field cùng với kiểu dữ liệu của chúng.
+            </p>
+            <p>
+             Điều tiếp theo chúng ta muốn làm là thêm phương thức
+             <strong>
+              str
+             </strong>
+             vào mô hình. Phương thức này xác định những gì chúng ta nhận được khi chúng ta yêu cầu một thể hiện cụ thể của một model.
+            </p>
+            <p>
+             Ví dụ:
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none"># api/models.py
+class Note(models.Model):
+    title = models.CharField(max_length=200)
+    body = models.TextField()
+    created_at = models.DateTimeField(auto_now_add=True)
+def __str__(self):
+        return self.title
+</code></pre>
+            <p>
+             Trong ví dụ thì phương thức
+             <strong>
+              str
+             </strong>
+             có nghĩa là khi chúng ta lấy bất kỳ model Note nào, chúng ta sẽ thấy được tiêu đề. Điều này chỉ giữ cho mọi thứ rõ ràng. (Chúng ta sẽ chỉ tương tác với các model theo cách này thông qua Python shell, vì vậy nó không quá cần thiết nhưng lại rất tốt để nhận biết).
+            </p>
+            <p>
+             Hãy mở rộng phương thức
+             <strong>
+              str
+             </strong>
+             để bao gồm cả body:
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none"># api/models.py
+class Note(models.Model):
+    title = models.CharField(max_length=200)
+    body = models.TextField()
+    created_at = models.DateTimeField(auto_now_add=True)
+def __str__(self):
+        return f'{self.title} {self.body}'
+</code></pre>
+            <p>
+             Được rồi, model của chúng ta tất cả đã được thiết lập. Bây giờ hãy chạy migrations để thiết lập cơ sở dữ liệu của chúng ta.
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none">python manage.py makemigrations
+python manage.py migrate
+</code></pre>
+            <p>
+             Tiếp theo chèn một note mới vào trong cơ sở dữ liệu bằng python shell:
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none">python manage.py shell
+&gt;&gt;&gt; from api.models import Note
+&gt;&gt;&gt; note = Note(title="First Note", body="This is certainly noteworthy")
+&gt;&gt;&gt; note.save()
+&gt;&gt;&gt; Note.objects.all()
+&lt;QuerySet [&lt;Note: First Note This is certainly noteworthy&gt;]&gt;
+&gt;&gt;&gt; exit()
+</code></pre>
+            <p>
+             Chúng ta tạo note mới, lưu nó, sau đó lấy tất cả các note trong cơ sở dữ liệu. Bạn có thể thấy phương thức
+             <strong>
+              str
+             </strong>
+             của chúng ta trả lại cả tiêu đề và nội dung.
+            </p>
+            <p>
+             (Nếu bạn muốn tìm hiểu thêm về trình quản lý Note.objects, xem
+             <a href="https://docs.djangoproject.com/en/3.0/topics/db/managers/#django.db.models.Manager" target="_blank">
+              tại đây
+             </a>
+             ).
+            </p>
+            <h1>
+             API-ification
+            </h1>
+            <p>
+             Được rồi, vậy là model và cơ sở dữ liệu của chúng ta đã sẵn sàng. Bây giờ chúng ta sẽ xây dựng một số endpoint để có thể tương tác với dữ liệu trong cơ sở dữ liệu.
+            </p>
+            <p>
+             Một trong những điều cơ bản của API RESTful là ý tưởng về tài nguyên. Thuật ngữ này khá trừu tượng, nhưng trong ngữ cảnh này, nó đề cập đến một lớp nằm giữa các URL và các model của chúng ta.
+            </p>
+            <p>
+             Một người dùng sẽ gửi request đến endpoint. Tùy thuộc vào URL, người dùng sẽ được chuyển hướng đến một tài nguyên cụ thể, sau đó sẽ thực hiện hành động CRUD phù hợp trên model.
+            </p>
+            <p>
+             Một lần nữa, đây là một lời giải thích đơn giản về một chủ đề phức tạp - hãy xem nó trong thực tế như thế nào:
+            </p>
+            <p>
+             Trong thư mục api, hãy tạo một tệp mới có tên là
+             <a href="http://resource.py" target="_blank">
+              resource.py
+             </a>
+             .
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none"># api/resources.py
+from tastypie.resources import ModelResource
+from api.models import Note
+class NoteResource(ModelResource):
+    class Meta:
+        queryset = Note.objects.all()
+        resource_name = 'note'
+</code></pre>
+            <p>
+             Chúng ta import model Note và tạo một tài nguyên từ nó. queryset là tất cả các đối tượng ghi chú có trong cơ sở dữ liệu.
+            </p>
+            <p>
+             Chúng ta cũng đặt tên tài nguyên một cách thích hợp: 'note'. Điều này sẽ rất quan trọng đối với các URL.
+            </p>
+            <p>
+             Nói về điều đó, hãy cài đặt trong tập tin notable_django /
+             <a href="http://urls.py" target="_blank">
+              urls.py
+             </a>
+             :
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none">from django.conf.urls import url, include
+from django.contrib import admin
+from api.resources import NoteResource
+note_resource = NoteResource()
+urlpatterns = [
+    url('admin/', admin.site.urls),
+    url('api/', include(note_resource.urls)),
+]
+</code></pre>
+            <p>
+             Chúng ta nhập NoteResource của mình, khởi tạo nó và sau đó nói rằng chúng ta muốn tất cả các URL bắt đầu bằng api / để chuyển hướng đến tài nguyên. Và đừng quên import thư viện include nhé.
+            </p>
+            <h1>
+             Kiểm tra API
+            </h1>
+            <p>
+             Cuối cùng, chúng ta có thể chạy thử. Tuy nhiên, để kiểm tra API, chúng ta cần bắt chước các request của phía client. Để làm như vậy, chúng ta sẽ sử dụng một ứng dụng tuyệt vời có tên là Postman. Nó cho phép bạn thực hiện các yêu cầu HTTP đơn giản với các tham số và thông số tùy chỉnh. Bạn có thể tải nó
+             <a href="https://www.postman.com/" target="_blank">
+              ở đây
+             </a>
+             .
+            </p>
+            <p>
+             Bây giờ chúng ta hãy chạy project bằng câu lệnh sau:
+            </p>
+            <p>
+             <code>
+              python manage.py runserver
+             </code>
+            </p>
+            <p>
+             Bây giờ trong Postman, hãy gửi một request GET tới URL này:
+             <a href="http://localhost:8000/api/note/1" target="_blank">
+              http://localhost:8000/api/note/1
+             </a>
+             <img alt="" data-src="https://images.viblo.asia/d3a171f4-c790-4844-8b47-c0a89736cd7b.png" data-zoom-src="https://images.viblo.asia/full/d3a171f4-c790-4844-8b47-c0a89736cd7b.png" src="https://images.viblo.asia/d3a171f4-c790-4844-8b47-c0a89736cd7b.png" srcset="https://images.viblo.asia/retina/d3a171f4-c790-4844-8b47-c0a89736cd7b.png 2x"/>
+             Tuyệt vời! Endpoint GET của chúng ta đang hoạt động hoàn hảo. Dễ dàng phải không nào
+             <img alt="😃" class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/72x72/1f603.png">
+              )))
+             </img>
+            </p>
+            <p>
+             Bây giờ, hãy thử tạo ra một ghi chú mới từ Postman.
+            </p>
+            <h1>
+             POST, PUT, DELETE
+            </h1>
+            <p>
+             Chúng ta sẽ gửi một đối tượng JSON thô như ghi chú mới như thế này:
+             <img alt="" data-src="https://images.viblo.asia/b506fdee-1e3a-4445-a15e-c5796c9351e5.png" data-zoom-src="https://images.viblo.asia/full/b506fdee-1e3a-4445-a15e-c5796c9351e5.png" src="https://images.viblo.asia/b506fdee-1e3a-4445-a15e-c5796c9351e5.png" srcset="https://images.viblo.asia/retina/b506fdee-1e3a-4445-a15e-c5796c9351e5.png 2x"/>
+             Hãy chắc chắn rằng bạn chọn JSON từ chỗ danh sách màu cam! Điều này sẽ đặt Content-Type header (mà bạn có thể xem trong tab Header).
+            </p>
+            <p>
+             Ngoài ra, hãy đảm bảo bạn gửi yêu cầu tới
+             <a href="http://localhost:8000/api/note/" target="_blank">
+              http://localhost:8000/api/note/
+             </a>
+             , không phải
+             <a href="http://localhost:8000/api/note" target="_blank">
+              http://localhost:8000/api/note
+             </a>
+             . Dấu gạch chéo đó rất quan trọng, vì nếu không có nó Django sẽ chuyển hướng bạn và làm mất dữ liệu POST.
+            </p>
+            <p>
+             Giờ thử gửi yêu cầu đó và kết quả là ...... không thành công. Chúng ta nhận lại một lỗi 401 Unauthorized.
+            </p>
+            <p>
+             TastyPie bảo vệ các model và chỉ cho phép đọc, không sửa đổi dữ liệu.
+            </p>
+            <p>
+             Mặc dù vậy, có thể sửa lỗi này dễ dàng - import lớp Authorization vào trong resource của chúng ta.
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none"># api/resources.py
+from tastypie.resources import ModelResource
+from api.models import Note
+from tastypie.authorization import Authorization
+class NoteResource(ModelResource):
+    class Meta:
+        queryset = Note.objects.all()
+        resource_name = 'note'
+        authorization = Authorization()
+</code></pre>
+            <p>
+             Bây giờ nó đã hoạt động! Hãy thử gửi yêu cầu lại, và chúng ta nhận lại mã 201 Success!
+            </p>
+            <p>
+             Để kiểm tra lại, bạn có thể gửi yêu cầu GET tới
+             <a href="http://localhost:8000/api/note" target="_blank">
+              http://localhost:8000/api/note
+             </a>
+             . Bạn sẽ nhận được cả hai ghi chú.
+            </p>
+            <p>
+             Cảnh báo quan trọng: lớp Authorization của TastyPie, theo cách nói của họ, rất tốt cho phát triển - nhưng không phù hợp để triển khai thực tế. Bạn có thể tìm hiểu sâu hơn về ủy quyền của TastyPie
+             <a href="https://django-tastypie.readthedocs.io/en/latest/authorization.html" target="_blank">
+              tại đây
+             </a>
+             .
+            </p>
+            <h1>
+             Tất cả các endpoint
+            </h1>
+            <p>
+             Được rồi, vậy là chúng ta đã hoàn thành endpoint GET và POST. Còn PUT và DELETE thì sao?
+            </p>
+            <p>
+             Chà, điều kỳ diệu làTastyPie đã làm sẵn cho chúng ta. Hãy thử cập nhật hoặc xóa ghi chú đầu tiên của bạn bằng cách gửi yêu cầu PUT hoặc DELETE tới
+             <a href="http://localhost:8000/api/note/1/" target="_blank">
+              http://localhost:8000/api/note/1/
+             </a>
+             . Nó sẽ hoạt động!
+            </p>
+            <p>
+             Cứ như thế, chúng ta đã tạo ra một API RESTful.
+            </p>
+            <h1>
+             Giới hạn các trường
+            </h1>
+            <p>
+             Nếu bạn muốn chỉ gửi thông tin cụ thể, bạn có thể giới hạn các trường như sau:
+            </p>
+            <pre class="language-none" data-filename=""><code class="language-none">from tastypie.resources import ModelResource
+from api.models import Note
+from tastypie.authorization import Authorization
+class NoteResource(ModelResource):
+    class Meta:
+        queryset = Note.objects.all()
+        resource_name = 'note'
+        authorization = Authorization()
+        fields = ['title', 'body']
+</code></pre>
+            <p>
+             Bây giờ bạn sẽ không còn thấy trường created_at trong các request nữa.
+            </p>
+            <h1>
+             Tham khảo
+            </h1>
+            <p>
+             <a href="https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3" target="_blank">
+              https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3
+             </a>
+            </p>
+           </div>
+           <!-- -->
+           <div class="post-footer d-flex align-items-center justify-content-end mb-2">
+            <div class="social-sharing mr-1 social-sharing--vertical social-sharing--medium" data-v-1b6678dc="">
+             <a class="link link--muted" data-v-1b6678dc="" rel="noopener" title="Share a link to this page on Facebook" tooltip-placement="bottom">
+              <i aria-hidden="true" class="fa fa-facebook" data-v-1b6678dc="">
+              </i>
+             </a>
+             <a class="link link--muted" data-v-1b6678dc="" rel="noopener" title="Share a link to this page on Twitter" tooltip-placement="bottom">
+              <i aria-hidden="true" class="fa fa-twitter" data-v-1b6678dc="">
+              </i>
+             </a>
+            </div>
+            <div class="post__menu">
+             <div class="el-dropdown">
+              <button class="el-button text-muted p-0 el-button--text" title="Show more actions" type="button">
+               <!-- -->
+               <i class="post__menu__more el-icon-more-outline">
+               </i>
+               <!-- -->
+              </button>
+              <ul class="el-dropdown-menu el-popper el-dropdown-menu--medium" style="display:none;">
+               <!-- -->
+               <li class="el-dropdown-menu__item" tabindex="-1">
+                <!-- -->
+                <i aria-hidden="true" class="fa fa-flag-o pr-0 mr-05">
+                </i>
+                Report
+               </li>
+               <!-- -->
+               <!-- -->
+               <!-- -->
+               <!-- -->
+               <!-- -->
+               <!-- -->
+               <!-- -->
+              </ul>
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+           </div>
+          </article>
+         </div>
+         <div class="post-body__right px-0 hidden-md-down col-lg-3">
+          <div class="sticky-sidebar post-sidebar post-body__sidebar">
+           <div class="sticky-sidebar__inner">
+            <div class="post-index hidden-sm-down">
+             <div class="section-title-line">
+              <h4 class="text-uppercase">
+               Table of contents
+              </h4>
+              <hr class="filler-line"/>
+             </div>
+             <div class="el-alert el-alert--info is-light" role="alert">
+              <!-- -->
+              <div class="el-alert__content">
+               <!-- -->
+               <p class="el-alert__description">
+                Have no Table of contents
+               </p>
+               <!-- -->
+               <i class="el-alert__closebtn el-icon-close" style="display:none;">
+               </i>
+              </div>
+             </div>
+            </div>
+            <!-- -->
+            <br/>
+            <!-- -->
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+      </div>
+     </div>
+     <footer class="footer bg-dark">
+      <div class="container pt-2">
+       <div class="row">
+        <div class="mb-1 mb-md-0 col-md-4">
+         <h4 class="footer__header">
+          Resources
+         </h4>
+         <ul class="list-unstyled footer__links resources">
+          <li>
+           <a class="link active" href="/">
+            Posts
+           </a>
+          </li>
+          <li>
+           <a class="link" href="/organizations">
+            Organizations
+           </a>
+          </li>
+          <li>
+           <a class="link" href="/questions">
+            Questions
+           </a>
+          </li>
+          <li>
+           <a class="link" href="/tags">
+            Tags
+           </a>
+          </li>
+          <li>
+           <a class="link" href="/videos">
+            Videos
+           </a>
+          </li>
+          <li>
+           <a class="link" href="/authors">
+            Authors
+           </a>
+          </li>
+          <li>
+           <a class="link" href="/discussion">
+            Discussions
+           </a>
+          </li>
+          <li>
+           <a class="link" href="/explore">
+            Recommend System
+           </a>
+          </li>
+          <li>
+           <a class="link" href="/tools" rel="noopener" target="_blank">
+            Tools
+           </a>
+          </li>
+          <li>
+           <a class="link" href="https://machine-learning.viblo.asia/" rel="noopener" target="_blank">
+            Machine Learning
+           </a>
+          </li>
+          <li>
+           <a class="link" href="https://status.viblo.asia" rel="noopener" target="_blank">
+            System Status
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="mb-1 mb-md-0 col-md-3 offset-xl-1">
+         <h4 class="footer__header">
+          Services
+         </h4>
+         <ul class="list-unstyled footer__links service-badges">
+          <li class="footer__links__external-link">
+           <a class="link" href="https://code.viblo.asia" rel="noopener" target="_blank">
+            <img alt="Viblo CV" class="link-icon" src="/images/viblo-code.svg"/>
+            Viblo Code
+           </a>
+          </li>
+          <li class="footer__links__external-link">
+           <a class="link" href="https://cv.viblo.asia" rel="noopener" target="_blank">
+            <img alt="Viblo CV" class="link-icon" src="/images/viblo-cv.svg"/>
+            Viblo CV
+           </a>
+          </li>
+          <li class="footer__links__external-link">
+           <a class="link" href="https://ctf.viblo.asia" rel="noopener" target="_blank">
+            <img alt="Viblo CTF" class="link-icon" src="/images/viblo-ctf.png"/>
+            Viblo CTF
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="mb-1 mb-md-0 col-md-3 offset-md-1">
+         <h4 class="footer__header">
+          Mobile App
+         </h4>
+         <div class="d-flex mobile-app-badges mb-05">
+          <div class="d-flex flex-md-column justify-content-between flex-wrap">
+           <a class="d-block" href="https://play.google.com/store/apps/details?id=com.framgia.viblo.android.prod" rel="noopener" target="_blank">
+            <img alt="Get it on Google Play" class="play-store-badge" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"/>
+           </a>
+           <a class="d-block" href="https://itunes.apple.com/us/app/viblo/id1365286437" rel="noopener" target="_blank">
+            <img alt="Download on the App Store" class="app-store-badge" src="https://cdn.viblo.asia/_nuxt/img/2928664.svg"/>
+           </a>
+          </div>
+          <img alt="QR code" class="qr hidden-md-down" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAB8CAIAAAAkfEPpAAACEklEQVR42u3aUY6DMAwFQO5/6e4JKhXF7yUL488KBZhEcm1zfUQ9LgTQoYsC+hWIb+t/faCb19x9hp9Q0g7QoUOHXkZfShRDL/wLxMp9p9a5vT506NChb0RPJ8yVNaeSc9MBOnTo0N+CvgKdKI6gQ4cOHfoMysrzJBpz0KFDh/4E9EQimmqcJYqmR3UZoUOHDn1jgjrt98d+DQAdOvTHozcjsZGJxlzk3aFDhw69jN5Mqol10odjrDiCDh069DL6yjXpYfTUvarFIHTo0KEX0KcGAlMD6MSgIz0Qv10cQYcOHXoBfaphlG5UNRPs2AGFDh069I3oTaxE46xZfI19DQAdOnTog+iJwmQlwSaKo+ahgQ4dOvTT0acKimaynTpMS4cAOnTo0AvozRdrbmT6cNz+EwEdOnToG9F3DSjSSb45DIEOHTr0NnpiEJwoRtKIiaEKdOjQoZ+Inn7QxMZMDVjGng06dOjQD0FPFDVTiTqNODU0hw4dOvRT0CMNoOKHPitF1timQocOHXoBPR1TELuG6ZGGF3To0KEXvk+fiubQ+YRCb+nfC3To0KGH0BMJMz3QmDociQIQOnTo0E9BTyfM9NAg0fBa2jzo0KFDfxj6rmsSGwkdOnTob0dPI6Ybdo8qjqBDh/4q9PRgYaqQSQ/QoUOHDv2/oqcbQFPJNp14E4cJOnTo0BvoohPQoUMXofgD+J8kMHoXlkcAAAAASUVORK5CYII="/>
+         </div>
+         <h4 class="footer__header">
+          Links
+         </h4>
+         <ul class="list-unstyled footer__social-links">
+          <li class="footer__socail-links__external-link">
+           <a class="link" href="https://www.facebook.com/viblo.asia/" rel="noopener" target="_blank">
+            <i class="fa fa-facebook link-icon">
+            </i>
+           </a>
+          </li>
+          <li class="footer__socail-links__external-link">
+           <a class="link" href="https://github.com/viblo-asia/" rel="noopener" target="_blank">
+            <i class="fa fa-github link-icon">
+            </i>
+           </a>
+          </li>
+          <li class="footer__socail-links__external-link">
+           <a class="link" href="https://chrome.google.com/webstore/detail/viblos-news-feed/mliahmjgdpkkicelofhbhgiidgljijmj" rel="noopener" target="_blank">
+            <i class="fa fa-chrome link-icon">
+            </i>
+           </a>
+          </li>
+          <li class="footer__socail-links__external-link">
+           <a class="link" href="https://atom.io/packages/viblo" rel="noopener" target="_blank">
+            <img alt="Atom Icon" class="link-icon" src="/images/atom-editor.svg"/>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <hr class="footer__divider"/>
+       <div class="row py-1">
+        <div class="col-xs-12 col-sm-6 col-lg-6 col-xl-7">
+         <p class="copyright">
+          © 2020
+          <b>
+           Viblo
+          </b>
+          . All rights reserved.
+         </p>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-lg-8 col-xl-5">
+         <ul class="list-unstyled d-flex justify-content-between flex-wrap">
+          <li class="mb-05">
+           <a class="link" href="https://about.viblo.asia/" rel="noopener" target="_blank">
+            About Us
+           </a>
+          </li>
+          <li class="mb-05">
+           <a class="link" href="/feedback">
+            Feedback
+           </a>
+          </li>
+          <li class="mb-05">
+           <a class="link" href="/helps">
+            Help
+           </a>
+          </li>
+          <li class="mb-05">
+           <a class="link" href="/faq">
+            FAQs
+           </a>
+          </li>
+          <li class="mb-05">
+           <a class="link" href="/rss-channels">
+            RSS
+           </a>
+          </li>
+          <li class="mb-05">
+           <a class="link" href="/terms">
+            Terms
+           </a>
+          </li>
+          <li class="mb-05">
+           <a class="link dmca-badge" href="//www.dmca.com/Protection/Status.aspx?ID=41818fcd-5a60-4504-867a-38fde606354e" rel="noopener" target="_blank" title="DMCA.com Protection Status">
+            <img alt="DMCA.com Protection Status" src="https://images.dmca.com/Badges/dmca-badge-w100-5x1-07.png?ID=41818fcd-5a60-4504-867a-38fde606354e"/>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <!-- -->
+     </footer>
+     <!-- -->
+     <a class="hidden-sm-down" href="javascript:void(0);" id="top-btn">
+      <i aria-hidden="true" class="fa fa-arrow-up">
+      </i>
+     </a>
+    </div>
+   </div>
+  </div>
+  <script>
+   window.__NUXT__=(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C){i["19466"]={id:x,hash_id:"pmleG3LArKr",user_id:y,level:b,points:b,rated_value:b,commentable_type:"Series",commentable_id:792,in_reply_to_comment:a,in_reply_to_user:a,created_at:z,updated_at:z,deleted_at:a,contents:A,contents_short:A,user:{data:y}};j.root=[x];n["3669"]={is_own:c,commentators:{data:[]},contents_short:"Lambda Expression xuất hiện từ phiên bản Java 8 được giới thiệu là tính năng hữu ích nhất của phiên bản Java 8, nó làm đơn giản hóa việc phát triển mã nguồn hơn rất nhiều.\n\nVấn đề là Android chưa h...",organization:a};n["3672"]={is_own:c,commentators:{data:[{id:663,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Ftienbm.94",avatar:"cce3f9d0-bfc7-4efb-83c1-283a6eb160fd.jpg",name:"TienBM",username:"tienbm.94",followers_count:b,reputation:b,posts_count:b,banned_at:a},{id:9860,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Fnqhai.it93",avatar:a,name:o,username:"nqhai.it93",followers_count:b,reputation:b,posts_count:b,banned_at:a},{id:14753,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Ffukemy",avatar:a,name:"Đỗ Dũng",username:"fukemy",followers_count:b,reputation:b,posts_count:b,banned_at:a}]},contents_short:"Reactive Programming là lập trình với các dòng dữ liệu bất đồng bộ. Sau khi đọc hàng chục bài viết, cày nát hàng trăm đoạn mô tả định nghĩa thì cuối cùng mình cũng \"chưa hiểu gì\". Tất cả những gì m...",organization:a};n["3926"]={is_own:c,commentators:{data:[{id:8790,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Fhainq.it93",avatar:a,name:o,username:"hainq.it93",followers_count:b,reputation:b,posts_count:b,banned_at:a}]},contents_short:"GIỚI THIỆU\n\nGlide là một thư viện open source hỗ trợ load ảnh trên Android. Dùng Glide sẽ đơn giản hóa các công việc mà bạn cần làm khi sử dụng một bức ảnh trong Android đi rất nhiều. Chúng ta khôn...",organization:a};n["4148"]={is_own:c,commentators:{data:[]},contents_short:"I. MỞ ĐẦU\n\nĐã khi nào bạn lập trình một ứng dụng Android mà ở đó bạn thường sử dụng một nhóm các views giống nhau tại nhiều layout khác nhau trong ứng dụng chưa? Ví dụ như cụm view chọn ngày mà bạn...",organization:a};n["4370"]={is_own:c,commentators:{data:[{id:83,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Fkienvt",avatar:a,name:"Vu Trung Kien",username:"kienvt",followers_count:b,reputation:b,posts_count:b,banned_at:a},{id:133,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Fhungtdo",avatar:"1e544564-565e-49f9-96ee-0856195bd0ed.jpg",name:"Do Hung",username:"hungtdo",followers_count:b,reputation:b,posts_count:b,banned_at:a}]},contents_short:"I.\tGIỚI THIỆU\n\nTình cờ một hôm đi làm sớm được anh TuyenBQ – anh bên đội iOS cùng team Zenrin với mình chia sẻ một bài viết “REALM – A MOBILE DATABASE AND A REPLACEMENT FOR SQLITE & CORE DATA” do c...",organization:a};n["4742"]={is_own:c,commentators:{data:[]},contents_short:"GIỚI THIỆU\n\nXin chào các bạn, hiện giờ là tháng 5 năm 2016 sau công nguyên, xu hướng của những chiếc điện thoại thông minh hiện nay là màn hình lớn 5 inches trở lên, độ phân giản 4K, camera trung b...",organization:a};n["5038"]={is_own:c,commentators:{data:[{id:1350,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Fgaubdeodeptrai",avatar:a,name:"Anh Vu",username:"gaubdeodeptrai",followers_count:b,reputation:b,posts_count:b,banned_at:a}]},contents_short:"GIỚI THIỆU\n\nFirebase Notification là một dịch vụ miễn phí của Firebase mà bạn có thể dùng nó để Push Notifications đến các thiết bị di động của người dùng một cách nhanh chóng.\n\nFirebase Notificati...",organization:a};n["7064"]={is_own:c,commentators:{data:[]},contents_short:"I. GIỚI THIỆU\n\nFirebase Storage là dịch vụ được xây dựng cho mục đích lưu trữ và quản lý các nội dung mà người dùng ứng dụng tạo ra như ảnh, videos hay dữ liệu dạng file.\n\nFirebase Storage cung cấp...",organization:a};n["7883"]={is_own:c,commentators:{data:[]},contents_short:"\n\nNếu tôi đưa cho bạn source code của một ứng dụng Android và yêu cầu bạn cho tôi biết các thông tin về ứng dụng như minSdkVersion, targetVersion, permissions ... hầu hết mọi người biết code Androi...",organization:a};n["8413"]={is_own:c,commentators:{data:[]},contents_short:"Admob là một nền tảng quảng cáo trên mobile của Google và là cách dễ dàng để kiếm tiền từ ứng dụng di động.\n\nAdmob giúp bạn kiếm tiền bằng cách hiển thị quảng cáo bên trong app của bạn. Quảng cáo c...",organization:a};n["8951"]={is_own:c,commentators:{data:[]},contents_short:"Hi mọi người, nghe cái title có vẻ nguy hiểm phết nhỉ, nhưng thử xem chúng ta có thể là được gì nguy hiểm với cái Firebase Remote config này không nhé.\n\nTrước đây có thể bạn gặp tình huống là muốn ...",organization:a};n["9501"]={is_own:c,commentators:{data:[{id:13554,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Fbongdem_master",avatar:a,name:"Café Nâu",username:"bongdem_master",followers_count:b,reputation:b,posts_count:b,banned_at:a}]},contents_short:"TẠI SAO PHẢI THAY THẾ ENUM?\n\nAndroid Team khuyến cáo rằng bạn nên tránh sử dụng enums bất cứ khi nào bạn có thể.\nEnums rất tiện lợi trong Java nhưng không may mắn nó có thể là nỗi đau khi mà kích t...",organization:a};n["10091"]={is_own:c,commentators:{data:[]},contents_short:"Xin chào các bạn, bạn có một ứng dụng Android với hàng triệu người dùng, mỗi ngày có hàng ngàn lượt cài đặt mới và hàng chục triệu action trên ứng dụng của bạn. Bạn cũng mong muốn thống kê được các...",organization:a};n["10678"]={is_own:c,commentators:{data:[]},contents_short:"Khi chúng ta bắt đầu làm quen với lập trình ứng dụng Android, chúng ta đã học được rằng không thể chỉ truyền  object references giữa các activities hoặc fragments mà phải đặt nó vào trong Intent\u002FBu...",organization:a};n["11177"]={is_own:c,commentators:{data:[{id:18500,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Fhieutrung",avatar:"c3ed6f82-3b35-4299-a932-1e60c2cf5c98.jpg",name:"Nguyen Trung Hieu",username:"hieutrung",followers_count:b,reputation:b,posts_count:b,banned_at:a}]},contents_short:"Khi bạn làm việc với Android, sẽ có nhiều trường hợp mà bạn muốn tạo một thread từ Activity hoặc Service để thực thi một công việc dài hơi như load dữ liệu từ mạng chẳng hạn. Trong các tình huống đ...",organization:a};n["11909"]={is_own:c,commentators:{data:[{id:17242,url:"https:\u002F\u002Fviblo.asia\u002Fu\u002Fman",avatar:a,name:"super",username:"man",followers_count:b,reputation:b,posts_count:b,banned_at:a}]},contents_short:"![](https:\u002F\u002Fcdn-images-1.medium.com\u002Fmax\u002F800\u002F1*7B4TQuwt8MV0kMLCsmchWw.jpeg)\n\n\n\nThông thường chúng ta sẽ xây dựng các objects tại một nơi, nó có thể là một method constructor, builder, static factory method, abstract factory method hoặc bất kỳ một Creational Patterns nào khá...",organization:a};n["12436"]={is_own:c,commentators:{data:[]},contents_short:"Dưới đây là một số các định danh có thể nhận được bằng cách viết code trên Android mà chúng ta có thể sử dụng để định danh một thiết bị hoặc cài đặt. Tôi đã cố gắng cung cấp một chút thông tin về m...",organization:a};n["13002"]={is_own:c,commentators:{data:[]},contents_short:"Dưới đây là một vài thủ thuật, phím tắt cho Android Studio sẽ giúp bạn tăng hiệu quả công việc.\nNhững điều này mình nghĩ là cần thiết và rất hữu ích cho mọi người nên các bạn chưa biết có thể luyện...",organization:a};n["13569"]={is_own:c,commentators:{data:[]},contents_short:"Xin chào các bạn!\n\nTrong project tôi đang làm khách hàng có yêu cầu chia làm 3 phiên bản development, staging, production mỗi phiên bản lại có sự khác nhau về tính năng, các urls api ...\nSẽ có ngườ...",organization:a};n["14163"]={is_own:c,commentators:{data:[]},contents_short:"![](https:\u002F\u002Fviblo.asia\u002Fuploads\u002F2b4c7f13-21a4-473b-b423-02289ab77a07.png)\n\n\n\nChắc chắn khi làm việc với Android bạn sẽ thấy một cái gì đó tương tự bên dưới:\n\nHãy chú ý ký tự | giữa các giá trị options. Nó không phải ký tự phân tách ưa thích mà là toán tử bitwise dùng để k...",organization:a};p[0]=14163;p[1]=13569;p[2]=13002;p[3]=12436;p[4]=11909;p[5]=11177;p[6]=10678;p[7]=10091;p[8]=9501;p[9]=8951;p[10]=8413;p[11]=7883;p[12]=7064;p[13]=5038;p[14]=4742;p[15]=4370;p[16]=4148;p[17]=3926;p[18]=3672;p[19]=3669;q.total=44;q.count=g;q.per_page=g;q.current_page=r;q.total_pages=k;q.links={previous:"http:\u002F\u002Fcore_http:2015\u002Fusers\u002Fpham.xuan.lu\u002Fposts?page=1",next:"http:\u002F\u002Fcore_http:2015\u002Fusers\u002Fpham.xuan.lu\u002Fposts?page=3"};B.byId=n;B.all=p;B.pagination=q;C.byId=i;C.threads=j;return {layout:e,data:[{}],fetch:[],error:a,state:{announcements:{indicator:b,items:[],processing:c,pinnedItem:a},auth:{user:a,roles:a,lastSeens:a,guest:d,showAuthDialog:c,showLetRegister:d},badges:{items:{}},commentsList:{comments:{},pagination:{}},config:{analytics_track_id:"UA-88817199-1",banners:[{name:"Uiza",image:"https:\u002F\u002Fimages.viblo.asia\u002Ffull\u002F5ea6d89f-8377-4ef1-8888-ff2287b87d31.png",link:"https:\u002F\u002Fuiza.io?utm_source=viblo&utm_medium=top_banner",background_color:"#391282",active:d},{name:"Viblo Code",image:"https:\u002F\u002Fimages.viblo.asia\u002Ffull\u002F5ce3a357-fe69-4a26-8b31-be94aabbf254.png",link:"https:\u002F\u002Fcode.viblo.asia",background_color:"#5488c7",active:d},{name:"Viblo CTF",link:"https:\u002F\u002Fctf.viblo.asia",image:"https:\u002F\u002Fimages.viblo.asia\u002Ffull\u002F6f10ad1f-e602-4072-a664-004c6cd8407d.png",active:d,background_color:"#4878bf"},{name:"Viblo CV (New version)",image:"https:\u002F\u002Fimages.viblo.asia\u002Ffull\u002Fb0890d9d-2a21-430d-b4ca-2cf9def6f9e5.png",link:"https:\u002F\u002Fcv.viblo.asia?utm_source=viblo&utm_medium=top_banner",background_color:"#FDF3EB",active:d}],currentBannerIndex:k,motd:[{link:"https:\u002F\u002Fviblo.asia\u002Ffaq?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1",text:"\u003E\u003E\u003E Top 12 câu hỏi thường gặp về cách sử dụng Viblo \u003C\u003C\u003C"},{link:"https:\u002F\u002Fviblo.asia\u002Fhelps\u002Fcach-su-dung-markdown-bxjvZYnwkJZ?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1",text:"\u003E\u003E\u003E Có thể bạn chưa biết: Cú pháp viết bài trên Viblo như thế nào? \u003C\u003C\u003C"},{link:"https:\u002F\u002Fviblo.asia\u002Fhelps\u002Fviet-cong-thuc-toan-hoc-tren-viblo-gDVK2wbeZLj?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1",text:"\u003E\u003E\u003E Có thể bạn chưa biết: Cách viết công thức toán học trên Viblo \u003C\u003C\u003C"},{link:"https:\u002F\u002Fviblo.asia\u002Fhelps\u002Fcac-chuc-nang-chinh-cua-viblo-rQOvPKYnkYj?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1",text:"\u003E\u003E\u003E Các chức năng chính trên Viblo mà bạn nên biết! \u003C\u003C\u003C"},{link:"https:\u002F\u002Fviblo.asia\u002Fhelps\u002Fhe-thong-tinh-reputation-tren-viblo-6J3ZgkdxZmB?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1",text:"\u003E\u003E\u003E Chỉ số \"Reputations\" trên Viblo có ý nghĩa gì và được tính toán như thế nào?!! \u003C\u003C\u003C"},{text:"\u003E\u003E\u003E Promoting your Organization to Viblo's growing community \u003C\u003C\u003C",link:"https:\u002F\u002Fviblo.asia\u002Forganization-feature?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1"},{text:"\u003E\u003E\u003E February Update! Checkout Viblo's newest features \u003C\u003C\u003C",link:"https:\u002F\u002Fviblo.asia\u002Fp\u002Ftrai-nghiem-nhung-tinh-nang-moi-tren-viblo-voi-ban-update-thang-2-gAm5ya9w5db?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1"},{link:"https:\u002F\u002Fviblo.asia\u002Fauthors?sort=reputation&filter=week&utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1",text:"\u003E\u003E\u003E Cùng Viblo khám phá TOP AUTHORS nổi như cồn trong tuần vừa qua! \u003C\u003C\u003C"},{text:"\u003E\u003E\u003E Cách sử dụng chức năng Webhooks trên Viblo \u003C\u003C\u003C",link:"https:\u002F\u002Fviblo.asia\u002Fp\u002Fcach-su-dung-chuc-nang-webhooks-tren-viblo-RnB5pxDd5PG?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1"},{link:"https:\u002F\u002Fviblo.asia\u002Fannouncements\u002Fchinh-thuc-dua-vao-thu-nghiem-he-thong-tu-dong-phan-loai-bai-viet-spam-tren-viblo-3Q75wk2B5Wb?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1",text:"\u003E\u003E\u003E Tìm hiểu về hệ thống tự động phân loại bài viết Spam trên Viblo \u003C\u003C\u003C"},{text:"\u003E\u003E\u003E Bứt top HACKER bá đạo nhất trong tuần của Viblo CTF - Tham gia ngay! \u003C\u003C\u003C",link:"https:\u002F\u002Fctf.viblo.asia\u002Franking?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1"},{text:"\u003E\u003E\u003E Top 10 \"CAO THỦ\" trên Viblo Code trong tuần, tham gia bứt top CAO THỦ trên Viblo Code nào anh em! \u003C\u003C\u003C",link:"https:\u002F\u002Fcode.viblo.asia\u002Fleaderboard?utm_source=viblo&utm_medium=mod&utm_campaign=mod_2020q1"}],currentMotdIndex:a,currentBgIndex:a},hovercard:{all:{}},notifications:{data:[],batch:b,lastBatch:l,unread:b},organizationsUser:{organizations:[]},pageHistory:{current:{path:f,hash:m,params:{post:"tao-mot-django-api-trong-vong-20-phut-L4x5xO11lBM"},fullPath:f},previous:a},postHomeFeed:{byId:n,all:p,pagination:q,sidebar:{users:[],questions:[],organizations:[]}},postView:{post:{id:s,slug:t,transliterated:u,user_id:h,contents:"Django là Python framework phổ biến nhất hiện nay, được thiết kế để cung cấp cho người dùng sự dễ sử dụng giống như Rails. Hãy cùng khám phá xem cách để xây dựng một API đơn giản nhanh như thế nào bằng Django và thư viện có tên TastyPie. Thông qua đó, ta sẽ thấy được Django có thể làm một việc trở nên khó khăn như thế nào và ngược lại một việc có thể trở nên dễ dàng hơn như thế nào.\n\n**Đối tượng hướng đến:** Bạn nên có kiến thức cơ bản về REST API và CRUD. Kiến thức Python là một lợi thế nhưng không cần thiết. Bạn sẽ học được nó trong quá trình thực hành.\nChúng ta sẽ xây dựng API cho ứng dụng web ghi chú tương tự Google Keep. Chúng ta sẽ xây dựng API REST-Ful với các CRUD endpoint, để tạo, đọc, cập nhật và xóa ghi chú. Tin tốt là thay vì tiếp cận các endpoint này một cách riêng lẻ, Django cho phép chúng ta ít nhiều tạo ra tất cả chúng bằng một thao tác.\n# Thiết lập project\nDjango chia công việc thành project và các app. Các project chứa các app, nhưng các app không nhất thiết thuộc về một project nhất định - ý tưởng này làm cho chúng có thể tái sử dụng các app trên các project khác nhau.\n\nTrong tutorial này, chúng ta sẽ chỉ tạo một app trong một project, nhưng cấu trúc tệp có vẻ hơi kỳ lạ.\n\nCài đặt Python nếu bạn đã cài đặt, sau đó hãy cài đặt Django và tạo dự án của chúng ta:\n```\npip install Django\ndjango-admin startproject notable_django\ncd notable_django\n```\nTiếp theo, chúng ta sẽ cài đặt TastyPie, thứ sẽ cung cấp cho chúng ta REST framework.\n\n`pip install django-tastypie`\n\nCuối cùng, chúng ta có thể bắt đầu app trong project của chúng ta:\n\n`python manage.py startapp api`\n\nTrong thư mục notable_django, bây giờ bạn sẽ có hai thư mục con: một cũng được gọi là notable_django và một thư mục khác có tên api (cũng như có một tệp manage.py).\n\nSự khác biệt giữa hai thư mục có thể được hiểu như thế này: notable_django chứa các cài đặt cho cấu hình của project, cũng như các URL. Thư mục api sẽ xử lý API thực tế.\n\nTrước khi tiếp tục, chúng ta phải cài đặt app trong project, bên trong notable_django \u002F settings-py:\n```\n# notable_django\u002Fsettings.py\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'api'\n]\n```\nMột lần nữa, project của chúng ta có thể có nhiều app được cài đặt - và những app đó không nhất thiết phải gắn với project đó. Project của chúng ta ở đây là notable_django và app của chúng ta được gọi là api.\n\n# Model\nĐiều đầu tiên chúng ta cần tạo là một model Note để tương tác.\nĐối với những người không quen thuộc với các model, mô tả dưới đây từ Django có thể giúp ích:\n\u003E Một model là nguồn thông tin duy nhất, dứt khoát về dữ liệu của bạn. Nó chứa các trường và hành vi thiết yếu của dữ liệu bạn lưu trữ. Nói chung, mỗi model ánh xạ tới một bảng cơ sở dữ liệu.\n\u003E \n\nDjango đặc biệt (so với một framework như Ruby on Rails) ở chỗ việc migrations của bạn tuân theo cách bạn định nghĩa model của mình, thay vì được định nghĩa riêng biệt.\n\nChúng ta sẽ tạo model Note của mình và sau đó chạy migration để thiết lập cơ sở dữ liệu của chúng ta với bảng note (với tất cả các trường thích hợp).\n\nHãy tạo model của chúng ta, trong api \u002F model.py:\n```\n# api\u002Fmodels.py\nclass Note(models.Model):\n    title = models.CharField(max_length=200)\n    body = models.TextField()\n    created_at = models.DateTimeField(auto_now_add=True)\n```\nChúng ta định nghĩa các field cùng với kiểu dữ liệu của chúng.\n\nĐiều tiếp theo chúng ta muốn làm là thêm phương thức __str__ vào mô hình. Phương thức này xác định những gì chúng ta nhận được khi chúng ta yêu cầu một thể hiện cụ thể của một model.\n\nVí dụ:\n```\n# api\u002Fmodels.py\nclass Note(models.Model):\n    title = models.CharField(max_length=200)\n    body = models.TextField()\n    created_at = models.DateTimeField(auto_now_add=True)\ndef __str__(self):\n        return self.title\n```\nTrong ví dụ thì phương thức __str__ có nghĩa là khi chúng ta lấy bất kỳ model Note nào, chúng ta sẽ thấy được tiêu đề. Điều này chỉ giữ cho mọi thứ rõ ràng. (Chúng ta sẽ chỉ tương tác với các model theo cách này thông qua Python shell, vì vậy nó không quá cần thiết nhưng lại rất tốt để nhận biết).\n\nHãy mở rộng phương thức __str__  để bao gồm cả body:\n```\n# api\u002Fmodels.py\nclass Note(models.Model):\n    title = models.CharField(max_length=200)\n    body = models.TextField()\n    created_at = models.DateTimeField(auto_now_add=True)\ndef __str__(self):\n        return f'{self.title} {self.body}'\n```\nĐược rồi, model của chúng ta tất cả đã được thiết lập. Bây giờ hãy chạy migrations để thiết lập cơ sở dữ liệu của chúng ta.\n```\npython manage.py makemigrations\npython manage.py migrate\n```\nTiếp theo chèn một note mới vào trong cơ sở dữ liệu bằng python shell:\n```\npython manage.py shell\n\u003E\u003E\u003E from api.models import Note\n\u003E\u003E\u003E note = Note(title=\"First Note\", body=\"This is certainly noteworthy\")\n\u003E\u003E\u003E note.save()\n\u003E\u003E\u003E Note.objects.all()\n\u003CQuerySet [\u003CNote: First Note This is certainly noteworthy\u003E]\u003E\n\u003E\u003E\u003E exit()\n```\nChúng ta tạo note mới, lưu nó, sau đó lấy tất cả các note trong cơ sở dữ liệu. Bạn có thể thấy phương thức __str__ của chúng ta trả lại cả tiêu đề và nội dung.\n\n(Nếu bạn muốn tìm hiểu thêm về trình quản lý Note.objects, xem [tại đây](https:\u002F\u002Fdocs.djangoproject.com\u002Fen\u002F3.0\u002Ftopics\u002Fdb\u002Fmanagers\u002F#django.db.models.Manager)).\n# API-ification\nĐược rồi, vậy là model và cơ sở dữ liệu của chúng ta đã sẵn sàng. Bây giờ chúng ta sẽ xây dựng một số endpoint để có thể tương tác với dữ liệu trong cơ sở dữ liệu.\n\nMột trong những điều cơ bản của API RESTful là ý tưởng về tài nguyên. Thuật ngữ này khá trừu tượng, nhưng trong ngữ cảnh này, nó đề cập đến một lớp nằm giữa các URL và các model của chúng ta.\n\nMột người dùng sẽ gửi request đến endpoint. Tùy thuộc vào URL, người dùng sẽ được chuyển hướng đến một tài nguyên cụ thể, sau đó sẽ thực hiện hành động CRUD phù hợp trên model.\n\nMột lần nữa, đây là một lời giải thích đơn giản về một chủ đề phức tạp - hãy xem nó trong thực tế như thế nào:\n\nTrong thư mục api, hãy tạo một tệp mới có tên là resource.py.\n```\n# api\u002Fresources.py\nfrom tastypie.resources import ModelResource\nfrom api.models import Note\nclass NoteResource(ModelResource):\n    class Meta:\n        queryset = Note.objects.all()\n        resource_name = 'note'\n```\nChúng ta import model Note và tạo một tài nguyên từ nó. queryset là tất cả các đối tượng ghi chú có trong cơ sở dữ liệu.\n\nChúng ta cũng đặt tên tài nguyên một cách thích hợp: 'note'. Điều này sẽ rất quan trọng đối với các URL.\n\nNói về điều đó, hãy cài đặt trong tập tin notable_django \u002F urls.py:\n```\nfrom django.conf.urls import url, include\nfrom django.contrib import admin\nfrom api.resources import NoteResource\nnote_resource = NoteResource()\nurlpatterns = [\n    url('admin\u002F', admin.site.urls),\n    url('api\u002F', include(note_resource.urls)),\n]\n```\nChúng ta nhập NoteResource của mình, khởi tạo nó và sau đó nói rằng chúng ta muốn tất cả các URL bắt đầu bằng api \u002F để chuyển hướng đến tài nguyên. Và đừng quên import thư viện include nhé.\n# Kiểm tra API\nCuối cùng, chúng ta có thể chạy thử. Tuy nhiên, để kiểm tra API, chúng ta cần bắt chước các request của phía client. Để làm như vậy, chúng ta sẽ sử dụng một ứng dụng tuyệt vời có tên là Postman. Nó cho phép bạn thực hiện các yêu cầu HTTP đơn giản với các tham số và thông số tùy chỉnh. Bạn có thể tải nó [ở đây](https:\u002F\u002Fwww.postman.com\u002F).\n\nBây giờ chúng ta hãy chạy project bằng câu lệnh sau:\n\n`python manage.py runserver`\n\nBây giờ trong Postman, hãy gửi một request GET tới URL này: http:\u002F\u002Flocalhost:8000\u002Fapi\u002Fnote\u002F1\n![](https:\u002F\u002Fimages.viblo.asia\u002Fd3a171f4-c790-4844-8b47-c0a89736cd7b.png)\nTuyệt vời! Endpoint GET của chúng ta đang hoạt động hoàn hảo. Dễ dàng phải không nào :))))\n\nBây giờ, hãy thử tạo ra một ghi chú mới từ Postman.\n# POST, PUT, DELETE\nChúng ta sẽ gửi một đối tượng JSON thô như ghi chú mới như thế này:\n![](https:\u002F\u002Fimages.viblo.asia\u002Fb506fdee-1e3a-4445-a15e-c5796c9351e5.png)\nHãy chắc chắn rằng bạn chọn JSON từ chỗ danh sách màu cam! Điều này sẽ đặt Content-Type header (mà bạn có thể xem trong tab Header).\n\nNgoài ra, hãy đảm bảo bạn gửi yêu cầu tới http:\u002F\u002Flocalhost:8000\u002Fapi\u002Fnote\u002F, không phải http:\u002F\u002Flocalhost:8000\u002Fapi\u002Fnote. Dấu gạch chéo đó rất quan trọng, vì nếu không có nó Django sẽ chuyển hướng bạn và làm mất dữ liệu POST.\n\nGiờ thử gửi yêu cầu đó và kết quả là ...... không thành công. Chúng ta nhận lại một lỗi 401 Unauthorized.\n\nTastyPie bảo vệ các model và chỉ cho phép đọc, không sửa đổi dữ liệu.\n\nMặc dù vậy, có thể sửa lỗi này dễ dàng - import lớp Authorization vào trong resource của chúng ta.\n```\n# api\u002Fresources.py\nfrom tastypie.resources import ModelResource\nfrom api.models import Note\nfrom tastypie.authorization import Authorization\nclass NoteResource(ModelResource):\n    class Meta:\n        queryset = Note.objects.all()\n        resource_name = 'note'\n        authorization = Authorization()\n```\nBây giờ nó đã hoạt động! Hãy thử gửi yêu cầu lại, và chúng ta nhận lại mã 201 Success!\n\nĐể kiểm tra lại, bạn có thể gửi yêu cầu GET tới http:\u002F\u002Flocalhost:8000\u002Fapi\u002Fnote. Bạn sẽ nhận được cả hai ghi chú.\n\nCảnh báo quan trọng: lớp Authorization của TastyPie, theo cách nói của họ, rất tốt cho phát triển - nhưng không phù hợp để triển khai thực tế. Bạn có thể tìm hiểu sâu hơn về ủy quyền của TastyPie [tại đây](https:\u002F\u002Fdjango-tastypie.readthedocs.io\u002Fen\u002Flatest\u002Fauthorization.html).\n# Tất cả các endpoint\nĐược rồi, vậy là chúng ta đã hoàn thành endpoint GET và POST. Còn PUT và DELETE thì sao?\n\nChà, điều kỳ diệu làTastyPie đã làm sẵn cho chúng ta. Hãy thử cập nhật hoặc xóa ghi chú đầu tiên của bạn bằng cách gửi yêu cầu PUT hoặc DELETE tới http:\u002F\u002Flocalhost:8000\u002Fapi\u002Fnote\u002F1\u002F. Nó sẽ hoạt động!\n\nCứ như thế, chúng ta đã tạo ra một API RESTful.\n# Giới hạn các trường\nNếu bạn muốn chỉ gửi thông tin cụ thể, bạn có thể giới hạn các trường như sau:\n```\nfrom tastypie.resources import ModelResource\nfrom api.models import Note\nfrom tastypie.authorization import Authorization\nclass NoteResource(ModelResource):\n    class Meta:\n        queryset = Note.objects.all()\n        resource_name = 'note'\n        authorization = Authorization()\n        fields = ['title', 'body']\n```\nBây giờ bạn sẽ không còn thấy trường created_at trong các request nữa.\n# Tham khảo\nhttps:\u002F\u002Fcodeburst.io\u002Fcreate-a-django-api-in-under-20-minutes-2a082a60f6f3",moderation:a,preview:{image:"https:\u002F\u002Fimages.viblo.asia\u002Fd3a171f4-c790-4844-8b47-c0a89736cd7b.png",teaser:"Django là Python framework phổ biến nhất hiện nay, được thiết kế để cung cấp cho người dùng sự dễ sử dụng giống như Rails. Hãy cùng khám phá xem cách để xây dựng một API đơn giản nhanh như thế nào bằn...",contents:"Django là Python framework phổ biến nhất hiện nay, được thiết kế để cung cấp cho người dùng sự dễ sử dụng giống như Rails. Hãy cùng khám phá xem cách để xây dựng một API đơn giản nhanh như thế nào bằng Django và thư viện có tên TastyPie. Thông qua đó, ta sẽ thấy được Django có thể làm một việc trở nên khó khăn như thế nào và ngược lại một việc có..."},current_revision:a,reading_time:v,series_id:a,video_id:a,slide_url:m,last_edited_at:w,puzzle_hash_id:a},related:a,relatedOrganizations:a,fetchedAt:new Date(1596195328229),invalidated:c,series:a,proposals:[],video:a,tracking:a,comments:{byId:i,threads:j,loading:d}},profile:{profile:a,contact:{byId:i,threads:j,loading:d},followers:{current:[],pagination:{}},following:{current:[],pagination:{}},posts:B,questions:{byId:{},current:[],pagination:{}},skills:{skills:[]}},promoted:{users:{},posts:[],tags:[],currentSharingId:a},questionHomeFeed:{sidebar:{users:[],posts:[]}},questionView:{question:a,answers:{byId:{},all:[]},subscribers:[],invalidated:d,comments:C},seriesView:{series:{},posts:[],requests:[],comments:C},settings:{perPage:g,layout:"simple",theme:e,homepage:e},toast:{messages:[],newPosts:b},userRankings:{current:[],byId:{}},__modules:{comments:{},"post-feed":{},"question-feed":{byId:{},current:[],pagination:{}},"user-list":{current:[],pagination:{}}},__plugins:{pushNewPosts:{},pushNotifications:{}},__utils:{entities:{},schemas:{}},entities:{organizations:{all:{}},posts:{all:{"39440":{id:s,slug:t,title:"Tạo một Django API trong vòng 20 phút",transliterated:u,tags:{data:[{slug:"django",name:"Django"}]},user_id:h,canonical_url:"https:\u002F\u002Fviblo.asia\u002Fp\u002Ftao-mot-django-api-trong-vong-20-phut-L4x5xO11lBM",status:"public",promoted:c,trending:c,views_count:279,clips_count:b,comments_count:b,clipped:c,points:b,rated_value:a,created_at:"2020-03-16T08:25:01+07:00",updated_at:"2020-07-31T18:00:12+07:00",published_at:w,reading_time:v,can_share_social:d}}},questions:{all:{}},tags:{all:{}},users:{all:{"27392":{id:h,username:"vuduc",name:"Vũ Đức",avatar:a,following:c,reputation:23,followers_count:l,posts_count:r,questions_count:b,answers_count:b,banned_at:a}}}},organizationView:{followers:{current:[],pagination:{}},members:{current:[],pagination:{}},technologyStacks:{technologies:[]}},tagView:{followers:{current:[],pagination:{}},posts:B,questions:{byId:{},current:[],pagination:{}}},writeups:{puzzlePosts:{byId:{},all:[],pagination:{},puzzle:a}}},serverRendered:d,routePath:f}}(null,0,false,true,"default","\u002Fp\u002Ftao-mot-django-api-trong-vong-20-phut-L4x5xO11lBM",20,27392,{},{},3,1,"",{},"Nguyễn Quang Hải",Array(20),{},2,39440,"L4x5xO11lBM","tao-mot-django-api-trong-vong-20-phut",11,"2020-03-16T14:53:51+07:00",19466,33721,"2019-07-30T08:08:42+07:00","Hay quá!",{},{}));
+  </script>
+  <script defer="" src="https://cdn.viblo.asia/_nuxt/62777eeeeebecc9042ac.js">
+  </script>
+  <script defer="" src="https://cdn.viblo.asia/_nuxt/dbaf3325011289725e14.js">
+  </script>
+  <script defer="" src="https://cdn.viblo.asia/_nuxt/4dffe31b4730cd957c13.js">
+  </script>
+  <script defer="" src="https://cdn.viblo.asia/_nuxt/ebacc991d84969f7c4d1.js">
+  </script>
+  <script defer="" src="https://cdn.viblo.asia/_nuxt/f9a8c9ff77ee71dbc633.js">
+  </script>
+ </body>
+</html>
